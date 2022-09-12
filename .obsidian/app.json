@@ -14,7 +14,7 @@
     "en-AU",
     "en-GB"
   ],
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "pageSize": "A4",

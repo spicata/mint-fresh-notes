@@ -8,4 +8,6 @@ Several countries already have these repositories, while others are still underg
 
 For liquid nuclear waste, it is more difficult to store permanently in these repositories, as all the containers we are capable of building with eventually break during the thousands of years that these materials need to decay. As a result, liquid nuclear waste is currently vitrified into glass, however, there is uncertainty to how long nuclear glass can remain.
 
-« [8,b-Types-of-Nuclear-Waste-and-Storage](pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md)
+« [8,b-Types-of-Nuclear-Waste-and-Storage](8,b-Types-of-Nuclear-Waste-and-Storage.md)
+
+[Thorium](../2%20Literature%20Notes/Thorium.md)

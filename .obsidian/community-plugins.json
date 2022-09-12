@@ -32,5 +32,6 @@
   "cmdr",
   "workspaces-plus",
   "omnisearch",
-  "graph-analysis"
+  "graph-analysis",
+  "wikilinks-to-mdlinks-obsidian"
 ]
