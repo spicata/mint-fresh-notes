@@ -1,6 +1,42 @@
 {
+  "legacyEditor": false,
+  "livePreview": false,
+  "strictLineBreaks": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "showLineNumber": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_screenshots",
+  "spellcheckLanguages": [
+    "en-AU",
+    "en-GB"
+  ],
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "communityThemeSortOrder": "download",
+  "showFrontmatter": false,
+  "readableLineLength": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "rightToLeft": false,
+  "fileSortOrder": "alphabetical",
+  "userIgnoreFilters": [
+    "_data/",
+    "_includes/",
+    "_site/",
+    "_sass/",
+    "_layouts/",
+    "assets/"
+  ]
 }

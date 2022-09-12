@@ -4,7 +4,7 @@
 - There is no other great alternative.
 - Liquid radioactive materials can be made into glass.
 
-[[8,c-Repositories]]
+[[pages/3-Permanent-Notes/8,c-Repositories]]
 
 ---
 # Bibliography

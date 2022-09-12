@@ -1,17 +1,28 @@
 {
   "main": {
-    "id": "b4947a54096fb810",
+    "id": "94141e188c398eed",
     "type": "split",
     "children": [
       {
-        "id": "dfeb7da77bc378b1",
+        "id": "1e79249f35f2c99f",
         "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1e79249f35f2c99f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,c-Repositories.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8,c-Repositories.md",
+            "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -19,28 +30,36 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b9ee2079dc48118",
+    "id": "4ea5e222fcd8f1b0",
     "type": "split",
     "children": [
       {
-        "id": "7050029c4a9717fb",
+        "id": "7e460d48341137b1",
         "type": "tabs",
         "children": [
           {
-            "id": "09efafcbcf10154c",
+            "id": "9031433c1cc68c4f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
             }
           },
           {
-            "id": "d430de3a1b266fef",
+            "id": "79216ca039f67b55",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "pro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,36 +67,44 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "2315fb041bdc3f11",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5033760070801
   },
   "right": {
-    "id": "affd6249d9f0982f",
+    "id": "6e6bed1067815e25",
     "type": "split",
     "children": [
       {
-        "id": "79121180e4d4b013",
+        "id": "c620534039166d03",
         "type": "tabs",
         "children": [
           {
-            "id": "99422c0afe56101a",
+            "id": "a7a7b491a6adc637",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "66d899a4ef477941",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8,c-Repositories.md",
+                "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,35 +116,123 @@
             }
           },
           {
-            "id": "f2ebddc12b0c2722",
+            "id": "8822e43fe7eb2d44",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8,c-Repositories.md",
+                "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f3444082ed4b5c39",
+            "id": "a1b20ce0204f0923",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "toggl-report",
+              "state": {}
             }
           },
           {
-            "id": "65922be021799fc1",
+            "id": "a7258a853a197e96",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
-              "type": "outline",
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "49f0ab6d7f9459c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f63a354411791c3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "8,c-Repositories.md"
+                "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "-path:archive -path:Wallpaper",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Fleeting",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#Literature",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#Permanent",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:#Index",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "tag:#Project",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.20184487951807,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.20461219752433032,
+                  "close": true
+                }
               }
             }
           }
@@ -125,19 +240,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 457.5
   },
-  "active": "09efafcbcf10154c",
+  "active": "1e79249f35f2c99f",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": true
+  },
   "lastOpenFiles": [
-    "pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md",
-    "pages/3-Permanent-Notes/8,a,c-Thorium.md",
-    "8,c-Repositories.md",
-    "about.md",
-    "pages/3-Permanent-Notes/6 - Marxism (P).md",
-    "pages/3-Permanent-Notes/5 - Marxism (P).md",
-    "index.md",
-    "_posts/2020-07-09-post-example-with-headings-and-toc.md",
-    "_posts/2020-07-09-post-example-with-hr.md",
-    "_posts/2020-07-06-strange-post.md"
+    "notes/Mass Defect & Binding Energy.md",
+    "notes/4,5b - Mass Defect & Binding Energy.md",
+    "notes/1 Fleeting Notes/2022-09-05 - Science.md",
+    "notes/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
+    "notes/2 Literature Notes/Gamma Decay.md",
+    "notes/1 Fleeting Notes/Kafka Personal Life (F).md",
+    "notes/1 Fleeting Notes/Helium Stability (F).md",
+    "notes/1 Fleeting Notes/2022-08-30 Science (F).md",
+    "notes/2 Literature Notes/Teaching and Aboriginal (L).md",
+    "notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md"
   ]
 }
