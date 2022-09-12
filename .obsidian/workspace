@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "b4947a54096fb810",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfeb7da77bc378b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "8,c-Repositories.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b9ee2079dc48118",
+    "type": "split",
+    "children": [
+      {
+        "id": "7050029c4a9717fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09efafcbcf10154c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d430de3a1b266fef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2315fb041bdc3f11",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "affd6249d9f0982f",
+    "type": "split",
+    "children": [
+      {
+        "id": "79121180e4d4b013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99422c0afe56101a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8,c-Repositories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2ebddc12b0c2722",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "8,c-Repositories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3444082ed4b5c39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65922be021799fc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8,c-Repositories.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "09efafcbcf10154c",
+  "lastOpenFiles": [
+    "pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md",
+    "pages/3-Permanent-Notes/8,a,c-Thorium.md",
+    "8,c-Repositories.md",
+    "about.md",
+    "pages/3-Permanent-Notes/6 - Marxism (P).md",
+    "pages/3-Permanent-Notes/5 - Marxism (P).md",
+    "index.md",
+    "_posts/2020-07-09-post-example-with-headings-and-toc.md",
+    "_posts/2020-07-09-post-example-with-hr.md",
+    "_posts/2020-07-06-strange-post.md"
+  ]
+}

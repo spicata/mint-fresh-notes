@@ -1,0 +1,12 @@
+# 2 - Aboriginal Worldview, Land  #Permanent 
+In the Aboriginal worldview, the land holds great spiritual significance, and Aboriginal societies depend on it[^1], both physically and spiritually. These land are especially important as they are seen as the resting places of massive, ancient spirits.[^4] These spirits formed the land through their interactions, and are credited with teaching humanity about the Law[^5], and are the ancestors of everything that live in Australia.
+
+Everyone is thought to contain a part of these spirits[^3], and therefore responsible for the descendants. This focus inevitably led to a worldview focused on the long-term benefits and detriments, as it would (obviously) have a great impact on their lives[^2].
+
+« [[pages/3-Permanent-Notes/1 - Indigenous Philosophies (P)]] | [[pages/3-Permanent-Notes/3 - Aboriginal Worldview, Society (P)]] »
+
+[^1]: Similar to [[pages/3-Permanent-Notes/1 - Indigenous Philosophies (P)]]
+[^2]: **Elaborate**. Why does this have a great impact?
+[^3]: **Elaborate**. Why is this the case?
+[^4]: Is this the Dreaming?
+[^5]: What is the Law?
