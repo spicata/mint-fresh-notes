@@ -9,7 +9,7 @@ Alpha Decay | $^A_{Z}X\to^A_{Z+1}Y+^0_{-1}\beta$
 
 It often appears with gamma radiation ([[pages/3-Permanent-Notes/4,2a,2a - Gamma Decay]]). A prime example of beta decaying substance would be bismuth-214.
 
-« [[4-Alpha Decay]] | [[pages/3-Permanent-Notes/4,2b - Beta Decay Unlimited (P)]] »
+« [[4 - Alpha Decay]] | [[pages/3-Permanent-Notes/4,2b - Beta Decay Unlimited (P)]] »
 
 [^1]: Why then, does it sometimes undergo beta decay and sometimes alpha decay
 [^2]: Is this true? (It is not)

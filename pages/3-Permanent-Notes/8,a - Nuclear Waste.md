@@ -3,7 +3,7 @@ Despite what public knowledge may say, nuclear reactor produce very little waste
 
 Furthermore, what can be recycled of the depleted radioactive fuels is recycled into more radioactive fuels ([8,a,a - Nuclear Recycling](8,a,a%20-%20Nuclear%20Recycling.md)), which can continue to be reused within conventional nuclear reactors[^4].
 
-« [8-How-a-Nuclear-Reactor-Works](8-How-a-Nuclear-Reactor-Works.md) | [8,b-Types-of-Nuclear-Waste-and-Storage](8,b-Types-of-Nuclear-Waste-and-Storage.md) »
+« [8 - How a Nuclear Reactor Works](8%20-%20How%20a%20Nuclear%20Reactor%20Works.md) | [8,b-Types-of-Nuclear-Waste-and-Storage](8,b-Types-of-Nuclear-Waste-and-Storage.md) »
 
 [^1]: Why does fission produce so much energy.
 [^2]: What example?

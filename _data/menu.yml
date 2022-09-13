@@ -10,8 +10,9 @@ entries:
   
   - title: index
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+      - title: Nuclear Physics
+        url: pages/3-Permanent-Notes/4 - Alpha Decay
+      - title: Nuclear Power
+        url: pages/3-Permanent-Notes/8 - How a Nuclear Reactor Works
+      - title: Aboriginal Philosophy
+        url: pages/3-Permanent-Notes/1 - Indigenous Philosophies
