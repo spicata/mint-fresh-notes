@@ -10,4 +10,4 @@ For liquid nuclear waste, it is more difficult to store permanently in these rep
 
 « [8,b-Types-of-Nuclear-Waste-and-Storage](8,b-Types-of-Nuclear-Waste-and-Storage.md)
 
-[Thorium](../2%20Literature%20Notes/Thorium.md)
+[Thorium](../2%20Literature%20Notes/Thorium)

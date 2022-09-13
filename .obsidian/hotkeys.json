@@ -68,14 +68,7 @@
       "key": "S"
     }
   ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "L"
-    }
-  ],
+  "insert-template": [],
   "breadcrumbs:jump-to-first-up": [
     {
       "modifiers": [
@@ -336,5 +329,13 @@
     }
   ],
   "obsidian-key-sequence-shortcut:open-key-sequence-palette": [],
-  "obsidian-key-sequence-shortcut:insert-command-id": []
+  "obsidian-key-sequence-shortcut:insert-command-id": [],
+  "obsidian-hotkeys-for-templates:page-layout.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ]
 }

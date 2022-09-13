@@ -4,7 +4,7 @@
   "strictLineBreaks": true,
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes",
+  "newFileFolderPath": "pages",
   "showLineNumber": true,
   "promptDelete": false,
   "spellcheck": true,

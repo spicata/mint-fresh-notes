@@ -1,7 +1,15 @@
 {
-  "files": [],
+  "files": [
+    "page-layout.md"
+  ],
   "templaterFiles": [],
-  "newFileTemplates": [],
+  "newFileTemplates": [
+    {
+      "folder": "pages",
+      "path": "page-layout.md",
+      "plugin": "core"
+    }
+  ],
   "openNewFileTemplateInNewPane": true,
-  "useNewFileTemplateOnFileCreation": false
+  "useNewFileTemplateOnFileCreation": true
 }

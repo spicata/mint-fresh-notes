@@ -5,7 +5,7 @@ The nuclear reaction starts as soon as neutrons hits the radioactive substance, 
 
 Nuclear reactions, especially fission, are capable of generating large amounts of heat[^3]. Nuclear reactors and powerplants use this quality to generate electricity, by using this heat to evaporate water in vapour, which spins a turbine[^4], thus generating electricity. However, the nuclear chain reaction used in a nuclear powerplant can quickly get out of hand (see Chernobyl[^5]) and thus, to prevent overheating, water and control rods (made of radiation insulating material) are used. The water plays double duty (maybe triple) here, acting to control the heat in the reactor as well.
 
-[[pages/3-Permanent-Notes/8,a - Nuclear Waste]] »
+[8,a - Nuclear Waste](8,a%20-%20Nuclear%20Waste.md) »
 
 [^1]: Uranium-235 is the only natural isotope capable of undergoing nuclear fission
 [^2]: Why is done like this?

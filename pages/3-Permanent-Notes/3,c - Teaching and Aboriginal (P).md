@@ -15,7 +15,7 @@ Nature and geographical landmarks can act as a map or inspiration for a project,
 
 Furthermore, learning does not have to be verbal. On top of that, learning can be enhanced when students are encouraged to find meaning in the gaps, tones, and the motions, as these actions are ultimately say more that words can. Not only this,  but signs are also a great way to learn, such as the image shown underneath.
 
-![[Eight-Ways.png]]
+![Eight-Ways](../../_screenshots/Eight-Ways.png)
 
 These aspects are not static steps, but rather an interconnected and dynamic system of processes. On top of that, it could be more useful to tie ideas and words to symbols and images rather than other words, as these can represent concepts where languages fail us.
 

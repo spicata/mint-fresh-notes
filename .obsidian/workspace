@@ -4,23 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "1e79249f35f2c99f",
+        "id": "df9bb3081cfa3e02",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "1e79249f35f2c99f",
+              "leaf": "df9bb3081cfa3e02",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,c-Repositories.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_site/pages/3-Permanent-Notes/4-Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8-How-a-Nuclear-Reactor-Works.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":471},\"to\":{\"line\":5,\"ch\":471}}}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,a - Nuclear Waste.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,a - Nuclear Waste.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":29},\"to\":{\"line\":13,\"ch\":29}},\"scroll\":1.8391294512535534}"
+            },
+            {
+              "leaf": "df9bb3081cfa3e02",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
+            "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
             "mode": "source",
             "source": true
           }
@@ -104,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
+                "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
+                "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/8,c-Repositories.md",
+                "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -242,20 +290,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "1e79249f35f2c99f",
+  "active": "df9bb3081cfa3e02",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "notes/Mass Defect & Binding Energy.md",
-    "notes/4,5b - Mass Defect & Binding Energy.md",
-    "notes/1 Fleeting Notes/2022-09-05 - Science.md",
-    "notes/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
-    "notes/2 Literature Notes/Gamma Decay.md",
-    "notes/1 Fleeting Notes/Kafka Personal Life (F).md",
-    "notes/1 Fleeting Notes/Helium Stability (F).md",
-    "notes/1 Fleeting Notes/2022-08-30 Science (F).md",
-    "notes/2 Literature Notes/Teaching and Aboriginal (L).md",
-    "notes/3 Permanent Notes/3,c - Teaching and Aboriginal (P).md"
+    "_site/pages/3-Permanent-Notes/4-Alpha Decay.md",
+    "_site/pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
+    "pages/3-Permanent-Notes/4,3a - Why larger particles are less penetrative (P).md",
+    "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
+    "pages/3-Permanent-Notes/8-How-a-Nuclear-Reactor-Works.md",
+    "pages/3-Permanent-Notes/8,a - Nuclear Waste.md",
+    "pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md",
+    "_site/pages/3-Permanent-Notes/4,4a - After Decay (P).md",
+    "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md",
+    "pages/2 Literature Notes/Mass Defect & Binding Energy.md"
   ]
 }
