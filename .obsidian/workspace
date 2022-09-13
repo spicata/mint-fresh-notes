@@ -4,99 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df9bb3081cfa3e02",
+        "id": "0e16775c097a67a7",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "df9bb3081cfa3e02",
+              "leaf": "0e16775c097a67a7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/2 - Aboriginal Worldview, Land (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":22},\"to\":{\"line\":11,\"ch\":22}},\"scroll\":0}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/1 - Indigenous Philosophies.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":3.042523539658134}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8 - How a Nuclear Reactor Works.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,2a - Beta Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,b - Western Laws (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":389},\"to\":{\"line\":1,\"ch\":389}}}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_site/pages/3-Permanent-Notes/4-Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8 - How a Nuclear Reactor Works.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":471},\"to\":{\"line\":5,\"ch\":471}}}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,a - Nuclear Waste.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/8,a - Nuclear Waste.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":29},\"to\":{\"line\":13,\"ch\":29}},\"scroll\":1.8391294512535534}"
-            },
-            {
-              "leaf": "df9bb3081cfa3e02",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -104,30 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/2 - Aboriginal Worldview, Land (P).md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "f7b54654dcbcea8a",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "f7b54654dcbcea8a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/5 - Marxism (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/3-Permanent-Notes/5 - Marxism (P).md",
+            "file": "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
             "mode": "source",
             "source": true
           }
@@ -166,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "?",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,11 +68,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -211,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/5 - Marxism (P).md",
+                "file": "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/5 - Marxism (P).md",
+                "file": "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/5 - Marxism (P).md",
+                "file": "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -349,20 +244,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "f7b54654dcbcea8a",
+  "active": "0e16775c097a67a7",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3-Permanent-Notes/2 - Aboriginal Worldview, Land (P).md",
-    "pages/3-Permanent-Notes/1 - Indigenous Philosophies.md",
-    "pages/3-Permanent-Notes/8 - How a Nuclear Reactor Works.md",
-    "pages/3-Permanent-Notes/4 - Alpha Decay.md",
     "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
+    "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+    "pages/3-Permanent-Notes/1 - Indigenous Philosophies.md",
+    "pages/2 Literature Notes/1 - Indigenous Philosophies (L).md",
+    "pages/3-Permanent-Notes/2 - Aboriginal Worldview, Land (P).md",
+    "pages/3-Permanent-Notes/5 - Marxism (P).md",
+    "pages/3-Permanent-Notes/8 - How a Nuclear Reactor Works.md",
     "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
     "pages/3-Permanent-Notes/3,b - Western Laws (P).md",
-    "_site/pages/3-Permanent-Notes/4-Alpha Decay.md",
-    "_site/pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
-    "pages/3-Permanent-Notes/4,3a - Why larger particles are less penetrative (P).md"
+    "_site/pages/3-Permanent-Notes/4-Alpha Decay.md"
   ]
 }
