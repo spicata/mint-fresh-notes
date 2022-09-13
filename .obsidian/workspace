@@ -12,7 +12,7 @@
             {
               "leaf": "df9bb3081cfa3e02",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4-Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":167},\"to\":{\"line\":1,\"ch\":167}}}"
             },
             {
@@ -68,7 +68,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
+            "file": "pages/3-Permanent-Notes/4-Alpha Decay.md",
             "mode": "source",
             "source": true
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
+                "file": "pages/3-Permanent-Notes/4-Alpha Decay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
+                "file": "pages/3-Permanent-Notes/4-Alpha Decay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/4 - Alpha Decay (P).md",
+                "file": "pages/3-Permanent-Notes/4-Alpha Decay.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",

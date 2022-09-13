@@ -5,7 +5,7 @@ Alpha decay is the most common form of cluster decay, a type of decay where a nu
 
 On top of that, the protons and neutrons inherently form pseudo-helium nuclei inside of another nucleus[^3], and thus, when decaying, split off a helium nucleus.
 
-« [[pages/3-Permanent-Notes/4 - Alpha Decay (P)]]
+« [[4-Alpha Decay]]
 
 [^1]: What is the difference between fission and cluster decay?
 [^2]: Why though? Is it to do with the geometry?
