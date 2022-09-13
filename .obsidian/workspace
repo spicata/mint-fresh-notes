@@ -14,6 +14,18 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "0e16775c097a67a7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0e16775c097a67a7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             }
           ]
         },
@@ -249,15 +261,15 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
     "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+    "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
+    "Templates/page-layout.md",
     "pages/3-Permanent-Notes/1 - Indigenous Philosophies.md",
     "pages/2 Literature Notes/1 - Indigenous Philosophies (L).md",
     "pages/3-Permanent-Notes/2 - Aboriginal Worldview, Land (P).md",
     "pages/3-Permanent-Notes/5 - Marxism (P).md",
     "pages/3-Permanent-Notes/8 - How a Nuclear Reactor Works.md",
     "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
-    "pages/3-Permanent-Notes/3,b - Western Laws (P).md",
-    "_site/pages/3-Permanent-Notes/4-Alpha Decay.md"
+    "pages/3-Permanent-Notes/3,b - Western Laws (P).md"
   ]
 }
