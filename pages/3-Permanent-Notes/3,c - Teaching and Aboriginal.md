@@ -19,4 +19,4 @@ Furthermore, learning does not have to be verbal. On top of that, learning can b
 
 These aspects are not static steps, but rather an interconnected and dynamic system of processes. On top of that, it could be more useful to tie ideas and words to symbols and images rather than other words, as these can represent concepts where languages fail us.
 
-« [3,b - Western Laws](3,b%20-%20Western%20Laws.md)
+« [3,b - Western Laws](3,b%20-%20Western%20Laws)

@@ -4,58 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "3e3459f84ff917ff",
+        "id": "4bf56c892b8224e0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "3e3459f84ff917ff",
+              "leaf": "4bf56c892b8224e0",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":9},\"to\":{\"line\":5,\"ch\":9}}}"
-            },
-            {
-              "leaf": "3e3459f84ff917ff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,b - Western Laws.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":516},\"to\":{\"line\":1,\"ch\":516}},\"scroll\":0}"
-            },
-            {
-              "leaf": "3e3459f84ff917ff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":17.670630219890285}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Mass Defect & Binding Energy.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":110},\"to\":{\"line\":7,\"ch\":110}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
+            "file": "pages/2 Literature Notes/Mass Defect & Binding Energy.md",
             "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "428fbb8369c47ba1",
+        "id": "325ffdea191ccae2",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "428fbb8369c47ba1",
+              "leaf": "325ffdea191ccae2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Teaching and Aboriginal (L).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":48},\"to\":{\"line\":25,\"ch\":48}},\"scroll\":21.49893791261655}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,5b - Binding Energy and Mass Defect.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":64},\"to\":{\"line\":15,\"ch\":64}},\"scroll\":5.565155029296875}"
+            },
+            {
+              "leaf": "325ffdea191ccae2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/2 Literature Notes/Teaching and Aboriginal (L).md",
+            "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
             "mode": "source",
             "source": true
           }
@@ -140,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
+                "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
+                "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
+                "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -278,20 +272,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "3e3459f84ff917ff",
+  "active": "325ffdea191ccae2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3-Permanent-Notes/3,b - Western Laws.md",
-    "pages/3-Permanent-Notes/3,a - The Law.md",
+    "pages/3-Permanent-Notes/4,5b - Binding Energy and Mass Defect.md",
+    "pages/2 Literature Notes/Mass Defect & Binding Energy.md",
+    "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
     "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
     "pages/2 Literature Notes/Teaching and Aboriginal (L).md",
+    "pages/3-Permanent-Notes/3,b - Western Laws.md",
+    "pages/3-Permanent-Notes/3,a - The Law.md",
     "about.md",
     "README.md",
-    "pages/2 Literature Notes/Mass Defect & Binding Energy.md",
-    "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
-    "pages/3-Permanent-Notes/4 - Alpha Decay.md",
-    "Templates/page-layout.md"
+    "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md"
   ]
 }
