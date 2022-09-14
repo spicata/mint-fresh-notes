@@ -6,6 +6,11 @@
 - $c=2.9979\times 10^{8}\text{m/s}$
 
 ---
+
+
+
+
+
 # Bibliography
 - _What is Mass defect?_ (n.d.). BYJUS. Retrieved 12 September 2022, from [https://byjus.com/neet/what-is-mass-defect/](https://byjus.com/neet/what-is-mass-defect/)
 - _* Mass defect and binding energy (video) | Khan Academy_. (n.d.). Retrieved 12 September 2022, from [https://www.khanacademy.org/science/physics/quantum-physics/in-in-nuclei/v/mass-defect-and-binding-energy](https://www.khanacademy.org/science/physics/quantum-physics/in-in-nuclei/v/mass-defect-and-binding-energy)
