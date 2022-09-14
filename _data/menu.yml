@@ -7,6 +7,8 @@ entries:
       - title: these are my notes. "quality not guaranteed"
       - title: github repo
         url: https://github.com/spicata/mint-fresh-notes
+      - title: More about me
+        url: about
   
   - title: index
     entries:
