@@ -23,9 +23,9 @@
 - The cultures and communities of the students are to be prioritised, and everything they learn should be meaningful in some way.
 	- All cultures are to be respected, even minors ones, and it should not lean to heavily to any culture.
 
-![[Eight-Ways.png]]
+![Eight-Ways](../../_screenshots/Eight-Ways.png)
 
-[[pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P)]]
+[3,c - Teaching and Aboriginal](../3-Permanent-Notes/3,c%20-%20Teaching%20and%20Aboriginal.md)
 
 ---
 # Bibliography

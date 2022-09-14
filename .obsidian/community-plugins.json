@@ -32,5 +32,6 @@
   "workspaces-plus",
   "omnisearch",
   "graph-analysis",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "obsidian-linter"
 ]

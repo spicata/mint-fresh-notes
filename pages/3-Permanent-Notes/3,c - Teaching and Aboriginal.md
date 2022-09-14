@@ -6,7 +6,7 @@ To develop a good theory of learning, one must consider the people being taught:
 4. Signs,
 5. Link to Land;
 6. Shapes;
-7. Visualisations; and
+7. Deconstruct and Reconstruct; and
 8. Community ties.
 
 When information in weaved into a story, it will facilitate better learning, as context plays a major role in learning. What is learning if it is just of independent and isolated bits of information if it cannot be connected with other pieces of knowledge? Without context, one cannot learn effectively. Stories allow for that context.
@@ -19,4 +19,4 @@ Furthermore, learning does not have to be verbal. On top of that, learning can b
 
 These aspects are not static steps, but rather an interconnected and dynamic system of processes. On top of that, it could be more useful to tie ideas and words to symbols and images rather than other words, as these can represent concepts where languages fail us.
 
-« [3,b - Western Laws (P)](3,b%20-%20Western%20Laws%20(P))
+« [3,b - Western Laws](3,b%20-%20Western%20Laws.md)

@@ -12,15 +12,27 @@
             {
               "leaf": "3e3459f84ff917ff",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":9},\"to\":{\"line\":5,\"ch\":9}}}"
+            },
+            {
+              "leaf": "3e3459f84ff917ff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,b - Western Laws.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":516},\"to\":{\"line\":1,\"ch\":516}},\"scroll\":0}"
+            },
+            {
+              "leaf": "3e3459f84ff917ff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":17.670630219890285}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md",
+            "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
             "mode": "source",
             "source": true
           }
@@ -35,8 +47,8 @@
             {
               "leaf": "428fbb8369c47ba1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Teaching and Aboriginal (L).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Teaching and Aboriginal (L).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":48},\"to\":{\"line\":25,\"ch\":48}},\"scroll\":21.49893791261655}"
             }
           ]
         },
@@ -44,7 +56,7 @@
           "type": "markdown",
           "state": {
             "file": "pages/2 Literature Notes/Teaching and Aboriginal (L).md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md",
+                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md",
+                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md",
+                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -271,15 +283,15 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "pages/3-Permanent-Notes/3,b - Western Laws.md",
+    "pages/3-Permanent-Notes/3,a - The Law.md",
+    "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
     "pages/2 Literature Notes/Teaching and Aboriginal (L).md",
-    "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal (P).md",
     "about.md",
     "README.md",
     "pages/2 Literature Notes/Mass Defect & Binding Energy.md",
     "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md",
     "pages/3-Permanent-Notes/4 - Alpha Decay.md",
-    "Templates/page-layout.md",
-    "pages/3-Permanent-Notes/1 - Indigenous Philosophies.md",
-    "pages/2 Literature Notes/1 - Indigenous Philosophies (L).md"
+    "Templates/page-layout.md"
   ]
 }
