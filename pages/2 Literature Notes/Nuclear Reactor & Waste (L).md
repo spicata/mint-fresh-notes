@@ -7,12 +7,12 @@
 - Nuclear power has a high fuel to energy ratio.
 - Nuclear waste is disposed of safely (unlike coal)
 
-![[Nuclear Waste.png]]
+![[../../assets/Nuclear Waste.png]]
 
 - Low-level waste in most common, stored ~~haphazardly~~ “well”. However, this doesn’t matter because they only contain a miniscule amount of radiation
 - Intermediate and high-level waste is more dangerous, however, is stored safely/is not produced at all.
 
-![[Nuclear Waste Lifecycle.png]]
+![[../../assets/Nuclear Waste Lifecycle.png]]
 
 [[../3-Permanent-Notes/8 - How a Nuclear Reactor Works]]
 

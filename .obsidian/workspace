@@ -12,17 +12,21 @@
             {
               "leaf": "4bf56c892b8224e0",
               "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/3-methylbut-1-ane.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "4bf56c892b8224e0",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Mass Defect & Binding Energy.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":110},\"to\":{\"line\":7,\"ch\":110}}}"
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "pages/2 Literature Notes/Mass Defect & Binding Energy.md",
-            "mode": "source",
-            "source": true
+            "file": "assets/3-methylbut-1-ane.png"
           }
         }
       },
@@ -30,26 +34,26 @@
         "id": "325ffdea191ccae2",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "325ffdea191ccae2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,5b - Binding Energy and Mass Defect.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":64},\"to\":{\"line\":15,\"ch\":64}},\"scroll\":5.565155029296875}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "325ffdea191ccae2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
+            "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
             "mode": "source",
             "source": true
           }
@@ -134,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
+                "file": "assets/3-methylbut-1-ane.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
+                "file": "assets/3-methylbut-1-ane.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
+                "file": "assets/3-methylbut-1-ane.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -272,20 +276,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "325ffdea191ccae2",
+  "active": "4bf56c892b8224e0",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3-Permanent-Notes/4,5b - Binding Energy and Mass Defect.md",
     "pages/2 Literature Notes/Mass Defect & Binding Energy.md",
+    "pages/3-Permanent-Notes/4 - Alpha Decay.md",
     "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
+    "pages/3-Permanent-Notes/4,5b - Binding Energy and Mass Defect.md",
     "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
     "pages/2 Literature Notes/Teaching and Aboriginal (L).md",
     "pages/3-Permanent-Notes/3,b - Western Laws.md",
     "pages/3-Permanent-Notes/3,a - The Law.md",
     "about.md",
-    "README.md",
-    "pages/3-Permanent-Notes/4,a - Why does it release alpha particles.md"
+    "README.md"
   ]
 }

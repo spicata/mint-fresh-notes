@@ -3,7 +3,7 @@
 - $\beta^-$ decay occurs to the left of the the stable nuclei. $\beta^+$ decay occurs on the right.
 - Gamma just goes with.
 
-![[Type of Decay graph.png|400]]
+![[../../assets/Type of Decay graph.png|400]]
 
 [[pages/3-Permanent-Notes/4,2a,a - Beta or Alpha decay]]
 

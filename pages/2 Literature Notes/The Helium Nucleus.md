@@ -3,7 +3,7 @@
 - It is extremely stable, and has high binding energy
 - Protons and neutrons inherently form pseudo-helium nuclei inside of another nuclei.
 
-![[Binding-Energy.png]]
+![[../../assets/Binding-Energy.png]]
 
 [[pages/3-Permanent-Notes/4,5a - The Helium Nucleus]]
 

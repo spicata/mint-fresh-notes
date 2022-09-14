@@ -9,7 +9,7 @@ Mass defect is the difference between the actual weight of an atom and the weigh
 
 Some notable atoms are the helium-4, carbon-12, and iron-56. Helium-4 has a strangely high binding energy, which is surpassed next by carbon-12. Iron-56 is the most stable nucleus, thus all fission and fusion tends towards iron-56, as in a star’s core.
 
-![Binding-Energy](../../_screenshots/Binding-Energy.png)
+![Binding-Energy](../../assets/Binding-Energy.png)
 
 This binding energy can be calculated by $E=mc^{2}$, where $c=2.9979\times 10^{8}\text{m/s}$. Energy is also measured in joules and mass in kilograms.
 

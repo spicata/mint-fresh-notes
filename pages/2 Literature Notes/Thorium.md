@@ -4,7 +4,7 @@
 - Conventional reactors cannot use thorium-uranium cycles, only uranium-plutonium cycles.
 - Apparently China and India has large thorium reserves
 
-![[Thorium Reserves.png]]
+![[../../assets/Thorium Reserves.png]]
 
 - Thorium (uranium-233) is advantageous when used in breeder reactors, as it can be a slow reactor (not a fast reactor), as more neutrons are produced per fission than uranium-235.
 - On top of that, it does not produce any heavier elements.

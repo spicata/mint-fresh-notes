@@ -4,7 +4,7 @@
 - Uranium-238 is useless and (almost) stable, however, by adding a neutron, it can become uranium-239 (U-239) —$\beta$→ neptunium-239 (Np-239) —$\beta$→ plutonium-239 (Pu-239)
 - If only one-way then nuclear bad, however, if recycled, then good.
 
-![[Nuclear Recycling One.png]]
+![[../../assets/Nuclear Recycling One.png]]
 
 [[pages/3-Permanent-Notes/8,a,a - Nuclear Recycling]]
 

@@ -5,7 +5,7 @@ Thorium on its own is not a fissile material, and cannot undergo nuclear fission
 
 Uranium-232 is another isotope of uranium that can undergo nuclear fission chains. Sadly, conventional reactors cannot use this thorium-uranium cycle, only the uranium-plutonium cycle, however, there exists massive thorium reserves in India, and thus they are likely going to be the country leading thorium-reactor development.
 
-![[Thorium Reserves.png]]
+![[../../assets/Thorium Reserves.png]]
 
 Thorium is considered superior to uranium due to a variety of reasons. Firstly, there is more thorium that there is uranium on Earth (approximately 3 times more). Secondly, it does not produce any heavier elements unlike the uranium-plutonium cycle, meaning that the waste from thorium reactors will last considerably shorter than the waste of uranium reactors. Thirdly, it largely mitigates the ability to use it to create a bomb, as it itself is not fissile, and only the uranium-232 produced by it is.
 
