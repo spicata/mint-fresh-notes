@@ -5,4 +5,4 @@ The reason that conventional reactors (using uranium-235) cannot do this is beca
 
 However, this is still experimental technology, as it has not been developed due to fear that it would make nuclear weapons more accessible, as it will make the radioactive uranium-235 much more abundant.
 
-« [[pages/3-Permanent-Notes/8,a,a - Nuclear Recycling]] | [[pages/3-Permanent-Notes/8,a,c-Thorium]] »
+« [8,a,a - Nuclear Recycling](8,a,a%20-%20Nuclear%20Recycling) | [8,a,c-Thorium](8,a,c-Thorium) »

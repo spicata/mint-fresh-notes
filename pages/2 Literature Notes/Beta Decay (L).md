@@ -15,7 +15,7 @@
 - Electron capture means that a proton eats an electron from (usually) the inner electron shell and becoming a neutron, releasing a neutrino.
 	- $^A_{Z}X+^0_{-1}e\to^A_{Z-1}Y+^0_{0}\nu$
 
-[[pages/3-Permanent-Notes/4,2a - Beta Decay (P)]] | [[pages/3-Permanent-Notes/4,2b - Beta Decay Unlimited (P)]]
+[4,2a - Beta Decay (P)](../3-Permanent-Notes/4,2a%20-%20Beta%20Decay%20(P))
 
 ---
 # Bibliography

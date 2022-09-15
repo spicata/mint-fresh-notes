@@ -8,9 +8,9 @@ Type of Decay | General Formula (A is atomic Mass, Z is atomic number)
 --- | ---
 Alpha Decay | $^A_{Z}X\to^{A-4}_{Z-2}Y+^4_{2}\alpha$
 
-![[../../assets/Alpha-Particle.png]]
+![../../assets/Alpha-Particle.png](../../assets/Alpha-Particle.png)
 
-[[../3-Permanent-Notes/4 - Alpha Decay]]
+[4 - Alpha Decay](../3-Permanent-Notes/4%20-%20Alpha%20Decay)
 
 ---
 # Bibliography

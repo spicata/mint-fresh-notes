@@ -3,4 +3,4 @@ It is important to understand that, in a nuclear reactor, uranium-235 is most of
 
 However, it is also this quality that makes nuclear fuel recyclable. If a neutron is added to uranium-238, it becomes uranium-239, which will quickly decay (around 30 minutes) to $\beta$ decay into neptunium-239, which in turn will become plutonium-239, which is another fuel that can be used in conventional nuclear reactors. Thus, nuclear fuel is recyclable.
 
-« [[pages/3-Permanent-Notes/8,a - Nuclear Waste]] | [[pages/3-Permanent-Notes/8,a,b - Breeder Reactors]] »
+« [8,a - Nuclear Waste](8,a%20-%20Nuclear%20Waste) | [8,a,b - Breeder Reactors](8,a,b%20-%20Breeder%20Reactors) »

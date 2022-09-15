@@ -1,7 +1,7 @@
 # After Decay #Literature 
 - Uranium-238 —$\alpha$→ Thorium-234 —$\beta^-$→ 234-Protactinium
 
-[[pages/3-Permanent-Notes/4,4a - After Decay (P)]]
+[4,4a - After Decay (P)](../3-Permanent-Notes/4,4a%20-%20After%20Decay%20(P))
 
 ---
 # Bibliography

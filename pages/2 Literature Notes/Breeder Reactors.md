@@ -6,7 +6,7 @@
 - They have to be fast reactors, as otherwise the neutrons will not hit the uranium-238 with sufficient energy to make it uranium-239
 - It is still experimental technologies, and not properly done due to fear of making nuclear weapons more accessible.
 
-[[pages/3-Permanent-Notes/8,a,b - Breeder Reactors]]
+[8,a,b - Breeder Reactors](../3-Permanent-Notes/8,a,b%20-%20Breeder%20Reactors)
 
 ---
 # Bibliography

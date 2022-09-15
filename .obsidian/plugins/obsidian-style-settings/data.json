@@ -33,5 +33,9 @@
   "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
   "blue-topaz-theme@@toggle-bg-file-page": false,
   "things-style@@minimal-icons-off": false,
-  "things-style@@em-color": "#FF734A"
+  "things-style@@em-color": "#FF734A",
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-mocha-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-border-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-orange-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt"
 }
