@@ -3,4 +3,4 @@ In Kafka’s *Metamorphosis*, we can see the clear impact that Karl Marx’s wor
 
 Furthermore, the chief-clerk is the quintessential example of the bourgeoise, having the time to check on Gregor, primarily concerned with the output of his employee. However, as it become apparent that Gregor will no longer be able to sustain, the chief-clerk abandons him, as their relationship was solely tied to monetary gain, rather than having any social value. This is even more evident in the case of the family, who had grown distant to him due to his job. As he can no longer provide for the family, their familial relationships breakdown, and is only seen as a financial burden within the family, whose passing is celebrated.
 
-« [5 - Marxism (P)](5%20-%20Marxism%20(P)) | [5,b - Metamorphosis and Kafka](5,b%20-%20Metamorphosis%20and%20Kafka) »
+« [5 - Marxism (P)](5%20-%20Marxism%20(P)) : [5,b - Metamorphosis and Kafka](5,b%20-%20Metamorphosis%20and%20Kafka) »

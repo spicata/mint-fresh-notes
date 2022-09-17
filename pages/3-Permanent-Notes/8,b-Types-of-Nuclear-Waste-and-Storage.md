@@ -5,7 +5,7 @@ Nuclear waste is split up into three categories: low-level, intermediate-level, 
 
 Intermediate and high-level wastes are more dangerous and difficult to store, however, they are recyclable in most cases[^1], which is employed by most countries. However, select countries have opted to store them in nuclear waste facilities (named repositories)[^2], such as Finland. 
 
-« [8,a - Nuclear Waste](8,a%20-%20Nuclear%20Waste) | [8,c-Repositories](8,c-Repositories) »
+« [8,a - Nuclear Waste](8,a%20-%20Nuclear%20Waste) : [8,c-Repositories](8,c-Repositories) »
 
 [^1]: How?
 [^2]: How so?

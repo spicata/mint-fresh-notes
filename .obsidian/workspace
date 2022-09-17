@@ -4,42 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "cef3918d2dca692a",
+        "id": "cb292041f6c29f47",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "cef3918d2dca692a",
+              "leaf": "cb292041f6c29f47",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Teaching and Aboriginal (L).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":16.01399224052602}"
-            },
-            {
-              "leaf": "cef3918d2dca692a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":12.525581793010469}"
-            },
-            {
-              "leaf": "cef3918d2dca692a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "cef3918d2dca692a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,5b - Binding Energy and Mass Defect.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":11.512519979775574}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
-            "mode": "preview",
+            "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "4e54bc036ce2160f",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "4e54bc036ce2160f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,2a - Beta Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":38},\"to\":{\"line\":9,\"ch\":38}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "|",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
+                "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
+                "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
+                "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -261,20 +266,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "cef3918d2dca692a",
+  "active": "cb292041f6c29f47",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/2 Literature Notes/Teaching and Aboriginal (L).md",
-    "pages/3-Permanent-Notes/3,c - Teaching and Aboriginal.md",
-    "pages/3-Permanent-Notes/3,b - Western Laws.md",
-    "pages/3-Permanent-Notes/2 - Aboriginal Worldview, Land (P).md",
-    "pages/3-Permanent-Notes/3 - Aboriginal Worldview, Society (P).md",
-    "pages/3-Permanent-Notes/3,a - The Law.md",
-    "pages/3-Permanent-Notes/4,5a - The Helium Nucleus.md",
-    "pages/3-Permanent-Notes/4,5b - Binding Energy and Mass Defect.md",
-    "pages/2 Literature Notes/The Helium Nucleus.md",
-    "assets/Binding-Energy.png"
+    "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
+    "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+    "pages/3-Permanent-Notes/4,2a,a - Beta or Alpha decay.md",
+    "pages/2 Literature Notes/Alpha Decay (L).md",
+    "pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md",
+    "pages/3-Permanent-Notes/8,a,b - Breeder Reactors.md",
+    "pages/3-Permanent-Notes/8,a,a - Nuclear Recycling.md",
+    "pages/3-Permanent-Notes/8,a - Nuclear Waste.md",
+    "pages/3-Permanent-Notes/7 - Independent Events (P).md",
+    "pages/3-Permanent-Notes/5,a - Marxism and Metamorphosis.md"
   ]
 }

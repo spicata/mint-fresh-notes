@@ -3,7 +3,7 @@ In the Aboriginal worldview, the land holds great spiritual significance, and Ab
 
 Everyone is thought to contain a part of these spirits[^3], and therefore responsible for the descendants. This focus inevitably led to a worldview focused on the long-term benefits and detriments, as it would (obviously) have a great impact on their lives[^2].
 
-« [1 - Indigenous Philosophies](1%20-%20Indigenous%20Philosophies) | [3 - Aboriginal Worldview, Society (P)](3%20-%20Aboriginal%20Worldview,%20Society%20(P)) »
+« [1 - Indigenous Philosophies](1%20-%20Indigenous%20Philosophies) : [3 - Aboriginal Worldview, Society (P)](3%20-%20Aboriginal%20Worldview,%20Society%20(P)) »
 
 [^1]: Similar to [1 - Indigenous Philosophies](1%20-%20Indigenous%20Philosophies)
 [^2]: **Elaborate**. Why does this have a great impact?

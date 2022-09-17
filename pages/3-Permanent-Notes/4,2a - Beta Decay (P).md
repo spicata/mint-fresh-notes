@@ -7,9 +7,11 @@ Type of Decay | General Formula (A is atomic Mass, Z is atomic number)
 --- | ---
 Alpha Decay | $^A_{Z}X\to^A_{Z+1}Y+^0_{-1}\beta$
 
+$^A_{Z}X\to^{A-4}_{Z-2}Y+^4_{2}\alpha$
+
 It often appears with gamma radiation ([4,2a,2a - Gamma Decay](4,2a,2a%20-%20Gamma%20Decay)). A prime example of beta decaying substance would be bismuth-214.
 
-« [4 - Alpha Decay](4%20-%20Alpha%20Decay) | [4,2b - Beta Decay Unlimited (P)](4,2b%20-%20Beta%20Decay%20Unlimited%20(P)) »
+« [4 - Alpha Decay](4%20-%20Alpha%20Decay) : [4,2b - Beta Decay Unlimited (P)](4,2b%20-%20Beta%20Decay%20Unlimited%20(P)) »
 
 [^1]: Why then, does it sometimes undergo beta decay and sometimes alpha decay
 [^2]: Is this true? (It is not)

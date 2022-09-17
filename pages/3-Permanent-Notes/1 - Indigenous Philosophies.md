@@ -7,7 +7,7 @@ In Western and Eastern religions, God is either placed inside or outside of the 
 
 As philosophy acts as a culmination of different perspectives[^8], the adoption of Indigenous Philosophy benefits philosophic growth. It would also allow for the integration of Indigenous people into society and for sustainable growth through the wisdom found in Indigenous philosophies. %%**Elaborate**%%
 
-« None | [2 - Aboriginal Worldview, Land (P)](2%20-%20Aboriginal%20Worldview,%20Land%20(P)) »
+[2 - Aboriginal Worldview, Land (P)](2%20-%20Aboriginal%20Worldview,%20Land%20(P)) »
 
 [^1]: Either we must accept that our philosophies are perfect but actions are not based on them; or that our philosophies are not perfect, thus our actions are imperfect.
 [^2]: To be honest, do we need a perfect philosophy? Much like Aboriginal spirituality, could we not just accept the fact that complexities exist in the world.
