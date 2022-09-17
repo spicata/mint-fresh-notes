@@ -7,7 +7,9 @@ Alpha decay is extremely slow, short-reaching, and not penetrative ([4,3a - Why 
 
 Type of Decay | General Formula (A is atomic Mass, Z is atomic number)
 --- | ---
-Alpha Decay | $^A_{Z}X\to^{A-4}_{Z-2}Y+^4_{2}\alpha$
+Alpha Decay | $^{A}_{Z}X\to^{A-4}_{Z-2}Y+^{4}_{2}\alpha$
+
+$^A_{Z}X\to^A_{Z+1}Y+^0_{-1}\beta$
 
 [4,2a - Beta Decay (P)](4,2a%20-%20Beta%20Decay%20(P)) »
 
