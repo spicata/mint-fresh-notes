@@ -3,15 +3,15 @@ Radioactive decay is the process that atoms undergo to become more stable by rel
 
 ![../../assets/Alpha-Particle.png](../../assets/Alpha-Particle.png)
 
-Alpha decay is extremely slow, short-reaching, and not penetrative ([4,3a - Why larger particles are less penetrative (P)](4,3a%20-%20Why%20larger%20particles%20are%20less%20penetrative%20(P))), which means that alpha-emitters are relatively safe, and able to be stopped by a sheet of paper. However, it is extremely ionising[^2] due to its mass, meaning that it can wreak havoc on cells when it comes into close contact with them[^3].
+Alpha decay is extremely slow, short-reaching, and not penetrative ([4,3a - Why larger particles are less penetrative (P)](4,3a%20-%20Why%20larger%20particles%20are%20less%20penetrative%20(P))), which means that alpha-emitters are relatively safe, and able to be stopped by a sheet of paper. However, it is extremely ionising[^1] due to its mass, meaning that it can wreak havoc on cells when it comes into close contact with them[^2].
 
 Type of Decay | General Formula (A is atomic Mass, Z is atomic number)
 --- | ---
 Alpha Decay | $^{A}_{Z}X\to^{A-4}_{Z-2}Y+^{4}_{2}\alpha$
 
-$^A_{Z}X\to^A_{Z+1}Y+^0_{-1}\beta$
-
 [4,2a - Beta Decay (P)](4,2a%20-%20Beta%20Decay%20(P)) »
 
-[^2]: What does ionisation actually do? *It makes a atom into an ion.*
-[^3]: What are the side effects to exposure to $\alpha$ particles?
+---
+
+[^1]: What does ionisation actually do? *It makes a atom into an ion.*
+[^2]: What are the side effects to exposure to $\alpha$ particles?

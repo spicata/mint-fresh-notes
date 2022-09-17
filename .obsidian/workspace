@@ -4,52 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cb292041f6c29f47",
+        "id": "e0aafd8f21c62399",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "cb292041f6c29f47",
+              "leaf": "e0aafd8f21c62399",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4 - Alpha Decay.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":34},\"to\":{\"line\":11,\"ch\":34}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Harms of Ionising Radiation.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "4e54bc036ce2160f",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "4e54bc036ce2160f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,2a,2a - Gamma Decay.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "4e54bc036ce2160f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3-Permanent-Notes/4,2a - Beta Decay (P).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":14},\"to\":{\"line\":7,\"ch\":48}},\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
+            "file": "pages/Harms of Ionising Radiation.md",
             "mode": "source",
             "source": true
           }
@@ -134,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+                "file": "pages/Harms of Ionising Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+                "file": "pages/Harms of Ionising Radiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+                "file": "pages/Harms of Ionising Radiation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -272,20 +243,20 @@
     "direction": "horizontal",
     "width": 457.5
   },
-  "active": "cb292041f6c29f47",
+  "active": "e0aafd8f21c62399",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
     "pages/3-Permanent-Notes/4 - Alpha Decay.md",
+    "pages/3-Permanent-Notes/4,2b - Beta Decay Unlimited (P).md",
+    "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
     "pages/3-Permanent-Notes/4,2a,2a - Gamma Decay.md",
     "pages/3-Permanent-Notes/4,2a,a - Beta or Alpha decay.md",
     "pages/2 Literature Notes/Alpha Decay (L).md",
     "pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md",
     "pages/3-Permanent-Notes/8,a,b - Breeder Reactors.md",
     "pages/3-Permanent-Notes/8,a,a - Nuclear Recycling.md",
-    "pages/3-Permanent-Notes/8,a - Nuclear Waste.md",
-    "pages/3-Permanent-Notes/7 - Independent Events (P).md"
+    "pages/3-Permanent-Notes/8,a - Nuclear Waste.md"
   ]
 }
