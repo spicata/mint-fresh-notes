@@ -341,7 +341,9 @@
   "obsidian-word-sprint:stop-word-sprint": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod",
+        "Shift"
       ],
       "key": "P"
     }
@@ -349,7 +351,9 @@
   "obsidian-word-sprint:start-word-sprint": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod",
+        "Shift"
       ],
       "key": "O"
     }

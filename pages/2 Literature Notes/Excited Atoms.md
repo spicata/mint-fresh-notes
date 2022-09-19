@@ -13,7 +13,7 @@ tags: Literature
 	- Same principle as the electron shells but with nucleons
 	- When it comes back to the ground state, it releases gamma rays.
 
-[4,2a,2b - Excited Atoms](../4,2a,2b%20-%20Excited%20Atoms)
+[4,2a,2b - Excited Atoms](../3%20Permanent%20Notes/4,2a,2b%20-%20Excited%20Atoms.md)
 
 ---
 

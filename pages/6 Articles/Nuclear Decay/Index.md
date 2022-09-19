@@ -1,7 +1,23 @@
 ---
 version: 1
 workflow: Default Workflow
-drafts: []
+drafts:
+  - name: Draft 1
+    folder: Draft 1
+    scenes:
+      - 4 - Alpha Decay
+      - 4,a - Why does it release alpha particles
+      - 4,5a - The Helium Nucleus
+      - 4,5b - Binding Energy and Mass Defect
+      - 4,3a - Why larger particles are less penetrative (P)
+      - 4,3b - Why more ionising particles are less penetrative
+      - 4,4a - After Decay (P)
+      - 4,6a - Harms of Ionising Radiation
+      - 4,2a - Beta Decay (P)
+      - 4,2b - Beta Decay Unlimited (P)
+      - 4,2a,a - Beta or Alpha decay
+      - 4,2a,2a - Gamma Decay
+      - 4,2a,2b - Excited Atoms
 ---
 
 

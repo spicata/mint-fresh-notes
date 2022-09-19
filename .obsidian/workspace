@@ -4,35 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1da293b43f9b408b",
+        "id": "435c8f40e7af47df",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "1da293b43f9b408b",
+              "leaf": "435c8f40e7af47df",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/4,3b - Why more ionising particles are less penetrative.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/6 Articles/Nuclear Decay/Drafts/Draft 1/4,2a,2b - Excited Atoms.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":9,\"ch\":204}},\"scroll\":0}"
             },
             {
-              "leaf": "1da293b43f9b408b",
+              "leaf": "435c8f40e7af47df",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "1da293b43f9b408b",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/6 Articles/Nuclear Decay/Nuclear Decay v1.1.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":18.33846875753063}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
+            "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.1.md",
             "mode": "source",
             "source": true
           }
@@ -92,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -129,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
+                "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
+                "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,6 +190,10 @@
           {
             "id": "a1bfe595c3716ff8",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "stat-view",
               "state": {}
@@ -216,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
+                "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -287,20 +286,20 @@
     "direction": "horizontal",
     "width": 382.6074523925781
   },
-  "active": "1da293b43f9b408b",
+  "active": "435c8f40e7af47df",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
-    "pages/4,3b - Why more ionising particles are less penetrative.md",
-    "pages/2 Literature Notes/Excited Atoms.md",
-    "pages/4,2a,2b - Excited Atoms.md",
-    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
-    "pages/2 Literature Notes/Gamma Decay.md",
-    "pages/2022-09-19.md",
-    "_screenshots/Pasted image 20220918192008.png",
-    "about.md",
-    "pages/6 Articles/Nuclear Decay/Index.md"
+    "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
+    "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.1.md",
+    "pages/6 Articles/Nuclear Decay/Drafts/Draft 1/4,2a,2b - Excited Atoms.md",
+    "pages/6 Articles/Nuclear Decay/Drafts/Draft 1/4,3b - Why more ionising particles are less penetrative.md",
+    "pages/1 Fleeting Notes/2022-09-19.md",
+    "pages/3 Permanent Notes/4,a - Why does it release alpha particles.md",
+    "pages/3 Permanent Notes/4 - Alpha Decay.md",
+    "pages/6 Articles/Nuclear Decay/Drafts/Draft 1/4,3a - Why larger particles are less penetrative (P).md",
+    "pages/6 Articles/Nuclear Decay/Drafts/Draft 1/4,4a - After Decay (P).md",
+    "pages/6 Articles/Nuclear Decay/Drafts/Draft 1/4,5a - The Helium Nucleus.md"
   ]
 }
