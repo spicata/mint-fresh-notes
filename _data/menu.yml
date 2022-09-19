@@ -13,10 +13,13 @@ entries:
   - title: index
     entries:
       - title: Nuclear Physics
-        url: pages/3-Permanent-Notes/4 - Alpha Decay
+        url: pages/3 Permanent Notes/4 - Alpha Decay
+        entries:
+          - title: Nuclear Physics Completed!!!
+            url: pages/6 Articles/Nuclear_Decay v2.pdf
       - title: Nuclear Power
-        url: pages/3-Permanent-Notes/8 - How a Nuclear Reactor Works
+        url: pages/3 Permanent Notes/8 - How a Nuclear Reactor Works
       - title: Aboriginal Philosophy
-        url: pages/3-Permanent-Notes/1 - Indigenous Philosophies
+        url: pages/3 Permanent Notes/1 - Indigenous Philosophies
       - title: Marxism
-        url: pages/3-Permanent-Notes/5 - Marxism (P)
+        url: pages/3 Permanent Notes/5 - Marxism (P)

@@ -9,6 +9,8 @@ tags: Literature
 - Accompanies other types of decay
 - Essentially the same as X-Rays, except that X-rays originate from the electron cloud and gamma rays from the nucleus.
 
+[4,2a,2a - Gamma Decay](../3%20Permanent%20Notes/4,2a,2a%20-%20Gamma%20Decay)
+
 ---
 # Bibliography
 - _Gamma Decay_. (2000, August 9). [https://www2.lbl.gov/abc/wallchart/chapters/03/3.html](https://www2.lbl.gov/abc/wallchart/chapters/03/3.html)

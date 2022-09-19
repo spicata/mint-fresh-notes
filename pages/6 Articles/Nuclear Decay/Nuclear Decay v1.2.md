@@ -99,3 +99,36 @@ When compared to X-rays, it is essentially the same, except that X-rays originat
 A ground state (for an atom) is the state containing the lowest possible energy, hence being the most stable formation. An excited state is a state where an atom contains more energy that this ground state. This usually entails that there are electrons that occupy a higher electron orbital, meaning that there is excess energy within the system of the atom. The electron will release this energy in the form of a X-ray.
 
 A similar principle can be applied to the nucleons within a nucleus. Protons and neutrons can occupy a higher energy **nuclear shell**, and when returning to its ground state, it will release a gamma ray.
+
+## Bibliography
+- _Alpha decay—Energy Education_. (n.d.). Retrieved August 29, 2022, from [https://energyeducation.ca/encyclopedia/Alpha_decay](https://energyeducation.ca/encyclopedia/Alpha_decay)
+- _Alpha Decay_. (n.d.). Retrieved 29 August 2022, from [https://www.atomicarchive.com/science/physics/alpha-decay.html](https://www.atomicarchive.com/science/physics/alpha-decay.html)
+- Uranium-238. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Uranium-238&oldid=1100790931](https://en.wikipedia.org/w/index.php?title=Uranium-238&oldid=1100790931)
+- Isotopes of protactinium. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Isotopes_of_protactinium&oldid=1085316890](https://en.wikipedia.org/w/index.php?title=Isotopes_of_protactinium&oldid=1085316890)
+- Alpha decay. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Alpha_decay&oldid=1097448218](https://en.wikipedia.org/w/index.php?title=Alpha_decay&oldid=1097448218)
+- _When radioactive material decays it emits alpha particles. Why does the nuclei not split in other ways, why is it always a helium nuclei?_ (n.d.). Quora. Retrieved 2 September 2022, from [https://www.quora.com/When-radioactive-material-decays-it-emits-alpha-particles-Why-does-the-nuclei-not-split-in-other-ways-why-is-it-always-a-helium-nuclei](https://www.quora.com/When-radioactive-material-decays-it-emits-alpha-particles-Why-does-the-nuclei-not-split-in-other-ways-why-is-it-always-a-helium-nuclei)
+- Helium-4. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Helium-4&oldid=1101906713](https://en.wikipedia.org/w/index.php?title=Helium-4&oldid=1101906713)
+- Public Domain, https://commons.wikimedia.org/w/index.php?curid=1540082
+- _What is Mass defect?_ (n.d.). BYJUS. Retrieved 12 September 2022, from [https://byjus.com/neet/what-is-mass-defect/](https://byjus.com/neet/what-is-mass-defect/)
+- _* Mass defect and binding energy (video) | Khan Academy_. (n.d.). Retrieved 12 September 2022, from [https://www.khanacademy.org/science/physics/quantum-physics/in-in-nuclei/v/mass-defect-and-binding-energy](https://www.khanacademy.org/science/physics/quantum-physics/in-in-nuclei/v/mass-defect-and-binding-energy)
+- _Nuclear Binding Energy_. (n.d.). Retrieved 12 September 2022, from [https://www.chem.purdue.edu/gchelp/howtosolveit/Nuclear/nuclear_binding_energy.htm](https://www.chem.purdue.edu/gchelp/howtosolveit/Nuclear/nuclear_binding_energy.htm)
+- _Nuclear Binding Energy and the Mass Defect_. (n.d.). Retrieved 12 September 2022, from [http://physics.bu.edu/~duffy/sc546_notes10/mass_defect.html](http://physics.bu.edu/~duffy/sc546_notes10/mass_defect.html)
+- US EPA, O. (2014, November 12). _Radiation Basics_ [Overviews and Factsheets]. [https://www.epa.gov/radiation/radiation-basics](https://www.epa.gov/radiation/radiation-basics)
+- _RADIATION HEALTH BASICS_. (n.d.). 4.
+- expertmathstutor (Director). (2014, January 2). _Physics—Radioactivity—Ionisation_. https://www.youtube.com/watch?v=TxoY6rQ9Dsk](https://www.youtube.com/watch?v=TxoY6rQ9Dsk)
+- e5605c6d2607f5b521c46cdf7a23082c. (2017, April 26). _Beta particles_ [Text]. ARPANSA; ARPANSA. [https://www.arpansa.gov.au/understanding-radiation/what-is-radiation/ionising-radiation/beta-particles](https://www.arpansa.gov.au/understanding-radiation/what-is-radiation/ionising-radiation/beta-particles)
+- _What is positron? - Definition from WhatIs.com_. (2010, April). [Text]. WhatIs.Com from [https://www.techtarget.com/whatis/definition/positron](https://www.techtarget.com/whatis/definition/positron)
+- _Beta decay | Definition, Examples, & Facts | Britannica_. (n.d.). Retrieved 30 August 2022, from [https://www.britannica.com/science/beta-decay](https://www.britannica.com/science/beta-decay)
+- _Beta Decay_. (n.d.). Retrieved 30 August 2022, from [https://www.atomicarchive.com/science/physics/beta-decay.html](https://www.atomicarchive.com/science/physics/beta-decay.html)
+- _Beta Decay_. (n.d.). [Text]. The ABC’s of Nuclear Science. Retrieved 30 August 2022, from [https://www2.lbl.gov/abc/wallchart/chapters/03/2.html](https://www2.lbl.gov/abc/wallchart/chapters/03/2.html)
+- By Table_isotopes.svg: Napy1kenobiderivative work: Sjlegg (talk) - Table_isotopes.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6703703
+- Radioactive decay. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Radioactive_decay&oldid=1107218513](https://en.wikipedia.org/w/index.php?title=Radioactive_decay&oldid=1107218513)
+- _How do we know what elements undergo alpha or beta decay? What does radioactivity have to do with it?_ (n.d.). Quora. Retrieved 2 September 2022, from [https://www.quora.com/How-do-we-know-what-elements-undergo-alpha-or-beta-decay-What-does-radioactivity-have-to-do-with-it](https://www.quora.com/How-do-we-know-what-elements-undergo-alpha-or-beta-decay-What-does-radioactivity-have-to-do-with-it)
+- _Gamma Decay_. (2000, August 9). [https://www2.lbl.gov/abc/wallchart/chapters/03/3.html](https://www2.lbl.gov/abc/wallchart/chapters/03/3.html)
+- _Gamma Decay—Gamma Radioactivity | Definition & Theory | nuclear-power.com_. (n.d.). Nuclear Power. Retrieved 7 September 2022, from [https://www.nuclear-power.com/nuclear-power/reactor-physics/atomic-nuclear-physics/radioactive-decay/gamma-decay-gamma-radioactivity/](https://www.nuclear-power.com/nuclear-power/reactor-physics/atomic-nuclear-physics/radioactive-decay/gamma-decay-gamma-radioactivity/)
+- _Gamma decay | physics | Britannica_. (n.d.). Retrieved 7 September 2022, from [https://www.britannica.com/science/gamma-decay](https://www.britannica.com/science/gamma-decay)
+- Excited state. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Excited_state&oldid=1099194190](https://en.wikipedia.org/w/index.php?title=Excited_state&oldid=1099194190)
+- Bernini, N. (2016, January 21). _Answer to ‘What is meant by an excited atom?’_ Physics Stack Exchange. [https://physics.stackexchange.com/a/230882](https://physics.stackexchange.com/a/230882)
+- Excited-State Atom—Chemistry LibreTexts. (n.d.). Retrieved 19 September 2022, from https://chem.libretexts.org/Ancillary_Materials/Reference/Organic_Chemistry_Glossary/Excited-State_Atom
+- Nuclear isomer. (2022). In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=Nuclear_isomer&oldid=1091157180](https://en.wikipedia.org/w/index.php?title=Nuclear_isomer&oldid=1091157180)
+- _Learn What a Nuclear Isomer Is_. (n.d.). ThoughtCo. Retrieved 19 September 2022, from [https://www.thoughtco.com/nuclear-isomer-definition-4129399](https://www.thoughtco.com/nuclear-isomer-definition-4129399)
