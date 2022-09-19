@@ -7,4 +7,4 @@ Another question that Marx asks is: if humans produce more than what is needed t
 
 There were two types of revolutions that Marx believed were possible: a violet one, or a permanent one. In a permanent revolution is a form of revolution where a secondary government is formed by the proletariats, for the proletariats, until all the power eventually comes into the hands of them. 
 
-« [5 - Marxism (P)](pages/3-Permanent-Notes/5%20-%20Marxism%20(P))
+« [5 - Marxism (P)](5%20-%20Marxism%20(P))

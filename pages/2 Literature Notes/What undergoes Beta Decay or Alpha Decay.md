@@ -5,7 +5,7 @@
 
 ![[../../assets/Type of Decay graph.png|400]]
 
-[[pages/3-Permanent-Notes/4,2a,a - Beta or Alpha decay]]
+[[../3 Permanent Notes/4,2a,a - Beta or Alpha decay]]
 
 ---
 # Bibliography

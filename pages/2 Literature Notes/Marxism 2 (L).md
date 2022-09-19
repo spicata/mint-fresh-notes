@@ -7,7 +7,7 @@
 	- This harms both the environment and people, only to support the economy.
 - Inevitability a revolution by proletariats, either violent or a “permanent” one, where a secondary government by the proletariats are formed.
 
-[6 - Marxism (P)](../3-Permanent-Notes/6%20-%20Marxism%20(P))
+[6 - Marxism (P)](../3%20Permanent%20Notes/6%20-%20Marxism%20(P))
 
 ---
 # Bibliography

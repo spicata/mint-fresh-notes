@@ -12,7 +12,7 @@
 - It also largely mitigated the ability to use it as a bomb.
 - **Check out molten salt reactors**
 
-[[pages/3-Permanent-Notes/8,a,c-Thorium]]
+[[../3 Permanent Notes/8,a,c-Thorium]]
 
 ---
 # Bibliography

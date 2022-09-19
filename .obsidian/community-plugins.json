@@ -33,5 +33,10 @@
   "omnisearch",
   "graph-analysis",
   "wikilinks-to-mdlinks-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "consistent-attachments-and-links",
+  "obsidian-frontmatter-tag-suggest",
+  "obsidian-metatable",
+  "obsidian-word-sprint",
+  "longform"
 ]

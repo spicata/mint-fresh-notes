@@ -25,7 +25,7 @@
 
 ![Eight-Ways](../../assets/Eight-Ways.png)
 
-[3,c - Teaching and Aboriginal](../3-Permanent-Notes/3,c%20-%20Teaching%20and%20Aboriginal)
+[3,c - Teaching and Aboriginal](../3%20Permanent%20Notes/3,c%20-%20Teaching%20and%20Aboriginal)
 
 ---
 # Bibliography

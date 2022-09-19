@@ -11,7 +11,7 @@
 - Aboriginal spirituality is separate from ideology. Ideology must come where a “true way” exists, however, this is not present in Aboriginal spirituality.
 - In Western culture, a natural law is a law that describes a part of the universe, like the law of thermodynamics, whilst positive law is legislation enforced by society. These laws are influenceable by humans. Aboriginal customary law, is by the spiritual ancestors, and thus is immutable.
 
-[2 - Aboriginal Worldview, Land (P)](../3-Permanent-Notes/2%20-%20Aboriginal%20Worldview,%20Land%20(P))
+[2 - Aboriginal Worldview, Land (P)](../3%20Permanent%20Notes/2%20-%20Aboriginal%20Worldview,%20Land%20(P))
 
 ---
 # Bibliography

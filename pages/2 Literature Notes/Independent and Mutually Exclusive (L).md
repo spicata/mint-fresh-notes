@@ -4,7 +4,7 @@
 - Mutually exclusive means that it never happens together
 - The intersection is 0
 
-[7 - Independent Events (P)](../3-Permanent-Notes/7%20-%20Independent%20Events%20(P))
+[7 - Independent Events (P)](../3%20Permanent%20Notes/7%20-%20Independent%20Events%20(P))
 
 ---
 # Bibliography

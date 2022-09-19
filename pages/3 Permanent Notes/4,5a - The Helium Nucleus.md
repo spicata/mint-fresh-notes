@@ -1,4 +1,8 @@
-# 4,5a - The Helium Nucleus #Permanent 
+---
+layout: page
+tags: Permanent 
+---
+# 4,5a - The Helium Nucleus
 Alpha decay is the most common form of cluster decay, a type of decay where a nucleus splits into two or more smaller clusters of neutrons and protons[^1]. Its frequency is a result of the special properties of the helium nucleus. The helium nucleus is extremely stable and has a incredibly high binding energy ([4,5b - Binding Energy and Mass Defect](4,5b%20-%20Binding%20Energy%20and%20Mass%20Defect))[^2]. 
 
 ![Binding-Energy](../../assets/Binding-Energy.png)

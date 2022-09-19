@@ -1,4 +1,8 @@
-# Gamma Decay #Literature 
+---
+layout: page
+tags: Literature 
+---
+# Gamma Decay
 - Gamma ($\gamma$) decay is a form of decay that makes atoms unexcited.
 - Releases a photon (gamma ray)
 - $^{ Am }_{Z}X\to^{ A }_{Z}X+^{ 0 }_{0}\gamma$

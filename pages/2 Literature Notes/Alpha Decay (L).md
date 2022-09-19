@@ -10,7 +10,7 @@ Alpha Decay | $^A_{Z}X\to^{A-4}_{Z-2}Y+^4_{2}\alpha$
 
 ![../../assets/Alpha-Particle.png](../../assets/Alpha-Particle.png)
 
-[4 - Alpha Decay](../3-Permanent-Notes/4%20-%20Alpha%20Decay)
+[4 - Alpha Decay](../3%20Permanent%20Notes/4%20-%20Alpha%20Decay)
 
 ---
 # Bibliography

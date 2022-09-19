@@ -5,7 +5,7 @@
 - Due to $E=mc^2$
 - $c=2.9979\times 10^{8}\text{m/s}$
 
-[4,5b - Binding Energy and Mass Defect](../3-Permanent-Notes/4,5b%20-%20Binding%20Energy%20and%20Mass%20Defect)
+[4,5b - Binding Energy and Mass Defect](../3%20Permanent%20Notes/4,5b%20-%20Binding%20Energy%20and%20Mass%20Defect)
 
 ---
 # Bibliography

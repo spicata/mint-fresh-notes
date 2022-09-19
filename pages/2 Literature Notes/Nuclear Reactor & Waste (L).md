@@ -14,7 +14,7 @@
 
 ![[../../assets/Nuclear Waste Lifecycle.png]]
 
-[[../3-Permanent-Notes/8 - How a Nuclear Reactor Works]]
+[[../3 Permanent Notes/8 - How a Nuclear Reactor Works]]
 
 ---
 # Bibliography

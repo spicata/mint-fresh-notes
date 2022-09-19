@@ -337,5 +337,21 @@
       ],
       "key": "L"
     }
+  ],
+  "obsidian-word-sprint:stop-word-sprint": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-word-sprint:start-word-sprint": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
   ]
 }

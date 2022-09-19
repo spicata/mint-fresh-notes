@@ -5,7 +5,7 @@
 
 ![[../../assets/Binding-Energy.png]]
 
-[[pages/3-Permanent-Notes/4,5a - The Helium Nucleus]]
+[[../3 Permanent Notes/4,5a - The Helium Nucleus]]
 
 ---
 # Bibliography

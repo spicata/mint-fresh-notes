@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0aafd8f21c62399",
+        "id": "1da293b43f9b408b",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "e0aafd8f21c62399",
+              "leaf": "1da293b43f9b408b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Harms of Ionising Radiation.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/4,3b - Why more ionising particles are less penetrative.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1da293b43f9b408b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1da293b43f9b408b",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Harms of Ionising Radiation.md",
+            "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
             "mode": "source",
             "source": true
           }
@@ -59,13 +71,25 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "|",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c341c126a596bfed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
             }
           }
         ]
@@ -105,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Harms of Ionising Radiation.md",
+                "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Harms of Ionising Radiation.md",
+                "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +179,26 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "9c93204b95ca17f0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1bfe595c3716ff8",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -172,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Harms of Ionising Radiation.md",
+                "file": "pages/4,3b - Why more ionising particles are less penetrative.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -241,22 +285,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 382.6074523925781
   },
-  "active": "e0aafd8f21c62399",
+  "active": "1da293b43f9b408b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3-Permanent-Notes/4 - Alpha Decay.md",
-    "pages/3-Permanent-Notes/4,2b - Beta Decay Unlimited (P).md",
-    "pages/3-Permanent-Notes/4,2a - Beta Decay (P).md",
-    "pages/3-Permanent-Notes/4,2a,2a - Gamma Decay.md",
-    "pages/3-Permanent-Notes/4,2a,a - Beta or Alpha decay.md",
-    "pages/2 Literature Notes/Alpha Decay (L).md",
-    "pages/3-Permanent-Notes/8,b-Types-of-Nuclear-Waste-and-Storage.md",
-    "pages/3-Permanent-Notes/8,a,b - Breeder Reactors.md",
-    "pages/3-Permanent-Notes/8,a,a - Nuclear Recycling.md",
-    "pages/3-Permanent-Notes/8,a - Nuclear Waste.md"
+    "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
+    "pages/4,3b - Why more ionising particles are less penetrative.md",
+    "pages/2 Literature Notes/Excited Atoms.md",
+    "pages/4,2a,2b - Excited Atoms.md",
+    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
+    "pages/2 Literature Notes/Gamma Decay.md",
+    "pages/2022-09-19.md",
+    "_screenshots/Pasted image 20220918192008.png",
+    "about.md",
+    "pages/6 Articles/Nuclear Decay/Index.md"
   ]
 }

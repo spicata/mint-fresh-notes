@@ -9,7 +9,7 @@
   "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_screenshots",
+  "attachmentFolderPath": "assets",
   "spellcheckLanguages": [
     "en-AU",
     "en-GB"

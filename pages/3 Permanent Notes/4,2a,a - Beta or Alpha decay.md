@@ -1,4 +1,8 @@
-# 4,2a,a - Beta or Alpha decay #Permanent 
+---
+layout: page
+tags: Permanent  
+---
+# 4,2a,a - Beta or Alpha decay
 
 >$\beta^-$, $\beta^+$, and $\alpha$ decay are all things that atoms undergo to become more stable, however, why? Why do some atoms undergo $\beta^-$ and others $\alpha$ decay?
 
@@ -8,4 +12,4 @@ In the above graph, the line of black squares indicates stable atoms, and it act
 
 As for $\alpha$ decay, as it will lead to the loss of both two neutrons and two protons, and thus will move parallel (towards the origin) to the N=Z line. This means that it will only become more stable when it is on the right of stability line.
 
-« [4,2a - Beta Decay (P)](4,2a%20-%20Beta%20Decay%20(P).md)
+« [4,2a - Beta Decay (P)](4,2a%20-%20Beta%20Decay%20(P))

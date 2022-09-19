@@ -6,7 +6,7 @@
 
 ![[../../assets/Nuclear Recycling One.png]]
 
-[[pages/3-Permanent-Notes/8,a,a - Nuclear Recycling]]
+[[../3 Permanent Notes/8,a,a - Nuclear Recycling]]
 
 ---
 # Bibliography
