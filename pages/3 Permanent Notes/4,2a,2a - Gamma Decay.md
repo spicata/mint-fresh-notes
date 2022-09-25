@@ -8,3 +8,5 @@ Gamma ($\gamma$) decay is yet another form of radioactive decay. However, unlike
 It is denoted in the form $^{ Am }_{Z}X\to^{ A }_{Z}X+^{ 0 }_{0}\gamma$. Note that $^{ Am }$ indicates that the atom is excited, and that the parent nucleus does not change. Gamma decay often accompanies other types of decay.
 
 When compared to X-rays, it is essentially the same, except that X-rays originate from the electron cloud and gamma rays from the nucleus.
+
+« [4,2a - Beta Decay (P)](4,2a%20-%20Beta%20Decay%20(P)

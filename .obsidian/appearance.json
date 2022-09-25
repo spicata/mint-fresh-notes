@@ -5,7 +5,7 @@
     "mark fixer",
     "testing"
   ],
-  "translucency": true,
+  "translucency": false,
   "theme": "obsidian",
   "baseFontSize": 16,
   "textFontFamily": ""

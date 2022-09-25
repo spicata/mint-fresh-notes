@@ -4,32 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "435c8f40e7af47df",
+        "id": "0e4776833f9eaa5f",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "435c8f40e7af47df",
+              "leaf": "0e4776833f9eaa5f",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "435c8f40e7af47df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -65,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,13 +76,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -124,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +201,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -286,20 +271,20 @@
     "direction": "horizontal",
     "width": 371.6073913574219
   },
-  "active": "435c8f40e7af47df",
+  "active": "0e4776833f9eaa5f",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md",
-    "pages/2 Literature Notes/Excited Atoms.md",
-    "pages/3 Permanent Notes/4,2a,2b - Excited Atoms.md",
-    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
-    "pages/2 Literature Notes/Gamma Decay.md",
-    "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
-    "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
-    "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
-    "pages/2 Literature Notes/What undergoes Beta Decay or Alpha Decay.md",
-    "pages/2 Literature Notes/Beta Decay (L).md"
+    "pages/3 Permanent Notes/9,a - Eukaryotic, Prokaryotic.md",
+    "pages/2 Literature Notes/Prokaryotic and Eukaryotic.md",
+    "pages/3 Permanent Notes/9,a [Cheat] - Comparison Table.md",
+    "pages/3 Permanent Notes/9 [Cheat] - Comparison Table.md",
+    "pages/3 Permanent Notes/9 - Pathogens.md",
+    "pages/2 Literature Notes/Pathogen.md",
+    "pages/2 Literature Notes/Sartre.md",
+    "archive.md",
+    "pages/3 Permanent Notes/4,5b,a - Iron Stability.md",
+    "pages/1 Fleeting Notes/2022-09-19.md"
   ]
 }
