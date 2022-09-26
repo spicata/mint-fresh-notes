@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "154e7d7bb9cb8484",
+        "id": "eae1584b0a2aa9d1",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "154e7d7bb9cb8484",
+              "leaf": "eae1584b0a2aa9d1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/You would've gotten hacked if you are here.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "154e7d7bb9cb8484",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Fission.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "154e7d7bb9cb8484",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,5b,a - Iron Stability.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/1 Fleeting Notes/2022-09-19.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "154e7d7bb9cb8484",
+              "leaf": "eae1584b0a2aa9d1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Iron Stability.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/How I make notes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":386},\"to\":{\"line\":23,\"ch\":386}},\"scroll\":14.443060874938965}"
+            },
+            {
+              "leaf": "eae1584b0a2aa9d1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Acute Radiation Syndrome.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":59},\"to\":{\"line\":7,\"ch\":59}}}"
+            },
+            {
+              "leaf": "eae1584b0a2aa9d1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "154e7d7bb9cb8484",
+              "leaf": "eae1584b0a2aa9d1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/1 Fleeting Notes/De Broglie Wave Hypothesis and more.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/You would've gotten hacked if you are here.md",
+            "file": "pages/How I make notes.md",
             "mode": "source",
             "source": true
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/You would've gotten hacked if you are here.md",
+                "file": "pages/How I make notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/You would've gotten hacked if you are here.md",
+                "file": "pages/How I make notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/You would've gotten hacked if you are here.md",
+                "file": "pages/How I make notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -302,20 +302,20 @@
     "direction": "horizontal",
     "width": 371.6073913574219
   },
-  "active": "154e7d7bb9cb8484",
+  "active": "eae1584b0a2aa9d1",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
+    "pages/How I make notes.md",
+    "pages/3 Permanent Notes/4,a - Why does it release alpha particles.md",
+    "pages/1 Fleeting Notes/2022-09-19.md",
+    "pages/Acute Radiation Syndrome.md",
+    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
     "pages/Fission.md",
-    "pages/3 Permanent Notes/4,5b,a - Iron Stability.md",
-    "pages/2 Literature Notes/Iron Stability.md",
-    "pages/1 Fleeting Notes/De Broglie Wave Hypothesis and more.md",
-    "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md",
-    "pages/3 Permanent Notes/9 - Pathogens.md",
-    "pages/3 Permanent Notes/9 [Cheat] - Comparison Table.md",
-    "pages/3 Permanent Notes/9,a - Eukaryotic, Prokaryotic.md",
-    "pages/3 Permanent Notes/9,a [Cheat] - Comparison Table.md",
-    "pages/2 Literature Notes/Prokaryotic and Eukaryotic.md"
+    "pages/Fusion.md",
+    "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
+    "pages/6 Articles/Nuclear_Decay.pdf"
   ]
 }
