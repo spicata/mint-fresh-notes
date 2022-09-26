@@ -14,4 +14,4 @@ tags: Permanent
 | Complexity | Simpler | Complex |
 | DNA Shape | Circular | Linear | 
 
-« [9,a - Eukaryotic, Prokaryotic](9,a%20-%20Eukaryotic,%20Prokaryotic.md)
+« [9,a - Eukaryotic, Prokaryotic](9,a%20-%20Eukaryotic,%20Prokaryotic)
