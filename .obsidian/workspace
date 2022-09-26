@@ -4,22 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "0e4776833f9eaa5f",
+        "id": "154e7d7bb9cb8484",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "0e4776833f9eaa5f",
+              "leaf": "154e7d7bb9cb8484",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/You would've gotten hacked if you are here.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "154e7d7bb9cb8484",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Fission.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "154e7d7bb9cb8484",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,5b,a - Iron Stability.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "154e7d7bb9cb8484",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Iron Stability.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "154e7d7bb9cb8484",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/1 Fleeting Notes/De Broglie Wave Hypothesis and more.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/You would've gotten hacked if you are here.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -55,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iron",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +101,24 @@
             },
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d04a9263d1cb1d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1bfe595c3716ff8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "stat-view",
               "state": {}
             }
           }
@@ -112,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/You would've gotten hacked if you are here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,33 +179,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/You would've gotten hacked if you are here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "a1b20ce0204f0923",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7258a853a197e96",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
             }
           },
           {
@@ -172,16 +196,22 @@
               "type": "metatable-sidebar-view",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "64602b95328e1c6f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "a1bfe595c3716ff8",
+            "id": "a7258a853a197e96",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             },
             "state": {
-              "type": "stat-view",
+              "type": "graph-analysis",
               "state": {}
             }
           }
@@ -201,6 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/You would've gotten hacked if you are here.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -271,20 +302,20 @@
     "direction": "horizontal",
     "width": 371.6073913574219
   },
-  "active": "0e4776833f9eaa5f",
+  "active": "154e7d7bb9cb8484",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/9,a - Eukaryotic, Prokaryotic.md",
-    "pages/2 Literature Notes/Prokaryotic and Eukaryotic.md",
-    "pages/3 Permanent Notes/9,a [Cheat] - Comparison Table.md",
-    "pages/3 Permanent Notes/9 [Cheat] - Comparison Table.md",
-    "pages/3 Permanent Notes/9 - Pathogens.md",
-    "pages/2 Literature Notes/Pathogen.md",
-    "pages/2 Literature Notes/Sartre.md",
-    "archive.md",
+    "pages/Fission.md",
     "pages/3 Permanent Notes/4,5b,a - Iron Stability.md",
-    "pages/1 Fleeting Notes/2022-09-19.md"
+    "pages/2 Literature Notes/Iron Stability.md",
+    "pages/1 Fleeting Notes/De Broglie Wave Hypothesis and more.md",
+    "pages/6 Articles/Nuclear Decay/Nuclear Decay v1.2.md",
+    "pages/3 Permanent Notes/9 - Pathogens.md",
+    "pages/3 Permanent Notes/9 [Cheat] - Comparison Table.md",
+    "pages/3 Permanent Notes/9,a - Eukaryotic, Prokaryotic.md",
+    "pages/3 Permanent Notes/9,a [Cheat] - Comparison Table.md",
+    "pages/2 Literature Notes/Prokaryotic and Eukaryotic.md"
   ]
 }

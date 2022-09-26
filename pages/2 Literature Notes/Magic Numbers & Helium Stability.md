@@ -16,7 +16,7 @@ tags: Literature
 - Calcium-40 is also doubly magic.
 - He-4 is also a noble gas, making it inert and stable (magic number moment)
 
-[4,5c - Magic Numbers & Helium Stability](../3%20Permanent%20Notes/4,5c%20-%20Magic%20Numbers%20&%20Helium%20Stability
+[4,5c - Magic Numbers & Helium Stability](../3%20Permanent%20Notes/4,5c%20-%20Magic%20Numbers%20&%20Helium%20Stability)
 
 ---
 

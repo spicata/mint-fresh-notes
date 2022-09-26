@@ -15,7 +15,7 @@ tags: Literature
 	- This is what keeps nuclei together
 - Too little protons means not enough strong force. Too many means that electromagnetic takes over.
 
-[4,b - Strong Nuclear Force](../3%20Permanent%20Notes/4,b%20-%20Strong%20Nuclear%20Force
+[4,b - Strong Nuclear Force](../3%20Permanent%20Notes/4,b%20-%20Strong%20Nuclear%20Force)
 
 ---
 

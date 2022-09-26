@@ -13,7 +13,7 @@ tags: Literature
 - This stability makes it the third most stable
 - Most fusion and fission reaction tends towards Fe-56
 
-[4,5b,a - Iron Stability](../3%20Permanent%20Notes/4,5b,a%20-%20Iron%20Stability
+[4,5b,a - Iron Stability](../3%20Permanent%20Notes/4,5b,a%20-%20Iron%20Stability)
 
 ---
 
