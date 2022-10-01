@@ -7,7 +7,7 @@ Radioactive decay is the process that atoms undergo to become more stable by rel
 
 ![../../assets/Alpha-Particle.png](../../assets/Alpha-Particle.png)
 
-Alpha decay is extremely slow, short-reaching, and not penetrative ([4,3a - Why larger particles are less penetrative (P)](4,3a%20-%20Why%20larger%20particles%20are%20less%20penetrative%20(P))), which means that alpha-emitters are relatively safe, and able to be stopped by a sheet of paper. However, it is extremely ionising due to its mass, meaning that it can wreak havoc on cells when it comes into close contact with them ([4,6a - Harms of Ionising Radiation](4,6a%20-%20Harms%20of%20Ionising%20Radiation).
+Alpha decay is extremely slow, short-reaching, and not penetrative ([4,3a - Why larger particles are less penetrative (P)](4,3a%20-%20Why%20larger%20particles%20are%20less%20penetrative%20(P))), which means that alpha-emitters are relatively safe, and able to be stopped by a sheet of paper. However, it is extremely ionising due to its mass, meaning that it can wreak havoc on cells when it comes into close contact with them ([4,6a - Harms of Ionising Radiation](4,6a%20-%20Harms%20of%20Ionising%20Radiation)).
 
 Type of Decay | General Formula (A is atomic Mass, Z is atomic number)
 --- | ---

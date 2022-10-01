@@ -4,7 +4,7 @@ tags: Permanent
 ---
 # 4,a - Why does it release alpha particles
  
- As nuclei become larger and larger, the residual strong nuclear force ([4,b - Strong Nuclear Force](4,b%20-%20Strong%20Nuclear%20Force) between the nucleons are overcome by electromagnetic forces[^1] which causes the nucleus to become unstable. To make the nucleus more stable, the atom releases these $\alpha$ particles so that it can shorten the distances between protons in an attempt to become more stable ([4,5a - The Helium Nucleus](4,5a%20-%20The%20Helium%20Nucleus)).
+ As nuclei become larger and larger, the residual strong nuclear force ([4,b - Strong Nuclear Force](4,b%20-%20Strong%20Nuclear%20Force)) between the nucleons are overcome by electromagnetic forces[^1] which causes the nucleus to become unstable. To make the nucleus more stable, the atom releases these $\alpha$ particles so that it can shorten the distances between protons in an attempt to become more stable ([4,5a - The Helium Nucleus](4,5a%20-%20The%20Helium%20Nucleus)).
 
 « [4 - Alpha Decay](4%20-%20Alpha%20Decay)
 

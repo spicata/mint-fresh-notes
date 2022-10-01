@@ -10,7 +10,7 @@ tags: Literature
 - Higher energy nuclear shells have… more energy
 - More energy then needed is instability.
 
-[4,b,a - Neutron's Instability](../3%20Permanent%20Notes/4,b,a%20-%20Neutron's%20Instability.md)
+[4,b,a - Neutron's Instability](../3%20Permanent%20Notes/4,b,a%20-%20Neutron's%20Instability)
 
 ---
 

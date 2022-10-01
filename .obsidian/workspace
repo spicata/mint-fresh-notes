@@ -12,6 +12,12 @@
             {
               "leaf": "7bb0a71ee10294bf",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,b - Strong Nuclear Force.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":589},\"to\":{\"line\":9,\"ch\":589}}}"
+            },
+            {
+              "leaf": "7bb0a71ee10294bf",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,b,a - Neutron's Instability.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
@@ -26,7 +32,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
+            "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
             "mode": "source",
             "source": true
           }
@@ -110,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -123,14 +128,6 @@
         "dimension": 28.589743589743595,
         "children": [
           {
-            "id": "3a99a476a6bc00f5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "66d899a4ef477941",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -140,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
+                "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,13 +158,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
+                "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "acfa5f4dec7887b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "72e42d6a855a4274",
@@ -203,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
+                "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -272,22 +278,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.6073913574219
+    "width": 371.6073913574219,
+    "collapsed": true
   },
   "active": "7bb0a71ee10294bf",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/2 Literature Notes/Neutron's Instability.md",
     "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
-    "pages/3 Permanent Notes/4,5c - Magic Numbers & Helium Stability.md",
+    "pages/3 Permanent Notes/4 - Alpha Decay.md",
+    "pages/3 Permanent Notes/4,a - Why does it release alpha particles.md",
     "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
+    "pages/2 Literature Notes/Neutron's Instability.md",
+    "pages/3 Permanent Notes/4,5c - Magic Numbers & Helium Stability.md",
     "pages/2 Literature Notes/Pions.md",
     "pages/3 Permanent Notes/4,c - Pions.md",
     "pages/2 Literature Notes/Strong Force.md",
-    "logo.png",
-    "pages/3 Permanent Notes/4,4a - After Decay (P).md",
-    "pages/2 Literature Notes/After Decay (L).md"
+    "logo.png"
   ]
 }

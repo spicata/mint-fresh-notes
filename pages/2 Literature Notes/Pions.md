@@ -8,7 +8,7 @@ tags: Literature
 - One quark and one antiquark (up or down)
 - Transfers the residual strong force between nucleons
 
-[4,c - Pions](../3%20Permanent%20Notes/4,c%20-%20Pions.md)
+[4,c - Pions](../3%20Permanent%20Notes/4,c%20-%20Pions)
 
 ---
 
