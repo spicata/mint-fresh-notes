@@ -1297,7 +1297,7 @@ function normaliseTags(data) {
   if (!Array.isArray(data) && typeof data != "string") {
     throw new Error("Tags must be an array or a string");
   }
-  const result = typeof data == "string" ? data.split(",").map((x) => x.trim()) : data;
+  const result = typeof data == "string" ? data.split(",").flatMap((x) => x.trim().split(" ")) : data;
   return result.filter((x) => x && x.length != 0);
 }
 function filterKeys(entries, keys, mode) {

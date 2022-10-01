@@ -15,7 +15,7 @@ Most of my fleeting notes consists of interesting concepts that I may explore la
 
 ### Literature
 
-Literature notes is used to record my research. They are often just a bullet point list ([Alpha Decay (L)](2%20Literature%20Notes/Alpha%20Decay%20(L))). Although they should preferably be short and contain the most amount of information as possible, I struggle with this. They should also have a bibliography.
+Literature notes is used to record my research. They are often just a bullet point list ([Alpha Decay (L)](../2%20Literature%20Notes/Alpha%20Decay%20(L).md)). Although they should preferably be short and contain the most amount of information as possible, I struggle with this. They should also have a bibliography.
 
 ### Permanent
 

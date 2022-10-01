@@ -4,55 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eae1584b0a2aa9d1",
+        "id": "7bb0a71ee10294bf",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "eae1584b0a2aa9d1",
+              "leaf": "7bb0a71ee10294bf",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,b,a - Neutron's Instability.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "eae1584b0a2aa9d1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/5 Project Notes/You would've gotten hacked if you are here.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "eae1584b0a2aa9d1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/5 Project Notes/Mathematics Notes Test 3 (Pr).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "eae1584b0a2aa9d1",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "eae1584b0a2aa9d1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/5 Project Notes/How I make notes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "eae1584b0a2aa9d1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Acute Radiation Syndrome.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":59},\"to\":{\"line\":7,\"ch\":59}}}"
-            },
-            {
-              "leaf": "eae1584b0a2aa9d1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "eae1584b0a2aa9d1",
+              "leaf": "7bb0a71ee10294bf",
               "group": null,
               "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
@@ -60,8 +24,12 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +42,7 @@
       {
         "id": "7e460d48341137b1",
         "type": "tabs",
+        "dimension": 52.647352647352655,
         "children": [
           {
             "id": "9031433c1cc68c4f",
@@ -123,6 +92,7 @@
       {
         "id": "3d04a9263d1cb1d1",
         "type": "tabs",
+        "dimension": 47.35264735264735,
         "children": [
           {
             "id": "a1bfe595c3716ff8",
@@ -140,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -149,14 +120,11 @@
       {
         "id": "c620534039166d03",
         "type": "tabs",
+        "dimension": 28.589743589743595,
         "children": [
           {
-            "id": "a7a7b491a6adc637",
+            "id": "3a99a476a6bc00f5",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -172,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,28 +161,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "9c93204b95ca17f0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "metatable-sidebar-view",
-              "state": {}
             }
           }
         ]
       },
       {
-        "id": "64602b95328e1c6f",
+        "id": "72e42d6a855a4274",
         "type": "tabs",
+        "dimension": 28.589743589743595,
         "children": [
           {
             "id": "a7258a853a197e96",
@@ -232,6 +191,7 @@
       {
         "id": "49f0ab6d7f9459c6",
         "type": "tabs",
+        "dimension": 42.82051282051281,
         "children": [
           {
             "id": "5f63a354411791c3",
@@ -243,6 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -313,20 +274,20 @@
     "direction": "horizontal",
     "width": 371.6073913574219
   },
-  "active": "eae1584b0a2aa9d1",
+  "active": "7bb0a71ee10294bf",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/5 Project Notes/You would've gotten hacked if you are here.md",
-    "pages/5 Project Notes/Mathematics Notes Test 3 (Pr).md",
-    "pages/5 Project Notes/How I make notes.md",
-    "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
-    "pages/3 Permanent Notes/4,a - Why does it release alpha particles.md",
-    "pages/1 Fleeting Notes/2022-09-19.md",
-    "pages/2 Literature Notes/Acute Radiation Syndrome.md",
-    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
-    "pages/2 Literature Notes/Fission.md",
-    "pages/2 Literature Notes/Fusion.md"
+    "pages/2 Literature Notes/Neutron's Instability.md",
+    "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
+    "pages/3 Permanent Notes/4,5c - Magic Numbers & Helium Stability.md",
+    "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
+    "pages/2 Literature Notes/Pions.md",
+    "pages/3 Permanent Notes/4,c - Pions.md",
+    "pages/2 Literature Notes/Strong Force.md",
+    "logo.png",
+    "pages/3 Permanent Notes/4,4a - After Decay (P).md",
+    "pages/2 Literature Notes/After Decay (L).md"
   ]
 }
