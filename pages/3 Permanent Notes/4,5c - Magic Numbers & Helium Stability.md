@@ -11,4 +11,4 @@ Magic numbers are responsible for the incredible stability of certain nuclides. 
 
 An interesting proposition that arises due to these magic numbers is the possibility of heavy (post-uranium) elements being stable.
 
-« [4,5b - Binding Energy and Mass Defect](4,5b%20-%20Binding%20Energy%20and%20Mass%20Defect
+« [4,5b - Binding Energy and Mass Defect](4,5b%20-%20Binding%20Energy%20and%20Mass%20Defect)

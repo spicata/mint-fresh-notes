@@ -1,4 +1,10 @@
-# 8 - How a Nuclear Reactor Works #Permanent 
+---
+layout: page
+tags: Permanent 
+---
+
+# 8 - How a Nuclear Reactor Works 
+
 Fuel assemblies (consisting of numerous pellets) are added into the reactor as the fuel, with one pellet containing about the same amount of energy as a tonne of coal. These assemblies were filled with radioactive materials (typically Uranium-235[^1]), and are surrounded by ceramic and metals[^2].  
 
 The nuclear reaction starts as soon as neutrons hits the radioactive substance, causing some of the atoms to undergo fission (a form of cluster decay), which ejects even more neutrons, causing a chain reaction within the reactor.

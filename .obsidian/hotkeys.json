@@ -361,14 +361,6 @@
   "omnisearch:show-modal": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "O"
-    }
-  ],
-  "switcher:open": [
-    {
-      "modifiers": [
         "Mod",
         "Shift"
       ],

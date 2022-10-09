@@ -9,11 +9,12 @@ tags: Literature
 - Chain reactions possible
 - Occurs with Uranium-235, and other very unstable atoms.
 - Tends towards Iron-56
+- Fission occurs when the products will have a higher binding energy than the reactants.
+
+[4,5b,2a - Fission](../3%20Permanent%20Notes/4,5b,2a%20-%20Fission.md)
 
 ---
 
 # Bibliography
 
-- _Fission and Fusion: What is the Difference?_ (n.d.). Energy.Gov. Retrieved 26 September 2022, from [https://www.energy.gov/ne/articles/fission-and-fusion-what-difference](https://www.energy.gov/ne/articles/fission-and-fusion-what-difference)
-- _The Fission Process | MIT Nuclear Reactor Laboratory_. (n.d.). Retrieved 26 September 2022, from [https://nrl.mit.edu/reactor/fission-process](https://nrl.mit.edu/reactor/fission-process)
-- _Nuclear fission | Examples & Process | Britannica_. (n.d.). Retrieved 26 September 2022, from [https://www.britannica.com/science/nuclear-fission](https://www.britannica.com/science/nuclear-fission)
+[Fission](../4%20Citation%20Notes/Fission.md)

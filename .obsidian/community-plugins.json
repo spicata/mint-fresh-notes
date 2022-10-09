@@ -6,7 +6,6 @@
   "obsidian-better-internal-link-inserter",
   "quick-latex",
   "obsidian-smart-typography",
-  "highlightr-plugin",
   "pane-relief",
   "lapel",
   "obsidian-sortable",
@@ -39,5 +38,6 @@
   "obsidian-metatable",
   "obsidian-word-sprint",
   "longform",
-  "simple-embeds"
+  "simple-embeds",
+  "obsidian-task-progress-bar"
 ]

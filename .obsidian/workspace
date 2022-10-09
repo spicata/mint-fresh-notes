@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7bb0a71ee10294bf",
+        "id": "cc75f3297bc39c77",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "7bb0a71ee10294bf",
+              "leaf": "cc75f3297bc39c77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,b - Strong Nuclear Force.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":589},\"to\":{\"line\":9,\"ch\":589}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/4 Citation Notes/Fusion.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":15},\"to\":{\"line\":2,\"ch\":15}}}"
             },
             {
-              "leaf": "7bb0a71ee10294bf",
+              "leaf": "cc75f3297bc39c77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/3 Permanent Notes/4,b,a - Neutron's Instability.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7bb0a71ee10294bf",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Fusion.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -32,7 +26,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
+            "file": "pages/2 Literature Notes/Fusion.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "29a7d732bfc283a7",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "29a7d732bfc283a7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/4 Citation Notes/Fusion.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":2},\"to\":{\"line\":7,\"ch\":2}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/4 Citation Notes/Fusion.md",
             "mode": "source",
             "source": true
           }
@@ -72,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fission",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -137,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
+                "file": "pages/2 Literature Notes/Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
+                "file": "pages/2 Literature Notes/Fusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +185,10 @@
           {
             "id": "acfa5f4dec7887b8",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -209,11 +231,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
+                "file": "pages/2 Literature Notes/Fusion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -256,6 +278,20 @@
                         "a": 1,
                         "rgb": 5431473
                       }
+                    },
+                    {
+                      "query": "tag:#Article",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    },
+                    {
+                      "query": "tag:#Citation",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -281,20 +317,20 @@
     "width": 371.6073913574219,
     "collapsed": true
   },
-  "active": "7bb0a71ee10294bf",
+  "active": "cc75f3297bc39c77",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/4,b,a - Neutron's Instability.md",
-    "pages/3 Permanent Notes/4 - Alpha Decay.md",
-    "pages/3 Permanent Notes/4,a - Why does it release alpha particles.md",
-    "pages/3 Permanent Notes/4,b - Strong Nuclear Force.md",
-    "pages/2 Literature Notes/Neutron's Instability.md",
-    "pages/3 Permanent Notes/4,5c - Magic Numbers & Helium Stability.md",
-    "pages/2 Literature Notes/Pions.md",
-    "pages/3 Permanent Notes/4,c - Pions.md",
-    "pages/2 Literature Notes/Strong Force.md",
-    "logo.png"
+    "pages/4 Citation Notes/Fusion.md",
+    "pages/2 Literature Notes/Fusion.md",
+    "pages/1 Fleeting Notes/Nuclear Physics Objectives.md",
+    "pages/3 Permanent Notes/8 - How a Nuclear Reactor Works.md",
+    "pages/1 Fleeting Notes/Math Tutoring Plan.md",
+    "pages/3 Permanent Notes/4,5b,2a - Fission.md",
+    "pages/1 Fleeting Notes/To do.md",
+    "pages/5 Project Notes/You would've gotten hacked if you are here.md",
+    "pages/3 Permanent Notes/4,5b - Binding Energy and Mass Defect.md",
+    "pages/2 Literature Notes/Fission.md"
   ]
 }
