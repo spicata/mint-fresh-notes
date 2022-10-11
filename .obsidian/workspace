@@ -4,52 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "cc75f3297bc39c77",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "cc75f3297bc39c77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/4 Citation Notes/Fusion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":15},\"to\":{\"line\":2,\"ch\":15}}}"
-            },
-            {
-              "leaf": "cc75f3297bc39c77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Fusion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/2 Literature Notes/Fusion.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "29a7d732bfc283a7",
+        "id": "0dfca9ab1b8da121",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "29a7d732bfc283a7",
+              "leaf": "0dfca9ab1b8da121",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/4 Citation Notes/Fusion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":2},\"to\":{\"line\":7,\"ch\":2}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/HIV and AIDS.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "0dfca9ab1b8da121",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Sartre.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "0dfca9ab1b8da121",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/1 Fleeting Notes/To do.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":16.89424251892406}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/4 Citation Notes/Fusion.md",
+            "file": "pages/2 Literature Notes/HIV and AIDS.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e52596e368da9824",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e52596e368da9824",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Raster.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":54},\"to\":{\"line\":20,\"ch\":54}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/2 Literature Notes/Raster.md",
             "mode": "source",
             "source": true
           }
@@ -155,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2 Literature Notes/Fusion.md",
+                "file": "pages/2 Literature Notes/Raster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/2 Literature Notes/Fusion.md",
+                "file": "pages/2 Literature Notes/Raster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/2 Literature Notes/Fusion.md",
+                "file": "pages/2 Literature Notes/Raster.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -317,20 +323,20 @@
     "width": 371.6073913574219,
     "collapsed": true
   },
-  "active": "cc75f3297bc39c77",
+  "active": "e52596e368da9824",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "pages/4 Citation Notes/Fusion.md",
-    "pages/2 Literature Notes/Fusion.md",
-    "pages/1 Fleeting Notes/Nuclear Physics Objectives.md",
-    "pages/3 Permanent Notes/8 - How a Nuclear Reactor Works.md",
-    "pages/1 Fleeting Notes/Math Tutoring Plan.md",
-    "pages/3 Permanent Notes/4,5b,2a - Fission.md",
-    "pages/1 Fleeting Notes/To do.md",
-    "pages/5 Project Notes/You would've gotten hacked if you are here.md",
-    "pages/3 Permanent Notes/4,5b - Binding Energy and Mass Defect.md",
-    "pages/2 Literature Notes/Fission.md"
+    "pages/2 Literature Notes/HIV and AIDS.md",
+    "pages/2 Literature Notes/Raster.md",
+    "pages/2 Literature Notes/Pions.md",
+    "pages/2 Literature Notes/Neutron's Instability.md",
+    "pages/2 Literature Notes/Metamorphosis & Kafka.md",
+    "pages/2 Literature Notes/Nuclear Recycling.md",
+    "pages/2 Literature Notes/Prokaryotic and Eukaryotic.md",
+    "pages/2 Literature Notes/Pathogen.md",
+    "pages/2 Literature Notes/Strong Force.md",
+    "pages/2 Literature Notes/Nuclear Reactor & Waste (L).md"
   ]
 }

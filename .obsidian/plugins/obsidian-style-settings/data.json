@@ -56,5 +56,11 @@
   "obsidian-prism-theme@@pt-disable-animations": false,
   "obsidian-prism-theme@@pt-disable-custom-icons": false,
   "obsidian-prism-theme@@pt-hide-view-header": false,
-  "obsidian-prism-theme@@pt-icons-accent": false
+  "obsidian-prism-theme@@pt-icons-accent": false,
+  "obsidian-prism-theme@@window-gap": 10,
+  "obsidian-prism-theme@@border-radius": 8,
+  "obsidian-prism-theme@@border-radius-small": 4,
+  "obsidian-prism-theme@@pt-minimal-right-sidebar": false,
+  "obsidian-prism-theme@@h2-text-color-dt": "var(--text-normal)",
+  "customizable-page-header-buttons@@page-header-spacing-desktop": 8
 }

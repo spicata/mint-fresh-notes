@@ -19,4 +19,3 @@ tags: Literature
 # Bibliography
 
 - The School of Life (Director). (2014, November 8). _PHILOSOPHY - Sartre_. [https://www.youtube.com/watch?v=3bQsZxDQgzU](https://www.youtube.com/watch?v=3bQsZxDQgzU)
-- 

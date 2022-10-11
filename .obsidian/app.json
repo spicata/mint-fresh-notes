@@ -38,5 +38,6 @@
     "_sass/",
     "_layouts/",
     "assets/"
-  ]
+  ],
+  "vimMode": false
 }
