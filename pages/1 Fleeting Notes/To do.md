@@ -29,11 +29,15 @@ tags: Fleeting
 
 ---
 
-- [ ] Maths - Test 4 :: Week 3
+- [ ] Maths - Test 4 :: Thursday Week 3
 - [ ] Literature - Panel Discussion :: Week 2
+
+---
+
 - [x] Science - Physics Test :: Monday Week 1
 	- [x] Study
 	- [ ] Do a pre-test
+- [ ] Science - Semester Exam :: Tuesday Week 6
 
 ---
 
@@ -44,6 +48,8 @@ tags: Fleeting
 
 - [ ] Multimedia :: Week 2
 	- [ ] Exploring Raster and Vector
+		- [x] Raster
+		- [ ] Vector
 	- [ ] Practicing
 	- [ ] Plan and Design
 	- [ ] Final Graphic

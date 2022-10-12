@@ -4,58 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "0dfca9ab1b8da121",
+        "id": "d2c478178392ac66",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "0dfca9ab1b8da121",
+              "leaf": "d2c478178392ac66",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Sexual Health.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":2},\"to\":{\"line\":14,\"ch\":2}},\"scroll\":0}"
+            },
+            {
+              "leaf": "d2c478178392ac66",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/HIV and AIDS.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{}"
             },
             {
-              "leaf": "0dfca9ab1b8da121",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Sartre.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "0dfca9ab1b8da121",
+              "leaf": "d2c478178392ac66",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/1 Fleeting Notes/To do.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":16.89424251892406}"
+              "eState": "{\"scroll\":28.015898764382847}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/2 Literature Notes/HIV and AIDS.md",
-            "mode": "preview",
+            "file": "pages/2 Literature Notes/Sexual Health.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "e52596e368da9824",
+        "id": "7fcd269fbba139ac",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "e52596e368da9824",
+              "leaf": "7fcd269fbba139ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Raster.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":54},\"to\":{\"line\":20,\"ch\":54}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Sexual Health.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/2 Literature Notes/Raster.md",
+            "file": "pages/Sexual Health.md",
             "mode": "source",
             "source": true
           }
@@ -71,7 +71,7 @@
       {
         "id": "7e460d48341137b1",
         "type": "tabs",
-        "dimension": 52.647352647352655,
+        "dimension": 51.26760563380282,
         "children": [
           {
             "id": "9031433c1cc68c4f",
@@ -121,7 +121,7 @@
       {
         "id": "3d04a9263d1cb1d1",
         "type": "tabs",
-        "dimension": 47.35264735264735,
+        "dimension": 48.732394366197184,
         "children": [
           {
             "id": "a1bfe595c3716ff8",
@@ -149,7 +149,7 @@
       {
         "id": "c620534039166d03",
         "type": "tabs",
-        "dimension": 28.589743589743595,
+        "dimension": 33.358264771877344,
         "children": [
           {
             "id": "66d899a4ef477941",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2 Literature Notes/Raster.md",
+                "file": "pages/2 Literature Notes/Sexual Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/2 Literature Notes/Raster.md",
+                "file": "pages/2 Literature Notes/Sexual Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,14 +199,28 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "c634759688c7b4e5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/2 Literature Notes/Sexual Health.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "72e42d6a855a4274",
         "type": "tabs",
-        "dimension": 28.589743589743595,
+        "dimension": 16.679132385938672,
         "children": [
           {
             "id": "a7258a853a197e96",
@@ -225,7 +239,7 @@
       {
         "id": "49f0ab6d7f9459c6",
         "type": "tabs",
-        "dimension": 42.82051282051281,
+        "dimension": 49.96260284218398,
         "children": [
           {
             "id": "5f63a354411791c3",
@@ -237,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/2 Literature Notes/Raster.md",
+                "file": "pages/2 Literature Notes/Sexual Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -320,23 +334,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.6073913574219,
+    "width": 296,
     "collapsed": true
   },
-  "active": "e52596e368da9824",
+  "active": "d2c478178392ac66",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "pages/5 Project Notes/How I make notes.md",
+    "pages/2 Literature Notes/Sexual Health.md",
+    "pages/Sexual Health.md",
     "pages/2 Literature Notes/HIV and AIDS.md",
+    "pages/1 Fleeting Notes/To do.md",
     "pages/2 Literature Notes/Raster.md",
-    "pages/2 Literature Notes/Pions.md",
-    "pages/2 Literature Notes/Neutron's Instability.md",
-    "pages/2 Literature Notes/Metamorphosis & Kafka.md",
-    "pages/2 Literature Notes/Nuclear Recycling.md",
-    "pages/2 Literature Notes/Prokaryotic and Eukaryotic.md",
-    "pages/2 Literature Notes/Pathogen.md",
-    "pages/2 Literature Notes/Strong Force.md",
-    "pages/2 Literature Notes/Nuclear Reactor & Waste (L).md"
+    "pages/6 Articles/Nuclear Decay/manuscript.md",
+    "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
+    "pages/3 Permanent Notes/11 - Raster.md",
+    "pages/2 Literature Notes/Fusion.md"
   ]
 }

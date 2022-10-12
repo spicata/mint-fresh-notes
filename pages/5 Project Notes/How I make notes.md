@@ -27,7 +27,7 @@ It is difficult to memorise that an artery has thicker walls and a vein has valv
 
 ## The Process
 
-I tend to take fleeting notes at school. Sure, they teach some valuable information, but teacher know subjects less that one may believe, and much of the information is borrowed from past years. On top of that, they often lack explanations. Why does that occur? How does this work? What you learn at school can be valuable, but best used as a tool to orient yourselves in the confusing realms of research.
+I tend to take fleeting notes at school. Sure, they teach some valuable information, but teacher lack the time to teach their subject thoroughly, and much of the information is borrowed from past years. On top of that, there is not enough time for explanations. Why does that occur? How does this work? What you learn at school can be valuable, but best used as a tool to orient yourselves in the confusing realms of research.
 
 Once you have time, you research upon these subjects. You answer your questions, you find more relevant information. This is the time to develop your understanding of the topic. Oh, the sickness caused from radiation is called acute radiation syndrome. Oh, strong force is transmit by gluons. This is where I use literature notes.
 
