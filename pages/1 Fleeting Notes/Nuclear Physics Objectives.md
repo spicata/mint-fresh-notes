@@ -26,3 +26,5 @@ tags: Fleeting
 - [x] I can explain, in simple terms, how nuclear power stations work to generate electricity. A nuclear reactor is a device in which nuclear reactions are generated, and the chain reaction is controlled to release large amount of steady heat, thereby producing energy.
 - [x] I can describe an uncontrolled reaction in terms of neutrons escaping too quickly to maintain a chain reaction, resulting in the rapid release of nuclear energy, causing an explosion. Contrast this with a controlled reaction.
 - [x] I can analyse some advantages and disadvantages of using nuclear energy to generate electricity.
+
+Read the question.

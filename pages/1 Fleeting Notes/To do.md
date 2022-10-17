@@ -5,22 +5,17 @@ tags: Fleeting
 
 # To do
 
-- [ ] Health - Assessment Task:: Week 2
+- [ ] Health - Assessment Task:: Wednesday Week 2
+	- [x] Importance of sexual health education
 	- [ ] Research on HIV and AIDS
-		- [ ] The virus itself
-		- [ ] Statistics
-	- [ ] Find the main stakeholders
-		- [ ] The LGBTQI+ community?
-		- [ ] Drug users?
-		- [ ] Everyone else?
-	- [ ] Research about the Grim Reaper advertisement
-		- [ ] Production
-		- [ ] Reception
+		- [x] The virus itself
+		- [x] Statistics
+	- [ ] Plan an infographic
 
 ---
 
 - [ ] Chinese - Oral Draft :: Friday Week 2
-	- [ ] Read the task document
+	- [x] Read the task document
 	- [ ] Fabricate a draft
 	- [ ] Send in for submission
 - [ ] Chinese - Written Assessment :: Friday Week 3
@@ -47,10 +42,10 @@ tags: Fleeting
 ---
 
 - [ ] Multimedia :: Week 2
-	- [ ] Exploring Raster and Vector
+	- [x] Exploring Raster and Vector
 		- [x] Raster
-		- [ ] Vector
-	- [ ] Practicing
+		- [x] Vector
+	- [x] Practicing
 	- [ ] Plan and Design
 	- [ ] Final Graphic
 	- [ ] Evaluation

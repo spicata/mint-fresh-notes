@@ -5,7 +5,7 @@ tags: Permanent
 
 # 12,a - HIV and AIDS
 
-Human immunodeficiency virus (HIV) is a sexually transmitted infection (STI) that targets and weakens the human immune system; currently, 38.4 million people have HIV (World Health Organisation, 2022).
+Human immunodeficiency virus (HIV) is a sexually transmitted infection (STI) that targets and weakens the human immune system; currently, 38.4 million people have HIV.
 
 | Demographic | Count        |
 |:------------|:-------------|
@@ -45,4 +45,10 @@ Those with HIV are also more prone to getting sick. Eventually, if left untreate
 
 Sadly, HIV cannot be cured, but luckily, it can be supressed. It is difficult to cure HIV as it remains embedded in the lymph nodes, where they can reproduce and re-enter the bloodstream. Using medications, we are able to kill all the HIV in the bloodstream, but without continual consumption of this drug, HIV return back into the bloodstream
 
-A way to supress HIV is through antiretroviral therapy (ART)
+A way to supress HIV is through antiretroviral therapy (ART), which keeps the viral load within the bloodstream under a detectable amount, which will allow safe sex between a person with and a person without HIV.
+
+## Prevention
+
+As with many other STIs, the proper usage of protection can be used to mostly protect against HIV. The use of male and female condoms has been found to cut down the chances of getting HIV by a substantial amount. On top of that, the aforementioned ART can also protect others from getting HIV. When the proper HIV treatment (including ART) is used by pregnant women, the probability that the infant also has HIV can be reduced to less than 1%. 
+
+Several governments have also created programs that hands out clean needles to both hospital and drug users to curb the number of HIV cases caused by reusing the same needle on several people.

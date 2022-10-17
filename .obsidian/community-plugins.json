@@ -6,7 +6,6 @@
   "obsidian-better-internal-link-inserter",
   "quick-latex",
   "obsidian-smart-typography",
-  "pane-relief",
   "lapel",
   "obsidian-sortable",
   "obsidian-latex-suite",
@@ -42,5 +41,7 @@
   "note-refactor-obsidian",
   "markdown-table-editor",
   "emoji-shortcodes",
-  "quick-explorer"
+  "quick-explorer",
+  "obsidian-core-search-assistant-plugin",
+  "auto-note-mover"
 ]

@@ -39,5 +39,6 @@
     "_layouts/",
     "assets/"
   ],
-  "vimMode": false
+  "vimMode": false,
+  "showInlineTitle": false
 }

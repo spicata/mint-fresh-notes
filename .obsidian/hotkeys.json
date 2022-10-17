@@ -119,87 +119,7 @@
   "highlightr-plugin:Pink": [],
   "highlightr-plugin:Orange": [],
   "highlightr-plugin:Blue": [],
-  "pane-relief:go-1st": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
-  "pane-relief:go-2nd": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "2"
-    }
-  ],
-  "pane-relief:go-3rd": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "3"
-    }
-  ],
-  "pane-relief:go-4th": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "4"
-    }
-  ],
-  "pane-relief:go-5th": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "5"
-    }
-  ],
-  "pane-relief:go-6th": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "6"
-    }
-  ],
-  "pane-relief:go-7th": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "7"
-    }
-  ],
-  "pane-relief:go-8th": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "8"
-    }
-  ],
-  "pane-relief:go-last": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "9"
-    }
-  ],
   "pane-relief:win-next": [],
-  "pane-relief:go-next": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Tab"
-    }
-  ],
   "highlightr-plugin:unhighlight": [
     {
       "modifiers": [
@@ -215,15 +135,6 @@
         "Alt"
       ],
       "key": "1"
-    }
-  ],
-  "pane-relief:go-prev": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Tab"
     }
   ],
   "obsidian-banners:banners:addIcon": [
@@ -394,5 +305,26 @@
       "key": "N"
     }
   ],
-  "obsidian-hotkeys-for-templates:new-file-template-in-pages-from-page-layout.md": []
+  "obsidian-hotkeys-for-templates:new-file-template-in-pages-from-page-layout.md": [],
+  "pane-relief:go-last": [],
+  "pane-relief:go-8th": [],
+  "pane-relief:go-7th": [],
+  "pane-relief:go-1st": [],
+  "pane-relief:go-prev": [],
+  "pane-relief:go-next": [],
+  "pane-relief:go-2nd": [],
+  "pane-relief:go-3rd": [],
+  "pane-relief:go-4th": [],
+  "pane-relief:go-5th": [],
+  "pane-relief:go-6th": [],
+  "editor:insert-embed": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": []
 }

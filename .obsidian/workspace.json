@@ -4,50 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "8c25752faefccb72",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "8c25752faefccb72",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Sexual Health.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":23.314581871032715}"
+        "id": "e3ebe18c59edb942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058bc640aa77ad5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/2 Literature Notes/HIV and AIDS.md",
+                "mode": "source",
+                "source": true
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/2 Literature Notes/Sexual Health.md",
-            "mode": "source",
-            "source": true
           }
-        }
+        ]
       },
       {
-        "id": "db2e9023f83137d3",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "db2e9023f83137d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Sexual Health.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":295},\"to\":{\"line\":10,\"ch\":295}}}"
+        "id": "166c7dd3d1f392e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a84e31f7e57146a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+                "mode": "source",
+                "source": true
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Sexual Health.md",
-            "mode": "source",
-            "source": true
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,27 +49,20 @@
       {
         "id": "7e460d48341137b1",
         "type": "tabs",
-        "dimension": 51.26760563380282,
         "children": [
           {
             "id": "9031433c1cc68c4f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
             "id": "79216ca039f67b55",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
@@ -93,33 +76,18 @@
             }
           },
           {
-            "id": "c341c126a596bfed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "3d04a9263d1cb1d1",
-        "type": "tabs",
-        "dimension": 48.732394366197184,
-        "children": [
-          {
             "id": "a1bfe595c3716ff8",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "stat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c341c126a596bfed",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
           }
@@ -127,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -136,19 +105,27 @@
       {
         "id": "c620534039166d03",
         "type": "tabs",
-        "dimension": 33.358264771877344,
+        "dimension": 48.07480748074808,
         "children": [
           {
-            "id": "66d899a4ef477941",
+            "id": "9b45f6e80143f0be",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14182a94a232297c",
+            "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md",
+                "file": "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,28 +137,8 @@
             }
           },
           {
-            "id": "8822e43fe7eb2d44",
+            "id": "57a60a4762909ad3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "acfa5f4dec7887b8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -190,55 +147,28 @@
           {
             "id": "c634759688c7b4e5",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md"
+                "file": "pages/3 Permanent Notes/12,a - HIV and AIDS.md"
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "72e42d6a855a4274",
-        "type": "tabs",
-        "dimension": 16.679132385938672,
-        "children": [
-          {
-            "id": "a7258a853a197e96",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 2
       },
       {
         "id": "49f0ab6d7f9459c6",
         "type": "tabs",
-        "dimension": 49.96260284218399,
+        "dimension": 51.92519251925193,
         "children": [
           {
             "id": "5f63a354411791c3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md",
+                "file": "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -311,33 +241,41 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.20461219752433032,
+                  "scale": 0.2432972284189982,
                   "close": true
                 }
               }
             }
+          },
+          {
+            "id": "a7258a853a197e96",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 296,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "8c25752faefccb72",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": true
+  "ribbon": {
+    "mostRecentAction": ""
   },
+  "active": "0a84e31f7e57146a",
   "lastOpenFiles": [
-    "pages/Sexual Health.md",
-    "pages/2 Literature Notes/Sexual Health.md",
-    "pages/2 Literature Notes/SARS-CoV-2.md",
-    "pages/1 Fleeting Notes/Nuclear Physics Objectives.md",
-    "pages/2 Literature Notes/Vector.md",
-    "pages/11,a - Vector.md",
-    "pages/3 Permanent Notes/11 - Raster.md",
-    "pages/4 Citation Notes/Vector.md",
-    "pages/2 Literature Notes/Raster.md",
-    "pages/4 Citation Notes/Raster.md"
+    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+    "pages/2 Literature Notes/HIV and AIDS.md",
+    "pages/1 Fleeting Notes/Multimedia Planning.md",
+    "pages/1 Fleeting Notes/Multimedia Timeline.md",
+    "pages/1 Fleeting Notes/2022-10-17.md",
+    "pages/1 Fleeting Notes/CSL Oral Exam.md",
+    "pages/1 Fleeting Notes/Fleeting 1.md",
+    "pages/1 Fleeting Notes/English Comprehension.md",
+    "pages/4 Citation Notes/HIV and AIDS.md",
+    "pages/3 Permanent Notes/12 - Sexual Health.md"
   ]
 }

@@ -2,11 +2,14 @@
   "cssTheme": "Prism",
   "enabledCssSnippets": [
     "theme",
-    "mark fixer",
-    "testing"
+    "testing",
+    "mark fixer"
   ],
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 15,
-  "textFontFamily": ""
+  "baseFontSize": 16,
+  "textFontFamily": "",
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": false
 }
