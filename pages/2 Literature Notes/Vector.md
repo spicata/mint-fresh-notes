@@ -22,6 +22,8 @@ tags: Literature
 - Simply more accurate
 - .pdf, .svg
 
+[11,a - Vector](../3%20Permanent%20Notes/11,a%20-%20Vector.md)
+
 ---
 
 # Bibliography
