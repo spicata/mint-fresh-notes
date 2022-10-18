@@ -7,6 +7,26 @@
       "folder": "pages/1 Fleeting Notes",
       "tag": "#Fleeting",
       "pattern": ""
+    },
+    {
+      "folder": "pages/2 Literature Notes",
+      "tag": "#Literature",
+      "pattern": ""
+    },
+    {
+      "folder": "pages/3 Permanent Notes",
+      "tag": "#Permanent",
+      "pattern": ""
+    },
+    {
+      "folder": "pages/4 Citation Notes",
+      "tag": "#Citation",
+      "pattern": ""
+    },
+    {
+      "folder": "pages/5 Project Notes",
+      "tag": "#Project",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

@@ -146,14 +146,7 @@
       "key": "V"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
+  "file-explorer:move-file": [],
   "obsidian-footnotes:insert-footnote": [
     {
       "modifiers": [
@@ -326,5 +319,13 @@
       "key": "Enter"
     }
   ],
-  "editor:open-link-in-new-leaf": []
+  "editor:open-link-in-new-leaf": [],
+  "auto-note-mover:Move-the-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }

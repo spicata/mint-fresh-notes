@@ -17,4 +17,4 @@ Put text on the “real” side, using maybe Garamond. Format it as a form of ad
 
 ## Resources
 
-https://creativecloud.adobe.com/discover/article/how-to-make-a-ripped-paper-edge-in-adobe-photoshope
+https://creativecloud.adobe.com/discover/article/how-to-make-a-ripped-paper-edge-in-adobe-photoshop
