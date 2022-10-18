@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
+                "file": "pages/2 Literature Notes/HIV Support Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
+                "file": "pages/2 Literature Notes/HIV Support Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/12,b - HIV Support Groups.md"
+                "file": "pages/2 Literature Notes/HIV Support Groups.md"
               }
             }
           }
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
+                "file": "pages/2 Literature Notes/HIV Support Groups.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
