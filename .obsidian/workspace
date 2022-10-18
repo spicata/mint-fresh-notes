@@ -4,46 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c25752faefccb72",
+        "id": "de9c0dbd79441c2d",
         "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "8c25752faefccb72",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/2 Literature Notes/Sexual Health.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":23.314581871032715}"
-            }
-          ]
-        },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/2 Literature Notes/Sexual Health.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "db2e9023f83137d3",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "db2e9023f83137d3",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Sexual Health.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":295},\"to\":{\"line\":10,\"ch\":295}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Sexual Health.md",
+            "file": "pages/2 Literature Notes/HIV Support Groups.md",
             "mode": "source",
             "source": true
           }
@@ -64,10 +30,6 @@
           {
             "id": "9031433c1cc68c4f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -76,10 +38,6 @@
           {
             "id": "79216ca039f67b55",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
@@ -95,10 +53,6 @@
           {
             "id": "c341c126a596bfed",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
@@ -114,10 +68,6 @@
           {
             "id": "a1bfe595c3716ff8",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "stat-view",
               "state": {}
@@ -127,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -141,14 +92,10 @@
           {
             "id": "66d899a4ef477941",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md",
+                "file": "pages/2 Literature Notes/HIV Support Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,14 +109,10 @@
           {
             "id": "8822e43fe7eb2d44",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md",
+                "file": "pages/2 Literature Notes/HIV Support Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +121,6 @@
           {
             "id": "acfa5f4dec7887b8",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -190,15 +129,19 @@
           {
             "id": "c634759688c7b4e5",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md"
+                "file": "pages/2 Literature Notes/HIV Support Groups.md"
               }
+            }
+          },
+          {
+            "id": "3eee36984e14a5b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
             }
           }
         ],
@@ -212,10 +155,6 @@
           {
             "id": "a7258a853a197e96",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "graph-analysis",
               "state": {}
@@ -231,14 +170,10 @@
           {
             "id": "5f63a354411791c3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/2 Literature Notes/Sexual Health.md",
+                "file": "pages/2 Literature Notes/HIV Support Groups.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -324,13 +259,10 @@
     "width": 296,
     "collapsed": true
   },
-  "active": "8c25752faefccb72",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": true
-  },
+  "active": "de9c0dbd79441c2d",
   "lastOpenFiles": [
-    "pages/Sexual Health.md",
     "pages/2 Literature Notes/Sexual Health.md",
+    "pages/Sexual Health.md",
     "pages/2 Literature Notes/SARS-CoV-2.md",
     "pages/1 Fleeting Notes/Nuclear Physics Objectives.md",
     "pages/2 Literature Notes/Vector.md",
