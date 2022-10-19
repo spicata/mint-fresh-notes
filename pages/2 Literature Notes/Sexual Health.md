@@ -31,10 +31,10 @@ tags: Literature
 
 - In Victoria this is done to encourage safer sex or abstinence
 
-[12 - Sexual Health](../3%20Permanent%20Notes/12%20-%20Sexual%20Health.md)
+[12 - Sexual Health](../3%20Permanent%20Notes/12%20-%20Sexual%20Health)
 
 ---
 
 # Bibliography
 
-- [Sexual Health](../4%20Citation%20Notes/Sexual%20Health.md)
+- [Sexual Health](../4%20Citation%20Notes/Sexual%20Health)

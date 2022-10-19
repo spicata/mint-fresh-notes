@@ -17,10 +17,10 @@ tags: Literature
 	- Impactful and harsh
 - Franz Kafka
 
-[10 - Expressionism](../3%20Permanent%20Notes/10%20-%20Expressionism.md)
+[10 - Expressionism](../3%20Permanent%20Notes/10%20-%20Expressionism)
 
 ---
 
 # Bibliography
 
-[Expressionism](../4%20Citation%20Notes/Expressionism.md)
+[Expressionism](../4%20Citation%20Notes/Expressionism)

@@ -69,10 +69,10 @@ tags: Literature
 - This allows for safe sex between a HIV pos and neg person given that the viral load is undetectable.
 - AIDS and symptomatic are the same?
 
-[12,a - HIV and AIDS](../3%20Permanent%20Notes/12,a%20-%20HIV%20and%20AIDS.md)
+[12,a - HIV and AIDS](../3%20Permanent%20Notes/12,a%20-%20HIV%20and%20AIDS)
 
 ---
 
 # Bibliography
 
-[HIV and AIDS](../4%20Citation%20Notes/HIV%20and%20AIDS.md)
+[HIV and AIDS](../4%20Citation%20Notes/HIV%20and%20AIDS)

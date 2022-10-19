@@ -11,10 +11,10 @@ tags: Literature
 - Tends towards Iron-56
 - Fission occurs when the products will have a higher binding energy than the reactants.
 
-[4,5b,2a - Fission](../3%20Permanent%20Notes/4,5b,2a%20-%20Fission.md)
+[4,5b,2a - Fission](../3%20Permanent%20Notes/4,5b,2a%20-%20Fission)
 
 ---
 
 # Bibliography
 
-[Fission](../4%20Citation%20Notes/Fission.md)
+[Fission](../4%20Citation%20Notes/Fission)

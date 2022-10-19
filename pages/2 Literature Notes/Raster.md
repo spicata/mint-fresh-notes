@@ -30,10 +30,10 @@ tags: Literature
 
 - Most files came as a result of fixing the former
 
-[11 - Raster](../3%20Permanent%20Notes/11%20-%20Raster.md)
+[11 - Raster](../3%20Permanent%20Notes/11%20-%20Raster)
 
 ---
 
 # Bibliography
 
-[Raster](../4%20Citation%20Notes/Raster.md)
+[Raster](../4%20Citation%20Notes/Raster)

@@ -22,10 +22,10 @@ tags: Literature
 - Simply more accurate
 - .pdf, .svg
 
-[11,a - Vector](../3%20Permanent%20Notes/11,a%20-%20Vector.md)
+[11,a - Vector](../3%20Permanent%20Notes/11,a%20-%20Vector)
 
 ---
 
 # Bibliography
 
-[Vector](../4%20Citation%20Notes/Vector.md)
+[Vector](../4%20Citation%20Notes/Vector)
