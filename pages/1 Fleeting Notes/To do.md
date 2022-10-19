@@ -7,7 +7,7 @@ tags: Fleeting
 
 - [ ] Health - Assessment Task:: Wednesday Week 2
 	- [x] Importance of sexual health education
-	- [ ] Research on HIV and AIDS
+	- [x] Research on HIV and AIDS
 		- [x] The virus itself
 		- [x] Statistics
 	- [ ] Plan an infographic
@@ -32,6 +32,7 @@ tags: Fleeting
 - [x] Science - Physics Test :: Monday Week 1
 	- [x] Study
 	- [ ] Do a pre-test
+- [ ] Science - Biology Cat :: Monday Week 3
 - [ ] Science - Semester Exam :: Tuesday Week 6
 
 ---

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "279af36b90c19066",
+        "id": "32f91fb866156b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "c358b8e3bddea4ec",
+            "id": "00134620d8bf8aa3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -94,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md"
+              }
             }
           }
         ],
@@ -145,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -240,17 +246,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c358b8e3bddea4ec",
+  "active": "00134620d8bf8aa3",
   "lastOpenFiles": [
+    "assets/Kanyini Scheme.png",
+    "pages/2 Literature Notes/Kanyini.md",
+    "pages/1 Fleeting Notes/Health Promotion.md",
+    "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
+    "pages/1 Fleeting Notes/To do.md",
     "pages/2 Literature Notes/Talking about HIV.md",
     "pages/3 Permanent Notes/12,c - Talking about HIV.md",
     "conflict-files-obsidian-git.md",
     "pages/4 Citation Notes/Talking about HIV.md",
-    "pages/2 Literature Notes/HIV Support Groups.md",
-    "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
-    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/1 Fleeting Notes/CSL Oral Exam.md",
-    "about.md",
-    "pages/1 Fleeting Notes/Multimedia Planning.md"
+    "pages/2 Literature Notes/HIV Support Groups.md"
   ]
 }
