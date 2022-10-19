@@ -5,30 +5,21 @@
       "path": "pages/6 Articles/Nuclear Decay",
       "indexFile": "Index",
       "draftsPath": "Drafts/"
+    },
+    "pages/6 Articles/Health Promotion": {
+      "path": "pages/6 Articles/Health Promotion",
+      "indexFile": "Index",
+      "draftsPath": "Drafts/"
     }
   },
-  "selectedProject": "pages/6 Articles/Nuclear Decay",
-  "selectedDraft": null,
+  "selectedProject": "pages/6 Articles/Health Promotion",
+  "selectedDraft": "Draft 1",
   "userScriptFolder": null,
   "workflows": {
     "Default Workflow": {
       "name": "Default Workflow",
       "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
       "steps": [
-        {
-          "id": "remove-links",
-          "optionValues": {
-            "remove-wikilinks": true,
-            "remove-external-links": true
-          }
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "## $1",
-            "separator": "\n\n"
-          }
-        },
         {
           "id": "concatenate-text",
           "optionValues": {
