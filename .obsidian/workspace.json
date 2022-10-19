@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32f91fb866156b5b",
+        "id": "ac753ecae9ded3e3",
         "type": "tabs",
         "children": [
           {
-            "id": "00134620d8bf8aa3",
+            "id": "f29626f49450dcf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/1 Fleeting Notes/19-10-2022.md",
+                "file": "pages/2 Literature Notes/Innate Immune System.md",
                 "mode": "source",
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/1 Fleeting Notes/19-10-2022.md",
+                "file": "pages/2 Literature Notes/Innate Immune System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/1 Fleeting Notes/19-10-2022.md",
+                "file": "pages/2 Literature Notes/Innate Immune System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/1 Fleeting Notes/19-10-2022.md"
+                "file": "pages/2 Literature Notes/Innate Immune System.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/1 Fleeting Notes/19-10-2022.md",
+                "file": "pages/2 Literature Notes/Innate Immune System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -246,17 +246,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "00134620d8bf8aa3",
+  "active": "f29626f49450dcf7",
   "lastOpenFiles": [
+    "pages/2 Literature Notes/Non-specific immune response.md",
+    "pages/2 Literature Notes/Innate Immune System.md",
+    "pages/1 Fleeting Notes/19-10-2022.md",
     "assets/Kanyini Scheme.png",
     "pages/2 Literature Notes/Kanyini.md",
     "pages/1 Fleeting Notes/Health Promotion.md",
     "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
     "pages/1 Fleeting Notes/To do.md",
     "pages/2 Literature Notes/Talking about HIV.md",
-    "pages/3 Permanent Notes/12,c - Talking about HIV.md",
-    "conflict-files-obsidian-git.md",
-    "pages/4 Citation Notes/Talking about HIV.md",
-    "pages/2 Literature Notes/HIV Support Groups.md"
+    "pages/3 Permanent Notes/12,c - Talking about HIV.md"
   ]
 }
