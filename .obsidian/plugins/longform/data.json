@@ -10,9 +10,14 @@
       "path": "pages/6 Articles/Health Promotion",
       "indexFile": "Index",
       "draftsPath": "Drafts/"
+    },
+    "pages/6 Articles/Vectors and Rasters": {
+      "path": "pages/6 Articles/Vectors and Rasters",
+      "indexFile": "Index",
+      "draftsPath": "Drafts/"
     }
   },
-  "selectedProject": "pages/6 Articles/Health Promotion",
+  "selectedProject": "pages/6 Articles/Vectors and Rasters",
   "selectedDraft": "Draft 1",
   "userScriptFolder": null,
   "workflows": {

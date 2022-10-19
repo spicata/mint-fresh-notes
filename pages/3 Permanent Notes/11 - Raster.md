@@ -10,3 +10,15 @@ Raster graphics are a group of computer graphics that use pixels and a bitmap to
 Raster graphics are an adaptation of the technology used in televisions to display stuff, limited by the amount of pixels on a screen: the resolution. These graphics are great at displaying photographs and other non-line art images, as each pixel can be influenced separately from others, rather than having to rely on rudimentary shapes. However, higher resolutions come at the cost of requiring increasingly high storage. On top of that, scaled up images can lead to the appearance of a pixelated image.
 
 There are many raster graphic file types, such as .png, .gif, and .jpeg. Most of these came as a result of trying to fix former file types.
+
+## Examples
+
+![](../../assets/Seagull%20-%20Raster%201.png)
+
+![](../../assets/Buns%20-%20Raster%202.png)
+
+![](../../assets/Place%20-%20Raster%203.png)
+
+![](../../assets/Frog%20-%20Raster%204.png)
+
+![](../../assets/Coconut%20-%20Raster%205.png)

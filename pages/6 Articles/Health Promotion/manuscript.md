@@ -6,7 +6,7 @@ Sexual health education is an incredibly important subject that needs to be taug
 
 One clear example of the effect of sexual health education would be the downwards trend of teenage pregnancy in Australia; between 1971 and 2020, there has been a 86% decrease in births from 15 to 19 year old (Australian Bureau of Statistics, 2021; Linda Mann et al., 2020). However, communities that have not yet or are unable to receive such education, such as Indigenous Australians and Torres Strait Islanders or those who are economically disadvantaged tend to have a higher teenage fertility rate than the rest of Australia.
 
-To add to the importance of this topic, educating teenagers reduces the number of risky sexual decisions that they take; educated teenagers tend to have less sexual partners and use protection more often that those who have not received such education (CDC, 2021). This can mitigate the spread of STIs in our communities ([12,a - HIV and AIDS](12,a%20-%20HIV%20and%20AIDS.md)), which still remains a large problem within developed countries, where almost half of the STI cases happen to be teenagers (Advocates for Youth, 2021).
+To add to the importance of this topic, educating teenagers reduces the number of risky sexual decisions that they take; educated teenagers tend to have less sexual partners and use protection more often that those who have not received such education (CDC, 2021). This can mitigate the spread of STIs in our communities, which still remains a large problem within developed countries, where almost half of the STI cases happen to be teenagers (Advocates for Youth, 2021).
 
 ## Part 1.2 - HIV
 
@@ -60,7 +60,7 @@ Several governments have also created programs that hands out clean needles to b
 
 ### HIV Support Groups
 
-There are various support groups that exist specifically for HIV, as it is such a pressing and important health issue that continues to plague us. In Australia, there are lots of non-government organisations that people with HIV can turn to for help, such as [NAPWHA](https://napwha.org.au/), [AFAO](https://www.afao.org.au/), and [WAAC](https://www.waac.com.au/). There exist further resources at [Youth Solutions](https://youthsolutions.com.au/support/hiv-hepatitis-and-sexual-health-services/) and [Health Direct](https://www.healthdirect.gov.au/hiv-infection-and-aids#resources) (the latter also provides valuable information on HIV).
+There are various support groups that exist specifically for HIV, as it is such a pressing and important health issue that continues to plague us. In Australia, there are lots of non-government organisations that people with HIV can turn to for help, such as NAPWHA, AFAO, and WAAC. There exist further resources at Youth Solutions and Health Direct (the latter also provides valuable information on HIV).
 
 To add to that, those who believe they have HIV and are in a position where they could have gotten HIV are able to see their local hospital to get a check-up.
 
@@ -90,16 +90,16 @@ The key message for this campaign would be to *learn more*, as I believe that le
 
 # Bibliography
 
-- World Health Organisation. (2022, July). _HIV_. [https://www.who.int/data/gho/data/themes/hiv-aids](https://www.who.int/data/gho/data/themes/hiv-aids)
-- Wikipedia. (2022). HIV. In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=HIV&oldid=1114378739](https://en.wikipedia.org/w/index.php?title=HIV&oldid=1114378739)
-- Wikipedia. (2022). HIV/AIDS. In _Wikipedia_. [https://en.wikipedia.org/w/index.php?title=HIV/AIDS&oldid=1114093691](https://en.wikipedia.org/w/index.php?title=HIV/AIDS&oldid=1114093691)
-- simpleshow foundation (Director). (2014, July 28). _HIV and AIDS – explained in a simple way_. [https://www.youtube.com/watch?v=DzXgCW9YcNg](https://www.youtube.com/watch?v=DzXgCW9YcNg)
-- HIV.gov. (n.d.). _Global Statistics_. HIV.Gov. Retrieved 11 October 2022, from [https://www.hiv.gov/hiv-basics/overview/data-and-trends/global-statistics](https://www.hiv.gov/hiv-basics/overview/data-and-trends/global-statistics)
-- Mayo Clinic. (n.d.). _HIV/AIDS - Symptoms and causes_. Mayo Clinic. Retrieved 16 October 2022, from [https://www.mayoclinic.org/diseases-conditions/hiv-aids/symptoms-causes/syc-20373524](https://www.mayoclinic.org/diseases-conditions/hiv-aids/symptoms-causes/syc-20373524)
-- Balzer, D. (2021, June 14). _Forty years of HIV/AIDS: Will the epidemic end?_ Mayo Clinic News Network. [https://newsnetwork.mayoclinic.org/discussion/forty-years-of-hiv-aids-will-the-epidemic-end/](https://newsnetwork.mayoclinic.org/discussion/forty-years-of-hiv-aids-will-the-epidemic-end/)
-- HIV.gov. (2022, June 15). _Symptoms of HIV_. HIV.Gov. [https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/symptoms-of-hiv](https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/symptoms-of-hiv)
-- Linda Mann, Deborah Bateson, & Kirsten Black. (2020, June). _Teenage pregnancy_. Australian Journal of General Practice. [https://www1.racgp.org.au/ajgp/2020/june/teenage-pregnancy](https://www1.racgp.org.au/ajgp/2020/june/teenage-pregnancy)
-- CDC. (2021, August 18). _What Works: Sexual Health Education | Adolescent and School Health | CDC_. [https://www.cdc.gov/healthyyouth/whatworks/what-works-sexual-health-education.htm](https://www.cdc.gov/healthyyouth/whatworks/what-works-sexual-health-education.htm)
-- Advocates for Youth. (2021, June). _Final-Sexual-Health-Ed-and-Academic-Success.pdf_. [https://www.advocatesforyouth.org/wp-content/uploads/2021/06/Final-Sexual-Health-Ed-and-Academic-Success.pdf](https://www.advocatesforyouth.org/wp-content/uploads/2021/06/Final-Sexual-Health-Ed-and-Academic-Success.pdf)
-- State Government of Victoria. (2020, October 20). _About sexuality education_. [https://www.education.vic.gov.au:443/school/teachers/teachingresources/discipline/physed/Pages/about.aspx](https://www.education.vic.gov.au:443/school/teachers/teachingresources/discipline/physed/Pages/about.aspx)
-- Australian Bureau of Statistics. (2021, December 8). _Births, Australia, 2020 | Australian Bureau of Statistics_. [https://www.abs.gov.au/statistics/people/population/births-australia/latest-release](https://www.abs.gov.au/statistics/people/population/births-australia/latest-release)
+- World Health Organisation. (2022, July). _HIV_. https://www.who.int/data/gho/data/themes/hiv-aids
+- Wikipedia. (2022). HIV. In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=HIV&oldid=1114378739
+- Wikipedia. (2022). HIV/AIDS. In _Wikipedia_. https://en.wikipedia.org/w/index.php?title=HIV/AIDS&oldid=1114093691
+- simpleshow foundation (Director). (2014, July 28). _HIV and AIDS – explained in a simple way_. https://www.youtube.com/watch?v=DzXgCW9YcNg
+- HIV.gov. (n.d.). _Global Statistics_. HIV.Gov. Retrieved 11 October 2022, from https://www.hiv.gov/hiv-basics/overview/data-and-trends/global-statistics
+- Mayo Clinic. (n.d.). _HIV/AIDS - Symptoms and causes_. Mayo Clinic. Retrieved 16 October 2022, from https://www.mayoclinic.org/diseases-conditions/hiv-aids/symptoms-causes/syc-20373524
+- Balzer, D. (2021, June 14). _Forty years of HIV/AIDS: Will the epidemic end?_ Mayo Clinic News Network. https://newsnetwork.mayoclinic.org/discussion/forty-years-of-hiv-aids-will-the-epidemic-end/
+- HIV.gov. (2022, June 15). _Symptoms of HIV_. HIV.Gov. https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/symptoms-of-hiv
+- Linda Mann, Deborah Bateson, & Kirsten Black. (2020, June). _Teenage pregnancy_. Australian Journal of General Practice. https://www1.racgp.org.au/ajgp/2020/june/teenage-pregnancy
+- CDC. (2021, August 18). _What Works: Sexual Health Education | Adolescent and School Health | CDC_. https://www.cdc.gov/healthyyouth/whatworks/what-works-sexual-health-education.htm
+- Advocates for Youth. (2021, June). _Final-Sexual-Health-Ed-and-Academic-Success.pdf_. https://www.advocatesforyouth.org/wp-content/uploads/2021/06/Final-Sexual-Health-Ed-and-Academic-Success.pdf
+- State Government of Victoria. (2020, October 20). _About sexuality education_. https://www.education.vic.gov.au:443/school/teachers/teachingresources/discipline/physed/Pages/about.aspx
+- Australian Bureau of Statistics. (2021, December 8). _Births, Australia, 2020 | Australian Bureau of Statistics_. https://www.abs.gov.au/statistics/people/population/births-australia/latest-release
