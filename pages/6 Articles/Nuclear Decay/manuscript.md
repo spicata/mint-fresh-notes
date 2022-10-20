@@ -5,7 +5,7 @@ tags: Article
 # 4 - Alpha Decay
 Radioactive decay is the process that atoms undergo to become more stable by releasing energy or particles (4,4a - After Decay (P)
 
-!../../assets/Alpha-Particle.png
+![](../../../assets/Alpha-Particle.png)
 
 Alpha decay is extremely slow, short-reaching, and not penetrative (4,3a - Why larger particles are less penetrative (P).
 
@@ -39,7 +39,7 @@ It often appears with gamma radiation (4,2a,2a - Gamma Decay. A prime example of
 
 >$\beta^-$, $\beta^+$, and $\alpha$ decay are all things that atoms undergo to become more stable, however, why? Why do some atoms undergo $\beta^-$ and others $\alpha$ decay?
 
-!../../assets/Type of Decay graph.png
+![Type of Decay graph](../../../assets/Type%20of%20Decay%20graph.png)
 
 In the above graph, the line of black squares indicates stable atoms, and it acts as a divider between $\beta^-$ and $\beta^+$/$\alpha$ decay. $\beta^-$ decay always occurs to the left of the stability line, as the conversion of a neutron to a proton will move the nucleus right-down on the graph. This will mean that the nuclei will only become more stable if it was already on the left of the stability line. The opposite is true for $\beta^+$ decay. 
 
