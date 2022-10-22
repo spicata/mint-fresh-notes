@@ -1,11 +1,7 @@
 ---
 layout: page
-<<<<<<< HEAD:pages/1 Fleeting Notes/CSL Oral Exam.md
-tags: Fleeting 
-alias: Chinese
-=======
 tags: Project 
->>>>>>> origin/main:pages/5 Project Notes/CSL Oral Exam.md
+alias: Chinese
 ---
 
 # CSL Oral Exam
