@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d022226290ce15",
+        "id": "5ab7bf59a37c7a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "104715d7a1cde149",
+            "id": "a1e375026b1cb15d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md"
+              }
             }
           }
         ],
@@ -142,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/1 Fleeting Notes/19-10-2022.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -237,8 +246,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "104715d7a1cde149",
+  "active": "a1e375026b1cb15d",
   "lastOpenFiles": [
+    "pages/1 Fleeting Notes/19-10-2022.md",
+    "pages/1 Fleeting Notes/CSL Oral Exam.md",
     "pages/6 Articles/Vectors and Rasters/Vector and Raster.pdf",
     "pages/1 Fleeting Notes/Raster Examples.md",
     "pages/6 Articles/Vectors and Rasters/manuscript.md",
@@ -246,8 +257,6 @@
     "pages/1 Fleeting Notes/To do.md",
     "pages/6 Articles/Health Promotion/manuscript.md",
     "pages/4 Citation Notes/Vector.md",
-    "pages/3 Permanent Notes/11,a - Vector.md",
-    "pages/3 Permanent Notes/11 - Raster.md",
-    "pages/4 Citation Notes/Raster.md"
+    "pages/3 Permanent Notes/11,a - Vector.md"
   ]
 }

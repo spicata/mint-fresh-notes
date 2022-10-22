@@ -1,6 +1,7 @@
 ---
 layout: page
 tags: Fleeting 
+alias: Chinese
 ---
 
 # CSL Oral Exam
