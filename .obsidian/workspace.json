@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ffbd615cee322aa",
+        "id": "0ba9b19d7347952f",
         "type": "tabs",
         "children": [
           {
-            "id": "d46a40ece12a0aab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "739028837c2896aa",
+            "id": "9cfd4501c7476e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,17 +239,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "739028837c2896aa",
+  "active": "9cfd4501c7476e8f",
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/12,a,b - HIV Spike Glycoproteins.md",
-    "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md",
     "pages/2 Literature Notes/HIV Enzymes.md",
-    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+    "pages/1 Fleeting Notes/Things I would send on Discord.md",
+    "pages/5 Project Notes/Health Promotion.md",
+    "pages/1 Fleeting Notes/Multimedia Timeline.md",
+    "pages/1 Fleeting Notes/Nuclear Physics Objectives.md",
     "pages/1 Fleeting Notes/To do.md",
-    "pages/4 Citation Notes/HIV Enzymes.md",
-    "pages/2 Literature Notes/HIV Structure.md",
-    "pages/2 Literature Notes/Beta Decay (L).md",
-    "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
-    "pages/4 Citation Notes/HIV Spike Glycoproteins.md"
+    "pages/1 Fleeting Notes/Vector Examples.md",
+    "pages/1 Fleeting Notes/Math Tutoring Plan.md",
+    "pages/1 Fleeting Notes/Fleeting 1.md",
+    "pages/1 Fleeting Notes/English Comprehension.md"
   ]
 }
