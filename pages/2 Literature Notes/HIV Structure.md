@@ -18,3 +18,11 @@ tags: Literature
 - Like the glycoproteins, the structural proteins are also cleaved from one large protein.
 	- Gag polyprotein are broken up by protease
 - HIV contains many structures within itself
+
+[12,a,a - HIV Structure](../3%20Permanent%20Notes/12,a,a%20-%20HIV%20Structure.md)
+
+---
+
+# Bibliography
+
+[HIV Structure](../4%20Citation%20Notes/HIV%20Structure.md)

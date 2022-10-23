@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e37b06795120cef9",
+        "id": "11518894289cfb21",
         "type": "tabs",
         "children": [
           {
-            "id": "fa83113fa54b8505",
+            "id": "91b8830d15111d63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/2 Literature Notes/HIV Enzymes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a596f59670b78a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de068274268894b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/12,a,a,a - HIV Enzymes.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -54,15 +76,7 @@
             }
           },
           {
-            "id": "a1bfe595c3716ff8",
-            "type": "leaf",
-            "state": {
-              "type": "stat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c341c126a596bfed",
+            "id": "99da5cc05ae4e121",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -91,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/12,a,a,a - HIV Enzymes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/12,a,a,a - HIV Enzymes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/12,a,a,a - HIV Enzymes.md"
+              }
             }
           }
         ],
@@ -142,10 +160,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/12,a,a,a - HIV Enzymes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
-                  "localJumps": 2,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -214,21 +233,22 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2432972284189982,
+                  "scale": 0.4675446913149365,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "a7258a853a197e96",
+            "id": "3d019c8e7185db8c",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,15 +259,15 @@
   },
   "active": "57a60a4762909ad3",
   "lastOpenFiles": [
-    "pages/1 Fleeting Notes/To do.md",
-    "pages/2 Literature Notes/HIV Spike Glycoproteins.md",
-    "pages/4 Citation Notes/HIV Structure.md",
+    "pages/2 Literature Notes/HIV Enzymes.md",
+    "pages/12,a,a,a - HIV Enzymes.md",
+    "pages/4 Citation Notes/HIV Enzymes.md",
+    "pages/3 Permanent Notes/12,a,b - HIV Spike Glycoproteins.md",
     "pages/2 Literature Notes/HIV Structure.md",
-    "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
-    "pages/6 Articles/Vectors and Rasters/Drafts/Draft 1/11 - Raster.md",
-    "pages/6 Articles/Health Promotion/Drafts/Draft 1/12 - Sexual Health.md",
-    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+    "pages/2 Literature Notes/Beta Decay (L).md",
+    "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
     "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
-    "pages/1 Fleeting Notes/19-10-2022.md"
+    "pages/4 Citation Notes/HIV Structure.md",
+    "pages/3 Permanent Notes/12,a,a - HIV Structure.md"
   ]
 }

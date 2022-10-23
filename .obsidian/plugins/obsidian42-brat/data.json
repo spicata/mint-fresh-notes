@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "val3344/obsidian-update-relative-links",
     "rien7/obsidian-colorful-tag",
     "mcndt/obsidian-quickshare"
   ],
