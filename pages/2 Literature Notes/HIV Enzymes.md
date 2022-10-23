@@ -16,10 +16,10 @@ tags: Literature
 	- Integrase integrates the new DNA into our body
 		- 4 of them combine, and attach the ends of viral DNA into our DNA, cutting it and entering.
 
-[12,a,a,a - HIV Enzymes](12,a,a,a%20-%20HIV%20Enzymes)
+[12,a,a,a - HIV Enzymes](../3%20Permanent%20Notes/12,a,a,a%20-%20HIV%20Enzymes)
 
 ---
 
 # Bibliography
 
-[HIV Enzymes](../4%20Citation%20Notes/HIV%20Enzymes.md)
+[HIV Enzymes](../4%20Citation%20Notes/HIV%20Enzymes)
