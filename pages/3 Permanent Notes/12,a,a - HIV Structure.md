@@ -1,0 +1,12 @@
+---
+layout: page
+tags: Permanent 
+---
+
+# 12,a,a - HIV Structure
+
+HIV contains two positive-sense RNA (9.2 kilobases), surrounded by a conic (fullerene-shaped) capsid; itself surrounded by a lipid bi-layer envelope (100 to 120 nanometres), identical to the cell membrane of a human cell.
+
+It is the same because the envelope is stolen from the membrane of the cell, and it also has the same proteins as the ones found on the cell membrane, such as the **major histocompatibility** complex (MHC). It also has the viral spike glycoproteins: gp41 and gp120 ([[12,a,b - HIV Spike Glycoproteins]]), which allows HIV to enter cells.
+
+HIV contains many proteins structures within itself, which allows the HIV to effectively infect a cell. These structural proteins are created through the 

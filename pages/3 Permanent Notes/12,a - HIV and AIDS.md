@@ -19,7 +19,7 @@ Human immunodeficiency virus (HIV) is a sexually transmitted infection (STI) tha
 
 HIV is a retrovirus (a family of viruses that encode their genetic material as RNA), that can be transmitted through bodily fluids such as blood, semen, and vaginal fluids; common routes of transmission are through the use of unclean syringes - for either illicit drugs or in hospital - and sexual intercourse. 
 
-HIV infects the human immune system, specifically helper T cells, macrophages, and dendritic cells; all essential parts to the correct functioning of this system. On top of that, HIV embeds itself within the lymphatic system, particularly the lymph nodes, where it may stay dormant (latent) for several years. In response to this infection, the body will often command these infected immune cells to undergo apoptosis (a way to “dispose” of cells safely). 
+HIV infects the human immune system, specifically helper T cells, macrophages, and dendritic cells; all essential parts to the correct functioning of this system ([12,a,a - HIV Structure](12,a,a%20-%20HIV%20Structure.md)). On top of that, HIV embeds itself within the lymphatic system, particularly the lymph nodes, where it may stay dormant (latent) for several years. In response to this infection, the body will often command these infected immune cells to undergo apoptosis (a way to “dispose” of cells safely). 
 
 As more of these helper T and other immune cells are killed, the immune system becomes increasingly weakened, which allows for opportunistic pathogens to take hold in the body, and it sometimes leads to the development of cancer cells in the body.
 

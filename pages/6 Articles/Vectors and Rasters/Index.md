@@ -4,11 +4,7 @@ workflow: Default Workflow
 drafts:
   - name: Draft 1
     folder: Draft 1
-    scenes:
-      - 11 - Raster
-      - 11,a - Vector
-      - Raster
-      - Vector
+    scenes: []
 ---
 
 

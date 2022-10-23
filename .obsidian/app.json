@@ -7,7 +7,7 @@
   "newFileFolderPath": "pages",
   "showLineNumber": true,
   "promptDelete": false,
-  "spellcheck": true,
+  "spellcheck": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
   "spellcheckLanguages": [
@@ -40,5 +40,8 @@
     "assets/"
   ],
   "vimMode": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "spellcheckDictionary": [
+    "histocompatibility"
+  ]
 }

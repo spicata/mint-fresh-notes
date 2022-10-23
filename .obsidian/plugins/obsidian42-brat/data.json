@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "rien7/obsidian-colorful-tag",
     "mcndt/obsidian-quickshare"
   ],
   "pluginSubListFrozenVersion": [],

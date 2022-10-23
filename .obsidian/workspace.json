@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "173fd2eca079418a",
+        "id": "e37b06795120cef9",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a804bd97d69261",
+            "id": "fa83113fa54b8505",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/2 Literature Notes/HIV Structure.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "644629de867dc7a0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b8037b5296687d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/4 Citation Notes/HIV Structure.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -113,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/2 Literature Notes/HIV Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2 Literature Notes/HIV Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/2 Literature Notes/HIV Structure.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,7 +142,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/2 Literature Notes/HIV Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -264,17 +237,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e0a804bd97d69261",
+  "active": "57a60a4762909ad3",
   "lastOpenFiles": [
+    "pages/1 Fleeting Notes/To do.md",
+    "pages/2 Literature Notes/HIV Spike Glycoproteins.md",
     "pages/4 Citation Notes/HIV Structure.md",
     "pages/2 Literature Notes/HIV Structure.md",
-    "pages/1 Fleeting Notes/19-10-2022.md",
-    "pages/5 Project Notes/CSL Oral Exam.md",
-    "conflict-files-obsidian-git.md",
-    "pages/1 Fleeting Notes/CSL Oral Exam.md",
-    "pages/6 Articles/Vectors and Rasters/Vector and Raster.pdf",
-    "pages/1 Fleeting Notes/Raster Examples.md",
-    "pages/6 Articles/Vectors and Rasters/manuscript.md",
-    "pages/1 Fleeting Notes/Vector Examples.md"
+    "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
+    "pages/6 Articles/Vectors and Rasters/Drafts/Draft 1/11 - Raster.md",
+    "pages/6 Articles/Health Promotion/Drafts/Draft 1/12 - Sexual Health.md",
+    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+    "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
+    "pages/1 Fleeting Notes/19-10-2022.md"
   ]
 }
