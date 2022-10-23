@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "mode": "source",
                 "source": true
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md"
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -234,13 +234,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "9cfd4501c7476e8f",
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+    "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md",
     "pages/2 Literature Notes/HIV Enzymes.md",
     "pages/1 Fleeting Notes/Things I would send on Discord.md",
     "pages/5 Project Notes/Health Promotion.md",
@@ -248,8 +251,6 @@
     "pages/1 Fleeting Notes/Nuclear Physics Objectives.md",
     "pages/1 Fleeting Notes/To do.md",
     "pages/1 Fleeting Notes/Vector Examples.md",
-    "pages/1 Fleeting Notes/Math Tutoring Plan.md",
-    "pages/1 Fleeting Notes/Fleeting 1.md",
-    "pages/1 Fleeting Notes/English Comprehension.md"
+    "pages/1 Fleeting Notes/Math Tutoring Plan.md"
   ]
 }
