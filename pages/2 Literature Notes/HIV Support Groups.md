@@ -22,3 +22,5 @@ tags: Literature
 
 - Global organisations focused on fighting HIV:
 	- https://www.unaids.org/en
+
+[12,b - HIV Support Groups](../3%20Permanent%20Notes/12,b%20-%20HIV%20Support%20Groups)

@@ -15,3 +15,11 @@ tags: Literature
 	- This is massively advantageous.
 	- Harder to research
 - Parts of the gp120 proteins are variable, making it hard to mount an immune response
+
+[12,a,b - HIV Spike Glycoproteins](../3%20Permanent%20Notes/12,a,b%20-%20HIV%20Spike%20Glycoproteins)
+
+---
+
+# Bibliography
+
+[HIV Spike Glycoproteins](../4%20Citation%20Notes/HIV%20Spike%20Glycoproteins)

@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba9b19d7347952f",
+        "id": "39d79fcd0c57c617",
         "type": "tabs",
         "children": [
           {
-            "id": "9cfd4501c7476e8f",
+            "id": "5c25b69b431f9424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
-                "mode": "source",
+                "file": "pages/2 Literature Notes/At Risk for HIV.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "304016d948ac8df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19bc58142eb384c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/12a3a - At Risk for HIV.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
+                "file": "pages/12a3a - At Risk for HIV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
+                "file": "pages/12a3a - At Risk for HIV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md"
+                "file": "pages/12a3a - At Risk for HIV.md"
               }
             }
           }
@@ -142,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
+                "file": "pages/12a3a - At Risk for HIV.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -234,23 +252,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9cfd4501c7476e8f",
+  "active": "19bc58142eb384c2",
   "lastOpenFiles": [
     "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/3 Permanent Notes/12,a,a,a - HIV Enzymes.md",
-    "pages/2 Literature Notes/HIV Enzymes.md",
-    "pages/1 Fleeting Notes/Things I would send on Discord.md",
-    "pages/5 Project Notes/Health Promotion.md",
-    "pages/1 Fleeting Notes/Multimedia Timeline.md",
-    "pages/1 Fleeting Notes/Nuclear Physics Objectives.md",
-    "pages/1 Fleeting Notes/To do.md",
-    "pages/1 Fleeting Notes/Vector Examples.md",
-    "pages/1 Fleeting Notes/Math Tutoring Plan.md"
+    "pages/12a3a - At Risk for HIV.md",
+    "pages/2 Literature Notes/At Risk for HIV.md",
+    "pages/4 Citation Notes/At Risk for HIV.md",
+    "pages/2 Literature Notes/Acute Radiation Syndrome.md",
+    "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
+    "pages/2 Literature Notes/HIV Spike Glycoproteins.md",
+    "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
+    "pages/2 Literature Notes/HIV Support Groups.md",
+    "pages/2 Literature Notes/Talking about HIV.md"
   ]
 }

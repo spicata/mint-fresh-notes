@@ -15,3 +15,11 @@ tags: Literature
 	- Guess and anticipate their response
 - Be direct and take time.
 - Listen and don’t be disingenuous. Try to learn more about HIV.
+
+[12,c - Talking about HIV](../3%20Permanent%20Notes/12,c%20-%20Talking%20about%20HIV)
+
+---
+
+# Bibliography
+
+[Talking about HIV](../4%20Citation%20Notes/Talking%20about%20HIV)
