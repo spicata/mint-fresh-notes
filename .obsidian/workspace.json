@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "39d79fcd0c57c617",
+        "id": "db889fe57a2d5798",
         "type": "tabs",
         "children": [
           {
-            "id": "5c25b69b431f9424",
+            "id": "7726510020686640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/2 Literature Notes/At Risk for HIV.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "304016d948ac8df9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19bc58142eb384c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/12a3a - At Risk for HIV.md",
-                "mode": "preview",
+                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -105,19 +87,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/12a3a - At Risk for HIV.md",
+                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "14182a94a232297c",
+            "id": "bdb3532894794bb8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/12a3a - At Risk for HIV.md",
+                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +111,7 @@
             }
           },
           {
-            "id": "57a60a4762909ad3",
+            "id": "de22f867deb18b9a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -142,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/12a3a - At Risk for HIV.md"
+                "file": "pages/3 Permanent Notes/12 - Sexual Health.md"
               }
             }
           }
@@ -160,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/12a3a - At Risk for HIV.md",
+                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -257,17 +239,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "19bc58142eb384c2",
+  "active": "7726510020686640",
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/12a3a - At Risk for HIV.md",
     "pages/2 Literature Notes/At Risk for HIV.md",
+    "pages/12a3a - At Risk for HIV.md",
     "pages/4 Citation Notes/At Risk for HIV.md",
     "pages/2 Literature Notes/Acute Radiation Syndrome.md",
     "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
     "pages/2 Literature Notes/HIV Spike Glycoproteins.md",
     "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
-    "pages/2 Literature Notes/HIV Support Groups.md",
-    "pages/2 Literature Notes/Talking about HIV.md"
+    "pages/2 Literature Notes/HIV Support Groups.md"
   ]
 }
