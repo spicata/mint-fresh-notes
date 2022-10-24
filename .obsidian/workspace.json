@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db889fe57a2d5798",
+        "id": "4df135fda6a543b4",
         "type": "tabs",
         "children": [
           {
-            "id": "7726510020686640",
+            "id": "6f0698237b808aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ace2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,15 @@
             }
           },
           {
-            "id": "99da5cc05ae4e121",
+            "id": "a1bfe595c3716ff8",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c341c126a596bfed",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -87,19 +91,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bdb3532894794bb8",
+            "id": "14182a94a232297c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             }
           },
           {
-            "id": "de22f867deb18b9a",
+            "id": "57a60a4762909ad3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -123,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/3 Permanent Notes/12 - Sexual Health.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,11 +142,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/3 Permanent Notes/12 - Sexual Health.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
-                  "localJumps": 5,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -215,22 +214,21 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4675446913149365,
+                  "scale": 0.2432972284189982,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "3d019c8e7185db8c",
+            "id": "a7258a853a197e96",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,17 +237,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7726510020686640",
+  "active": "6f0698237b808aa7",
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/4 - Alpha Decay.md",
-    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/2 Literature Notes/At Risk for HIV.md",
-    "pages/12a3a - At Risk for HIV.md",
-    "pages/4 Citation Notes/At Risk for HIV.md",
-    "pages/2 Literature Notes/Acute Radiation Syndrome.md",
-    "pages/3 Permanent Notes/12,b - HIV Support Groups.md",
-    "pages/2 Literature Notes/HIV Spike Glycoproteins.md",
+    "pages/4 Citation Notes/HIV and AIDS.md",
+    "pages/4 Citation Notes/The Immune Effects of HIV.md",
+    "pages/4 Citation Notes/HIV Enzymes.md",
     "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
-    "pages/2 Literature Notes/HIV Support Groups.md"
+    "pages/4 Citation Notes/At Risk for HIV.md",
+    "pages/4 Citation Notes/HIV Structure.md",
+    "pages/12a3a - At Risk for HIV.md",
+    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
+    "pages/6 Articles/Nuclear Decay/manuscript.md",
+    "pages/2 Literature Notes/HIV Structure.md"
   ]
 }
