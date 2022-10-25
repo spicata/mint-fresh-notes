@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4df135fda6a543b4",
+        "id": "b147f20afc4731ad",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0698237b808aa7",
+            "id": "8b27531a75af856e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Philosophy Argument.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9771dbaaf6daf677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Maslow's Hierarchy.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5aee9dc61049376b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/2 Literature Notes/Kanyini.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ace2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,15 +82,7 @@
             }
           },
           {
-            "id": "a1bfe595c3716ff8",
-            "type": "leaf",
-            "state": {
-              "type": "stat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c341c126a596bfed",
+            "id": "99da5cc05ae4e121",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -91,17 +111,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/Philosophy Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "14182a94a232297c",
+            "id": "bdb3532894794bb8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/Philosophy Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +135,7 @@
             }
           },
           {
-            "id": "57a60a4762909ad3",
+            "id": "de22f867deb18b9a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -125,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/Philosophy Argument.md"
+              }
             }
           }
         ],
@@ -142,10 +166,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Philosophy Argument.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
-                  "localJumps": 2,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -214,21 +239,22 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2432972284189982,
+                  "scale": 0.4675446913149365,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "a7258a853a197e96",
+            "id": "3d019c8e7185db8c",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,17 +263,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6f0698237b808aa7",
+  "active": "8b27531a75af856e",
   "lastOpenFiles": [
-    "pages/4 Citation Notes/HIV and AIDS.md",
-    "pages/4 Citation Notes/The Immune Effects of HIV.md",
-    "pages/4 Citation Notes/HIV Enzymes.md",
-    "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
-    "pages/4 Citation Notes/At Risk for HIV.md",
-    "pages/4 Citation Notes/HIV Structure.md",
-    "pages/12a3a - At Risk for HIV.md",
+    "pages/Maslow's Hierarchy.md",
+    "pages/Philosophy Argument.md",
+    "pages/2 Literature Notes/Kanyini.md",
+    "pages/1 Fleeting Notes/Multimedia Planning.md",
+    "pages/1 Fleeting Notes/Multimedia Timeline.md",
+    "pages/3 Permanent Notes/12 - Sexual Health.md",
+    "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/6 Articles/Nuclear Decay/manuscript.md",
-    "pages/2 Literature Notes/HIV Structure.md"
+    "pages/2 Literature Notes/At Risk for HIV.md",
+    "pages/12a3a - At Risk for HIV.md"
   ]
 }
