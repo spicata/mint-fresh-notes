@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "mode": "source",
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md"
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -248,6 +248,7 @@
   },
   "active": "6f0698237b808aa7",
   "lastOpenFiles": [
+    "pages/5 Project Notes/CSL Oral Exam.md",
     "pages/4 Citation Notes/HIV and AIDS.md",
     "pages/4 Citation Notes/The Immune Effects of HIV.md",
     "pages/4 Citation Notes/HIV Enzymes.md",
@@ -256,7 +257,6 @@
     "pages/4 Citation Notes/HIV Structure.md",
     "pages/12a3a - At Risk for HIV.md",
     "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/6 Articles/Nuclear Decay/manuscript.md",
-    "pages/2 Literature Notes/HIV Structure.md"
+    "pages/6 Articles/Nuclear Decay/manuscript.md"
   ]
 }
