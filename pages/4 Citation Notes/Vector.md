@@ -12,3 +12,4 @@ tags: Citation
 
 - By Tonchino - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23776193
 - By Pbroks13 - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=5911362
+- By Yug, modifications by Cfaerber et al. - Unknown source, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1183592

@@ -5,7 +5,7 @@ tags: Fleeting
 
 # Philosophy Argument
 
-> Aboriginal Dreaming stories focus on the virtue of treating nature as beings with an end 
+> [!TODO] Aboriginal Dreaming stories focus on the virtue of treating nature as beings with an end 
 
 - Kanyini schema as an Aboriginal moral point of view [Kanyini](2%20Literature%20Notes/Kanyini.md)
 - Maslow’s Hierarchy as a theoretical model of human nature and human motivation [Maslow's Hierarchy](Maslow's%20Hierarchy.md)

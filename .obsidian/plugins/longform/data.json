@@ -15,10 +15,15 @@
       "path": "pages/6 Articles/Vectors and Rasters",
       "indexFile": "Index",
       "draftsPath": "Drafts/"
+    },
+    "pages/6 Articles/Multimedia Photoshop": {
+      "path": "pages/6 Articles/Multimedia Photoshop",
+      "indexFile": "Index",
+      "draftsPath": "Drafts/"
     }
   },
-  "selectedProject": "pages/6 Articles/Vectors and Rasters",
-  "selectedDraft": null,
+  "selectedProject": "pages/6 Articles/Multimedia Photoshop",
+  "selectedDraft": "Draft 1",
   "userScriptFolder": null,
   "workflows": {
     "Default Workflow": {
@@ -28,8 +33,12 @@
         {
           "id": "concatenate-text",
           "optionValues": {
-            "separator": "\\n\\n---\\n\\n"
+            "separator": "\n\n"
           }
+        },
+        {
+          "id": "remove-strikethroughs",
+          "optionValues": {}
         },
         {
           "id": "write-to-note",

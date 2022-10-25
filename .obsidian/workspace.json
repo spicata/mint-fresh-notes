@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b147f20afc4731ad",
+        "id": "bfb767fe44f907bf",
         "type": "tabs",
         "children": [
           {
-            "id": "8b27531a75af856e",
+            "id": "022388fdc1f56d38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Philosophy Argument.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9771dbaaf6daf677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Maslow's Hierarchy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5aee9dc61049376b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/2 Literature Notes/Kanyini.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -111,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Philosophy Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Philosophy Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/Philosophy Argument.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Philosophy Argument.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -263,17 +229,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8b27531a75af856e",
+  "active": "022388fdc1f56d38",
   "lastOpenFiles": [
-    "pages/Maslow's Hierarchy.md",
-    "pages/Philosophy Argument.md",
-    "pages/2 Literature Notes/Kanyini.md",
-    "pages/1 Fleeting Notes/Multimedia Planning.md",
-    "pages/1 Fleeting Notes/Multimedia Timeline.md",
-    "pages/3 Permanent Notes/12 - Sexual Health.md",
-    "pages/3 Permanent Notes/4 - Alpha Decay.md",
-    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/2 Literature Notes/At Risk for HIV.md",
-    "pages/12a3a - At Risk for HIV.md"
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/Raster.md",
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/11 - Raster.md",
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/11,a - Vector.md",
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/Vector.md",
+    "pages/6 Articles/Multimedia Photoshop/manuscript.md",
+    "pages/4 Citation Notes/Raster.md",
+    "pages/4 Citation Notes/Vector.md",
+    "pages/2 Literature Notes/Vector.md",
+    "pages/3 Permanent Notes/11,a - Vector.md",
+    "pages/2 Literature Notes/Raster.md"
   ]
 }
