@@ -37,13 +37,15 @@
     "_site/",
     "_sass/",
     "_layouts/",
-    "assets/"
+    "assets/",
+    "pages/6 Articles/"
   ],
   "vimMode": false,
   "showInlineTitle": false,
   "spellcheckDictionary": [
     "histocompatibility",
     "Moebuntu",
-    "Catppuccin"
+    "Catppuccin",
+    "Kanyini"
   ]
 }

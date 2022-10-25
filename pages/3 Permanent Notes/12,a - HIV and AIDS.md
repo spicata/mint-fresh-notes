@@ -5,7 +5,7 @@ tags: Permanent
 
 # 12,a - HIV and AIDS
 
-Human immunodeficiency virus (HIV) is a sexually transmitted infection (STI) that targets and weakens the human immune system; currently, 38.4 million people have HIV ([12a3a - At Risk for HIV](../12a3a%20-%20At%20Risk%20for%20HIV)).
+Human immunodeficiency virus (HIV) is a sexually transmitted infection (STI) that targets and weakens the human immune system; currently, 38.4 million people have HIV ([12a3a - At Risk for HIV](12a3a%20-%20At%20Risk%20for%20HIV.md)).
 
 | Demographic | Count        |
 |:------------|:-------------|

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4df135fda6a543b4",
+        "id": "30ae722935562dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0698237b808aa7",
+            "id": "a11de20a886f7644",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ace2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,15 +58,7 @@
             }
           },
           {
-            "id": "a1bfe595c3716ff8",
-            "type": "leaf",
-            "state": {
-              "type": "stat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c341c126a596bfed",
+            "id": "99da5cc05ae4e121",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -77,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -102,7 +93,7 @@
             }
           },
           {
-            "id": "14182a94a232297c",
+            "id": "bdb3532894794bb8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -119,7 +110,7 @@
             }
           },
           {
-            "id": "57a60a4762909ad3",
+            "id": "de22f867deb18b9a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,7 +145,7 @@
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
-                  "localJumps": 2,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -223,21 +214,22 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2432972284189982,
+                  "scale": 0.4675446913149365,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "a7258a853a197e96",
+            "id": "3d019c8e7185db8c",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,17 +238,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6f0698237b808aa7",
+  "active": "a11de20a886f7644",
   "lastOpenFiles": [
-    "pages/4 Citation Notes/HIV and AIDS.md",
-    "pages/4 Citation Notes/The Immune Effects of HIV.md",
-    "pages/4 Citation Notes/HIV Enzymes.md",
-    "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
-    "pages/4 Citation Notes/At Risk for HIV.md",
-    "pages/4 Citation Notes/HIV Structure.md",
-    "pages/12a3a - At Risk for HIV.md",
-    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
-    "pages/6 Articles/Nuclear Decay/manuscript.md",
-    "pages/2 Literature Notes/HIV Structure.md"
+    "pages/5 Project Notes/CSL Oral Exam.md",
+    "pages/1 Fleeting Notes/Philosophy Argument.md",
+    "pages/2 Literature Notes/Sartre.md",
+    "pages/2 Literature Notes/Epicurus (L).md",
+    "pages/2 Literature Notes/Kanyini.md",
+    "pages/2 Literature Notes/Maslow's Hierarchy.md",
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/Raster.md",
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/11 - Raster.md",
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/11,a - Vector.md",
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/Vector.md"
   ]
 }

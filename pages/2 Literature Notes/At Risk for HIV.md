@@ -13,7 +13,7 @@ tags: Literature
 	- People who inject drugs.
 - Those who are unable to get treatment develop into AIDS.
 
-[12a3a - At Risk for HIV](../12a3a%20-%20At%20Risk%20for%20HIV)
+[12a3a - At Risk for HIV](../3%20Permanent%20Notes/12a3a%20-%20At%20Risk%20for%20HIV.md)
 
 ---
 

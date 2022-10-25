@@ -15,10 +15,28 @@ There are many raster graphic file types, such as .png, .gif, and .jpeg. Most of
 
 ![](../../assets/Seagull%20-%20Raster%201.png)
 
+*Red-billed gull* by Michal Klajban, found on https://commons.wikimedia.org/w/index.php?curid=80145466 (4,069 × 3,340 pixels)
+
+---
+
 ![](../../assets/Buns%20-%20Raster%202.png)
+
+*Cardamom buns* by W.carter, found on https://commons.wikimedia.org/w/index.php?curid=64188199 (4,124 × 2,840 pixels)
+
+---
 
 ![](../../assets/Place%20-%20Raster%203.png)
 
+*Terraces, Victoria Rd* by Nigel Chadwick, found on https://commons.wikimedia.org/w/index.php?curid=13992078 (640 × 430 pixels)
+
+---
+
 ![](../../assets/Frog%20-%20Raster%204.png)
 
+*Hyla japonica* by 池田正樹, found on https://commons.wikimedia.org/w/index.php?curid=4679856 (2,500 × 1,733 pixels)
+
+---
+
 ![](../../assets/Coconut%20-%20Raster%205.png)
+
+*Coconuts* by Ivar Leidus, found on https://commons.wikimedia.org/w/index.php?curid=114753360 (8,256 × 5,504 pixels)
