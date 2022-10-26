@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bfb767fe44f907bf",
+        "id": "30ae722935562dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "022388fdc1f56d38",
+            "id": "a11de20a886f7644",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md"
+              }
             }
           }
         ],
@@ -133,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:archive -path:Wallpaper",
@@ -229,17 +238,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "022388fdc1f56d38",
+  "active": "a11de20a886f7644",
   "lastOpenFiles": [
+    "pages/5 Project Notes/CSL Oral Exam.md",
+    "pages/1 Fleeting Notes/Philosophy Argument.md",
+    "pages/2 Literature Notes/Sartre.md",
+    "pages/2 Literature Notes/Epicurus (L).md",
+    "pages/2 Literature Notes/Kanyini.md",
+    "pages/2 Literature Notes/Maslow's Hierarchy.md",
     "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/Raster.md",
     "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/11 - Raster.md",
     "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/11,a - Vector.md",
-    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/Vector.md",
-    "pages/6 Articles/Multimedia Photoshop/manuscript.md",
-    "pages/4 Citation Notes/Raster.md",
-    "pages/4 Citation Notes/Vector.md",
-    "pages/2 Literature Notes/Vector.md",
-    "pages/3 Permanent Notes/11,a - Vector.md",
-    "pages/2 Literature Notes/Raster.md"
+    "pages/6 Articles/Multimedia Photoshop/Drafts/Draft 1/Vector.md"
   ]
 }
