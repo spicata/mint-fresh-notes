@@ -13,7 +13,7 @@ tags: Literature
 	- Also help ~~B cells~~ plasma cells know what type of antibody to produce
 	- These two are paramount to immune response
 
-[12,a,2a - The Immune Effects of HIV](../3%20Permanent%20Notes/12,a,2a%20-%20The%20Immune%20Effects%20of%20HIV)
+[12a2a - The Immune Effects of HIV](../3%20Permanent%20Notes/12a2a%20-%20The%20Immune%20Effects%20of%20HIV.md)
 
 ---
 

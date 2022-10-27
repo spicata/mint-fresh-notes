@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:archive -path:Wallpaper",
+  "search": "-path:archive -path:Wallpaper -tag:#Daily -tag:#Fleeting",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 175,
-  "scale": 0.18010638850126565,
-  "close": true
+  "scale": 0.2560254394539069,
+  "close": false
 }
