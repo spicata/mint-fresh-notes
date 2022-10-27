@@ -24,7 +24,7 @@ tags: Fleeting
 
 ---
 
-- [ ] Maths - Test 4 :: Thursday Week 3
+- [x] Maths - Test 4 :: Thursday Week 3
 - [ ] Literature - Panel Discussion :: Week 2
 
 ---
@@ -32,7 +32,7 @@ tags: Fleeting
 - [x] Science - Physics Test :: Monday Week 1
 	- [x] Study
 	- [ ] Do a pre-test
-- [ ] Science - Biology Cat :: Monday Week 3
+- [x] Science - Biology Cat :: Monday Week 3
 - [ ] Science - Semester Exam :: Tuesday Week 6
 
 ---
