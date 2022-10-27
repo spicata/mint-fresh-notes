@@ -328,5 +328,14 @@
       "key": "M"
     }
   ],
-  "insert-heading-link:addHeadingLink": []
+  "insert-heading-link:addHeadingLink": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ]
 }
