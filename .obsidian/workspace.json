@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "94141e188c398eed",
+    "type": "split",
+    "children": [
+      {
+        "id": "5268925217e42df7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c83cdca1cdc0fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/1 Fleeting Notes/To do.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ea5e222fcd8f1b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e460d48341137b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9031433c1cc68c4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79216ca039f67b55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ace2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1bfe595c3716ff8",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c341c126a596bfed",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5033760070801,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6e6bed1067815e25",
+    "type": "split",
+    "children": [
+      {
+        "id": "c620534039166d03",
+        "type": "tabs",
+        "dimension": 48.07480748074808,
+        "children": [
+          {
+            "id": "9b45f6e80143f0be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/1 Fleeting Notes/To do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14182a94a232297c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/1 Fleeting Notes/To do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ac1e2e3f3447cc6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c634759688c7b4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/1 Fleeting Notes/To do.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "49f0ab6d7f9459c6",
+        "type": "tabs",
+        "dimension": 51.92519251925193,
+        "children": [
+          {
+            "id": "5f63a354411791c3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "pages/1 Fleeting Notes/To do.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "-path:archive -path:Wallpaper",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Fleeting",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#Literature",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#Permanent",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:#Index",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "tag:#Project",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    },
+                    {
+                      "query": "tag:#Article",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    },
+                    {
+                      "query": "tag:#Citation",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.20184487951807,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2432972284189982,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "a7258a853a197e96",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "active": "4c83cdca1cdc0fa7",
+  "lastOpenFiles": [
+    "pages/3 Permanent Notes/12,a,a - HIV Structure.md",
+    "conflict-files-obsidian-git.md",
+    "pages/5 Project Notes/CSL Oral Exam.md",
+    "pages/4 Citation Notes/HIV and AIDS.md",
+    "pages/4 Citation Notes/The Immune Effects of HIV.md",
+    "pages/4 Citation Notes/HIV Enzymes.md",
+    "pages/4 Citation Notes/HIV Spike Glycoproteins.md",
+    "pages/4 Citation Notes/At Risk for HIV.md",
+    "pages/4 Citation Notes/HIV Structure.md",
+    "pages/12a3a - At Risk for HIV.md"
+  ]
+}
