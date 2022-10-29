@@ -17,6 +17,6 @@ tags: Literature
 	- Antibodies have variable Fab regions
 		- @ Could target anything
 - RAT, PCR (nucleic acid), Serology (antibody), Sequencing
-- [12a2a - The Immune Effects of HIV](../3%20Permanent%20Notes/12a2a%20-%20The%20Immune%20Effects%20of%20HIV.md) does a good enough of a job at explaining parts of the immune system.
+- [12a2a - The Immune Effects of HIV](../3%20Permanent%20Notes/12a2a%20-%20The%20Immune%20Effects%20of%20HIV) does a good enough of a job at explaining parts of the immune system.
 
 ![](../../assets/Antibody%20Structure.png)

@@ -48,5 +48,6 @@
   "obsidian-languagetool-plugin",
   "update-relative-links",
   "insert-heading-link",
-  "chronology"
+  "chronology",
+  "obsidian-vault-statistics-plugin"
 ]

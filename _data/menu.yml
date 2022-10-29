@@ -9,7 +9,7 @@ entries:
         url: https://github.com/spicata/mint-fresh-notes
       - title: More about me
         url: about
-  
+
   - title: index
     entries:
       - title: Nuclear Physics
@@ -25,6 +25,8 @@ entries:
         url: pages/3 Permanent Notes/5 - Marxism (P)
       - title: HIV (and some sexual health)
         url: pages/3 Permanent Notes/12 - Sexual Health
+      - title: Immanuel Kant
+        url: pages/3 Permanent Notes/13 - Kantian
 
   - title: index 2 (justified by the change in content)
     entries:
