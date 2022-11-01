@@ -1,15 +1,14 @@
 {
-  "cssTheme": "Prism",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "theme",
-    "testing",
-    "mark fixer"
+    "testing"
   ],
   "translucency": false,
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSize": 16,
   "textFontFamily": "",
-  "accentColor": "",
+  "accentColor": "#8dbf9d",
   "showViewHeader": true,
   "nativeMenus": false
 }

@@ -4,5 +4,6 @@
   "glassBg": true,
   "shouldAutoCheck": true,
   "pickyMode": false,
-  "staticLanguage": "en-GB"
+  "staticLanguage": "en-GB",
+  "ruleOtherDisabledRules": "DASH_RULE"
 }
