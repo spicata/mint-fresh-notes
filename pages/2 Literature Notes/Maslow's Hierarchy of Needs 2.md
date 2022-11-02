@@ -19,8 +19,8 @@ tags: Literature
 - Showed a shift in psychology
 	- Positivity over abnormality
 
-[14 - Maslow's Hierarchy of Needs](../14%20-%20Maslow's%20Hierarchy%20of%20Needs.md)
+[14 - Maslow's Hierarchy of Needs](../3%20Permanent%20Notes/14%20-%20Maslow's%20Hierarchy%20of%20Needs)
 
 ---
 
-[Maslow's Hierarchy of Needs citations](../Maslow's%20Hierarchy%20of%20Needs%20citations.md)
+[Maslow's Hierarchy of Needs citations](../4%20Citation%20Notes/Maslow's%20Hierarchy%20of%20Needs%20citations)

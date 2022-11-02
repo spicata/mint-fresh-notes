@@ -18,6 +18,6 @@ tags: Literature
 	- Act morally towards them
 	- Respect them
 
-[13a1a - Categorical Imperative](../3%20Permanent%20Notes/13a1a%20-%20Categorical%20Imperative.md)
+[13a1a - Categorical Imperative](../3%20Permanent%20Notes/13a1a%20-%20Categorical%20Imperative)
 
-[Kant Citations](../4%20Citation%20Notes/Kant%20Citations.md)
+[Kant Citations](../4%20Citation%20Notes/Kant%20Citations)
