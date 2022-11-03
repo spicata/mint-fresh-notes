@@ -25,4 +25,4 @@ tags: Project
 
 - [Philosophy Draft](Philosophy%20Draft.md)
 - [Philosophy Draft 2](Philosophy%20Draft%202.md)
-- [Philosophy Draft 3](Philosophy%20Draft%203.md)
+- [Philosophy “Draft” 3](Philosophy%20“Draft”%203.md)

@@ -5,10 +5,6 @@ tags: Project
 
 # Philosophy Draft
 
-"Aboriginal Dreaming stories focus on the virtue of treating nature as beings with an end, and the vice of treating them as a means" is a statement that I disagree with.
-
----
-
 Immaneul Kant made a theory of goodwill, duty, and mroality. This was Immauel Kant's deontologistic ethic.s Everyone should and can act with goodwill, which is the highest virtue of all. This action, however, should not be one that furthers ownes ofwn pmotive, but one that abides to ones duty even through thimes of difficulty. How does woone acti with goodwill> Through respecting the moral law. However, everyone has different morals, different values. What is the moral law? Kant believed that this was testable. Kant suggested the two imperatives: hypotheical and categorical imperatives. The hypothecical imperative is a mean to an end. A mean is the tool, and the end is the goal. Obviously, these goals cannot be followed without a clear sight of them, and tus nust bed defined. THe cateogrical imperative however, is the means to any goal. The rprocess or road that takes us anywhere. What is this categorical imperative? Kant hypothesised thaere to only be one. "Act as if your reason will become a law". What did this mean? Kant presured us to iagine what would happen if everyone were to follow th your reasoning to commit a scertain action. If you were in debt, and was wanting to brorrow money by promising to return it , eve n in the case that you cannot, your maxim (reasoning), would be when in debt, it is okay to borrow money through promssise eve n if not fulfilled. It is okay to break a promisie in times on f need.
 
 However, if everyone abided to this principle, the insititution of promisie and trust would crumble, and thus a cernario such as this would never rise .

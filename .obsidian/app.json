@@ -7,7 +7,7 @@
   "newFileFolderPath": "pages",
   "showLineNumber": true,
   "promptDelete": false,
-  "spellcheck": false,
+  "spellcheck": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
   "spellcheckLanguages": [
@@ -37,7 +37,6 @@
     "_site/",
     "_sass/",
     "_layouts/",
-    "assets/",
     "pages/6 Articles/"
   ],
   "vimMode": false,

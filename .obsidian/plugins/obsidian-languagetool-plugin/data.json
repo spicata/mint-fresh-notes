@@ -2,7 +2,7 @@
   "serverUrl": "https://api.languagetool.org",
   "urlMode": "standard",
   "glassBg": true,
-  "shouldAutoCheck": true,
+  "shouldAutoCheck": false,
   "pickyMode": false,
   "staticLanguage": "en-GB",
   "ruleOtherDisabledRules": "DASH_RULE"
