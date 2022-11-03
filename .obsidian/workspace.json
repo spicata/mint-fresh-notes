@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "eb86ec64d821462e",
+        "id": "91888b5f57cb6db9",
         "type": "tabs",
         "children": [
           {
-            "id": "fbf732803bcb3aea",
+            "id": "417cc89e00c22952",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/5 Project Notes/Philosophy Argument.md",
-                "mode": "preview",
+                "file": "pages/5 Project Notes/Philosophy Draft 2.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c2f27f93340ae6c9",
+            "id": "d8f3373a7115f3e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/1 Fleeting Notes/Oh 1.md",
-                "mode": "preview",
+                "file": "pages/5 Project Notes/Philosophy Draft 3.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "2a03305f0826b5aa",
+            "id": "55a783fb2c23e5fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,41 +44,33 @@
             }
           },
           {
-            "id": "bfc56f0a9031e036",
+            "id": "49f136b49d59f790",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "98ee2c3682aef2ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55624183fd49400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/15 - Virtue Ethics.md",
+                "file": "pages/5 Project Notes/Philosophy Argument.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "324c19c9a00919f7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Kanyini Scheme.png"
-              }
-            }
-          },
-          {
-            "id": "1c6ee5a3f7e78c36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/2 Literature Notes/Sartre's Purpose.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +138,6 @@
       {
         "id": "c620534039166d03",
         "type": "tabs",
-        "dimension": 48.07480748074808,
         "children": [
           {
             "id": "9b45f6e80143f0be",
@@ -155,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/Philosophy Draft.md",
+                "file": "pages/5 Project Notes/Philosophy Draft 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/Philosophy Draft.md",
+                "file": "pages/5 Project Notes/Philosophy Draft 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,100 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/5 Project Notes/Philosophy Draft.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "49f0ab6d7f9459c6",
-        "type": "tabs",
-        "dimension": 51.92519251925193,
-        "children": [
-          {
-            "id": "5f63a354411791c3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "pages/5 Project Notes/Philosophy Draft.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "-path:archive -path:Wallpaper",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#Fleeting",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#Literature",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "tag:#Permanent",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "tag:#Index",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    },
-                    {
-                      "query": "tag:#Project",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431473
-                      }
-                    },
-                    {
-                      "query": "tag:#Article",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5419488
-                      }
-                    },
-                    {
-                      "query": "tag:#Citation",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5395168
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.20184487951807,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4675446913149365,
-                  "close": true
-                }
+                "file": "pages/5 Project Notes/Philosophy Draft 3.md"
               }
             }
           },
@@ -298,23 +195,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "2a03305f0826b5aa",
+  "active": "d8f3373a7115f3e2",
   "lastOpenFiles": [
     "pages/5 Project Notes/Philosophy Argument.md",
-    "pages/1 Fleeting Notes/Oh 1.md",
-    "pages/2 Literature Notes/Sartre's Purpose.md",
+    "pages/5 Project Notes/Philosophy Draft 3.md",
     "pages/5 Project Notes/Philosophy Draft.md",
+    "pages/5 Project Notes/Philosophy Draft 2.md",
     "pages/15 - Virtue Ethics.md",
+    "pages/2 Literature Notes/Metamorphosis & Kafka.md",
+    "pages/3 Permanent Notes/13b - Goodwill and Duty.md",
     "assets/Kanyini Scheme.png",
-    "pages/2 Literature Notes/Kanyini.md",
-    "pages/3 Permanent Notes/13c - Goodwill in Dreamtime stories.md",
-    "pages/Philosophy Skeleton.md",
-    "pages/2 Literature Notes/Sartre.md"
+    "pages/3 Permanent Notes/13a - Categorical Imperative.md",
+    "pages/3 Permanent Notes/13a1a - Categorical Imperative.md"
   ]
 }

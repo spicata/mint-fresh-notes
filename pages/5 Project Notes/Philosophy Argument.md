@@ -19,4 +19,10 @@ tags: Project
 
 [2022-10-27](../1%20Fleeting%20Notes/2022-10-27)
 
-[Philosophy Skeleton](../Philosophy%20Skeleton.md), [Philosophy Draft](Philosophy%20Draft.md)
+[Philosophy Skeleton](../Philosophy%20Skeleton.md)
+
+## Drafting and writing
+
+- [Philosophy Draft](Philosophy%20Draft.md)
+- [Philosophy Draft 2](Philosophy%20Draft%202.md)
+- [Philosophy Draft 3](Philosophy%20Draft%203.md)

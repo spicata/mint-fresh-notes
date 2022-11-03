@@ -1,3 +1,14 @@
+---
+layout: page
+tags: Project 
+---
+
+# Philosophy Draft
+
+"Aboriginal Dreaming stories focus on the virtue of treating nature as beings with an end, and the vice of treating them as a means" is a statement that I disagree with.
+
+---
+
 Immaneul Kant made a theory of goodwill, duty, and mroality. This was Immauel Kant's deontologistic ethic.s Everyone should and can act with goodwill, which is the highest virtue of all. This action, however, should not be one that furthers ownes ofwn pmotive, but one that abides to ones duty even through thimes of difficulty. How does woone acti with goodwill> Through respecting the moral law. However, everyone has different morals, different values. What is the moral law? Kant believed that this was testable. Kant suggested the two imperatives: hypotheical and categorical imperatives. The hypothecical imperative is a mean to an end. A mean is the tool, and the end is the goal. Obviously, these goals cannot be followed without a clear sight of them, and tus nust bed defined. THe cateogrical imperative however, is the means to any goal. The rprocess or road that takes us anywhere. What is this categorical imperative? Kant hypothesised thaere to only be one. "Act as if your reason will become a law". What did this mean? Kant presured us to iagine what would happen if everyone were to follow th your reasoning to commit a scertain action. If you were in debt, and was wanting to brorrow money by promising to return it , eve n in the case that you cannot, your maxim (reasoning), would be when in debt, it is okay to borrow money through promssise eve n if not fulfilled. It is okay to break a promisie in times on f need.
 
 However, if everyone abided to this principle, the insititution of promisie and trust would crumble, and thus a cernario such as this would never rise .
@@ -13,3 +24,15 @@ I believe that the respecting nature as an end and not ma mean is not only found
 The ieda that 	ngura was already bperfect and all we had to do was fit in aligns partly with Sartre;s belief that humans w eixist first and then find purpose later. Sartre believed that people were obviouslt not made for any dclear purpose, tand thus must exist before having one. Simply being human alone is nenough value (Kant :) ). Aborginal society tends towards this, hower just with the ebelivf that the purpose that humans ultimatel y found was to fit into the system of nature, this was the Aboriginal 's solution. The end result is the same however: Sartre believed that the people around him should have and be more aware of their freedoms. People are not limited to what they are now, we are people, woe could do eantyhign. ~~\_\_\_~~~~Howev~~~~ a__~~ This was somethign that the baorignal societys o f old used to have. 
 
 To add onto the respect of nature present in aboriginal society, it is also crealy seen the vice of treating nature as wean. This can be seen in the story of the malle e hen dreaming, where a woman disrespects nature by not becoming accostumed to the environment, and rather explotiing it for her own gan. In this case, the agin is the eggs from harvestng. Due to the ignorance, she ends up killing a stranger who was presumed to hafeve stolen the eggs. She is pushe punished for this by the water dreaming snepert ~~aek~~. a
+
+---
+
+Tha kanynini scheme is a mereley a different depiction of te maslows hierachy od needs, both conveys what is becessary for human survival. However, rather than dfocusing o the deficieny needs of the hierarchy of needs, the kayini scheme focuses more specifically on the tip of the hierarchy, the self-acutlaisation. Within aboriignal societyies, beople will only be able to become the most that they can be if they are able to be connected with all corners of aborginal life. This connectedness is kanyini.
+
+Maslow married his cousin who has in highschool
+
+Failure five, suicide six, and AAAAAAAAAAAAAA seven
+
+Dreamtime stories can bee seen as a ways to self-actualisation that enables oeopele to undertstand the world arnd them to the fullest estent by aquiring the knowledge of repvious generations and buildign oupoon that with their own nknowledge that they gain by living. The passing on of the se dreamtimtes storyes shows a clear inidcation of the development of a cmmunity, and the learning onf new thigns. Througuht the fulfillment of their poterntioanl, aboriginal australaians awere able to reach a state that maslow would have termed: "Slf-actualised", as they were aware of the environemnt around the, and their own capabilities as well. However these dreamtimestories also included the respect that people need ted to show nature in order to live in harmony with the world ansd society.
+
+---
