@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -184,17 +183,17 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "de22f867deb18b9a",
+  "active": "1f54bca9a5fb26a7",
   "lastOpenFiles": [
-    "pages/5 Project Notes/Philosophy Draft 2.md",
-    "pages/5 Project Notes/Philosophy Draft.md",
+    "pages/Untitled.md",
     "pages/5 Project Notes/Philosophy “Draft” 3.md",
+    "pages/5 Project Notes/Philosophy Draft.md",
+    "pages/5 Project Notes/Philosophy Draft 2.md",
     "pages/5 Project Notes/Philosophy Argument.md",
     "pages/3 Permanent Notes/13a1b - Ends.md",
     "assets/Kanyini Scheme.png",
     "pages/2 Literature Notes/Maslow's Hierarchy.md",
     "pages/3 Permanent Notes/14 - Maslow's Hierarchy of Needs.md",
-    "assets/Maslows-Heirarchy.png",
-    "pages/3 Permanent Notes/13 - Kantian.md"
+    "assets/Maslows-Heirarchy.png"
   ]
 }
