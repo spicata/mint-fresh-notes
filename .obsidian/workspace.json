@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "91888b5f57cb6db9",
+        "id": "000df0906841ae94",
         "type": "tabs",
         "children": [
           {
-            "id": "55a783fb2c23e5fb",
+            "id": "a33afef26e8da3d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/5 Project Notes/Philosophy Draft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "417cc89e00c22952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/5 Project Notes/Philosophy Draft 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1f54bca9a5fb26a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/5 Project Notes/Philosophy “Draft” 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ce703dd66c96cfcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/5 Project Notes/Philosophy Argument.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/Philosophy “Draft” 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/Philosophy “Draft” 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/5 Project Notes/Philosophy “Draft” 3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,17 +134,17 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "1f54bca9a5fb26a7",
+  "active": "a33afef26e8da3d4",
   "lastOpenFiles": [
-    "pages/Untitled.md",
-    "pages/5 Project Notes/Philosophy “Draft” 3.md",
-    "pages/5 Project Notes/Philosophy Draft.md",
-    "pages/5 Project Notes/Philosophy Draft 2.md",
+    "pages/2 Literature Notes/Virtue Ethics.md",
+    "pages/2 Literature Notes/Immunity.md",
+    "pages/Philosophy Skeleton.md",
     "pages/5 Project Notes/Philosophy Argument.md",
-    "pages/3 Permanent Notes/13a1b - Ends.md",
+    "pages/5 Project Notes/Philosophy “Draft” 3.md",
+    "pages/5 Project Notes/Philosophy Draft 2.md",
+    "pages/5 Project Notes/Philosophy Draft.md",
     "assets/Kanyini Scheme.png",
-    "pages/2 Literature Notes/Maslow's Hierarchy.md",
-    "pages/3 Permanent Notes/14 - Maslow's Hierarchy of Needs.md",
-    "assets/Maslows-Heirarchy.png"
+    "pages/Untitled.md",
+    "pages/3 Permanent Notes/13a1b - Ends.md"
   ]
 }
