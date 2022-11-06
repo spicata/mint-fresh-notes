@@ -68,7 +68,6 @@
       "key": "S"
     }
   ],
-  "insert-template": [],
   "breadcrumbs:jump-to-first-up": [
     {
       "modifiers": [
@@ -320,5 +319,6 @@
       ],
       "key": "."
     }
-  ]
+  ],
+  "insert-template": []
 }

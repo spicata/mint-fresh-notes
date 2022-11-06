@@ -38,5 +38,6 @@
   "update-relative-links",
   "insert-heading-link",
   "chronology",
-  "obsidian-vault-statistics-plugin"
+  "obsidian-vault-statistics-plugin",
+  "obsidian-hotkeys-for-templates"
 ]
