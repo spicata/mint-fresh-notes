@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3afa695caefd5592",
+        "id": "1945b5d3f6c6a5ad",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb7a0a1118a8d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/2 Literature Notes/SARS-CoV-2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff93edef67406833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/SARS-CoV-2 Replication Cycle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fb45349957f7ca21",
+            "id": "4ce79cecbd39e00c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "b913d917427b1247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -177,17 +134,17 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "dd6f356a9235f771",
+  "active": "4ce79cecbd39e00c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "pages/SARS-CoV-2 Replication Cycle.md",
-    "pages/Untitled.md",
+    "pages/Oh 2.md",
+    "pages/Oh 3.md",
+    "pages/Oh 4.md",
+    "pages/2 Literature Notes/Antibodies.md",
+    "pages/2 Literature Notes/Immunity.md",
+    "pages/Vaccines.md",
     "pages/2 Literature Notes/SARS-CoV-2.md",
-    "pages/3 Permanent Notes/9 [Cheat] - Comparison Table.md",
-    "pages/3 Permanent Notes/9 - Pathogens.md",
-    "pages/1 Fleeting Notes/2022-10-17.md",
-    "pages/1 Fleeting Notes/2022-09-19.md",
-    "pages/1 Fleeting Notes/2022-10-19.md",
-    "pages/2 Literature Notes/Virtue Ethics.md"
+    "pages/SARS-CoV-2 Replication Cycle.md",
+    "pages/5 Project Notes/CSL Oral Exam.md",
+    "conflict-files-obsidian-git.md"
   ]
 }

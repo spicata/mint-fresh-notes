@@ -320,5 +320,13 @@
       "key": "."
     }
   ],
-  "insert-template": []
+  "insert-template": [],
+  "theme-picker:open-theme-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ]
 }
