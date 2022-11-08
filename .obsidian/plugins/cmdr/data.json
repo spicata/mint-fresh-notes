@@ -6,7 +6,7 @@
     {
       "id": "markdown-table-editor:markdown-table-editor-open-in-popover",
       "icon": "album",
-      "name": "Markdown Table Editor: Open Editor (with the hover editor pluging)",
+      "name": "Table",
       "mode": "any"
     },
     {

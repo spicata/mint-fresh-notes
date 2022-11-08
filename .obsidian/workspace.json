@@ -58,22 +58,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ee6b16db765008c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Nietzsche.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,12 +114,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Nietzsche.md",
+                "file": "pages/Aristotle's Table but actually readable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Nietzsche.md",
+                "file": "pages/Aristotle's Table but actually readable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,28 +172,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Nietzsche.md"
+                "file": "pages/Aristotle's Table but actually readable.md"
+              }
+            }
+          },
+          {
+            "id": "e596595ca7d96a61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
-  "active": "ee6b16db765008c9",
+  "active": "d6bd51e04f9ec166",
   "lastOpenFiles": [
+    "pages/Nietzsche.md",
     "pages/Aristotle's Table but actually readable.md",
+    "pages/2 Literature Notes/Sartre.md",
     "pages/3 Permanent Notes/15 - Virtue Ethics.md",
     "pages/Multimedia Exam.md",
     "pages/Formatting.md",
     "assets/Going Dark.png",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
     "pages/5 Project Notes/Death of a Salesman Themes.md",
-    "pages/1 Fleeting Notes/Oh 2.md",
-    "pages/1 Fleeting Notes/Oh 3.md",
-    "pages/1 Fleeting Notes/Oh 4.md"
+    "pages/1 Fleeting Notes/Oh 2.md"
   ]
 }
