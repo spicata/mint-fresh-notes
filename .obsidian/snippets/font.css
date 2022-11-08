@@ -1,0 +1,9 @@
+/* Change font in editor */
+.markdown-source-view {
+    font-family: "Fira Mono Regular", monospace !important;
+}
+
+/* Change font in preview */
+.markdown-preview-view {
+    font-family: "Fira Mono Regular", monospace !important;
+}
