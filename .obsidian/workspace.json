@@ -32,35 +32,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "81f0a486844ca82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/3 Permanent Notes/15 - Virtue Ethics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2988468a67dbb369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Aristotle's Table but actually readable.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Aristotle's Table but actually readable.md",
+                "file": "pages/Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Aristotle's Table but actually readable.md",
+                "file": "pages/Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Aristotle's Table but actually readable.md"
+                "file": "pages/Formatting.md"
               }
             }
           },
@@ -195,13 +168,13 @@
     "width": 325.5,
     "collapsed": true
   },
-  "active": "d6bd51e04f9ec166",
+  "active": "2de7336ef6587c74",
   "lastOpenFiles": [
-    "pages/Nietzsche.md",
-    "pages/Aristotle's Table but actually readable.md",
-    "pages/2 Literature Notes/Sartre.md",
-    "pages/3 Permanent Notes/15 - Virtue Ethics.md",
     "pages/Multimedia Exam.md",
+    "pages/3 Permanent Notes/15 - Virtue Ethics.md",
+    "pages/Aristotle's Table but actually readable.md",
+    "pages/Nietzsche.md",
+    "pages/2 Literature Notes/Sartre.md",
     "pages/Formatting.md",
     "assets/Going Dark.png",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
