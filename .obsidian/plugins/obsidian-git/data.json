@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{hostname}} made some changes :)",
+  "commitMessage": "I made some changes :)",
   "autoCommitMessage": "vault autobackup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 30,
