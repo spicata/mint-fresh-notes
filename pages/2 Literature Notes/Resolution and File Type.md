@@ -1,3 +1,8 @@
+---
+layout: page
+tags: Literature 
+---
+
 # Resolution and File Types
 
 - DPI = dots per inch
@@ -7,4 +12,4 @@
 	- It moves because many images
 	- Transparent
 - .pdf
-	- Secure and vetor
+	- Secure and vector
