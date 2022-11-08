@@ -11,8 +11,13 @@
             "id": "2de7336ef6587c74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Formatting.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/Formatting.md"
+              }
             }
           }
         ],
@@ -136,6 +145,8 @@
   },
   "active": "2de7336ef6587c74",
   "lastOpenFiles": [
+    "assets/Going Dark.png",
+    "pages/Formatting.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
     "pages/5 Project Notes/Death of a Salesman Themes.md",
     "pages/1 Fleeting Notes/Oh 2.md",
@@ -143,8 +154,6 @@
     "pages/1 Fleeting Notes/Oh 4.md",
     "pages/2 Literature Notes/Antibodies.md",
     "pages/2 Literature Notes/Immunity.md",
-    "pages/2 Literature Notes/Vaccines.md",
-    "pages/2 Literature Notes/SARS-CoV-2.md",
-    "pages/2 Literature Notes/SARS-CoV-2 Replication Cycle.md"
+    "pages/2 Literature Notes/Vaccines.md"
   ]
 }

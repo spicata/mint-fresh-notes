@@ -2,7 +2,14 @@
   "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "markdown-table-editor:markdown-table-editor-open-in-popover",
+      "icon": "album",
+      "name": "Markdown Table Editor: Open Editor (with the hover editor pluging)",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [],
   "leftRibbon": [
     {
