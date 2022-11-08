@@ -1,3 +1,8 @@
+---
+layout: page
+tags: Literature 
+---
+
 # Licenses
 
 - Freeware is free
