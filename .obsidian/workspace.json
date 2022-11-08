@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1945b5d3f6c6a5ad",
+        "id": "b4addddacad692d7",
         "type": "tabs",
         "children": [
           {
-            "id": "4ce79cecbd39e00c",
+            "id": "2de7336ef6587c74",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,17 +134,17 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "4ce79cecbd39e00c",
+  "active": "2de7336ef6587c74",
   "lastOpenFiles": [
-    "pages/Oh 2.md",
-    "pages/Oh 3.md",
-    "pages/Oh 4.md",
+    "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
+    "pages/5 Project Notes/Death of a Salesman Themes.md",
+    "pages/1 Fleeting Notes/Oh 2.md",
+    "pages/1 Fleeting Notes/Oh 3.md",
+    "pages/1 Fleeting Notes/Oh 4.md",
     "pages/2 Literature Notes/Antibodies.md",
     "pages/2 Literature Notes/Immunity.md",
-    "pages/Vaccines.md",
+    "pages/2 Literature Notes/Vaccines.md",
     "pages/2 Literature Notes/SARS-CoV-2.md",
-    "pages/SARS-CoV-2 Replication Cycle.md",
-    "pages/5 Project Notes/CSL Oral Exam.md",
-    "conflict-files-obsidian-git.md"
+    "pages/2 Literature Notes/SARS-CoV-2 Replication Cycle.md"
   ]
 }
