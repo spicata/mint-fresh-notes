@@ -32,9 +32,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "81f0a486844ca82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/3 Permanent Notes/15 - Virtue Ethics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2988468a67dbb369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Aristotle's Table but actually readable.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Multimedia Exam.md",
+                "file": "pages/Aristotle's Table but actually readable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Multimedia Exam.md",
+                "file": "pages/Aristotle's Table but actually readable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Multimedia Exam.md"
+                "file": "pages/Aristotle's Table but actually readable.md"
               }
             }
           }
@@ -157,8 +183,10 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "7f34865efdc781cc",
+  "active": "f0f6c53d8ef1bff1",
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/15 - Virtue Ethics.md",
+    "pages/Multimedia Exam.md",
     "pages/Formatting.md",
     "assets/Going Dark.png",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
@@ -166,8 +194,6 @@
     "pages/1 Fleeting Notes/Oh 2.md",
     "pages/1 Fleeting Notes/Oh 3.md",
     "pages/1 Fleeting Notes/Oh 4.md",
-    "pages/2 Literature Notes/Antibodies.md",
-    "pages/2 Literature Notes/Immunity.md",
-    "pages/2 Literature Notes/Vaccines.md"
+    "pages/2 Literature Notes/Antibodies.md"
   ]
 }
