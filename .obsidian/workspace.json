@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7819b4a97190fc9",
+        "id": "8c67dde4254adc91",
         "type": "tabs",
         "children": [
           {
-            "id": "6c65a7b62beb4ff2",
+            "id": "1afe49a011ba0a5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/README.md",
+                "file": "pages/1 Fleeting Notes/Oh 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/README.md",
+                "file": "pages/1 Fleeting Notes/Oh 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/README.md",
+                "file": "pages/1 Fleeting Notes/Oh 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/README.md"
+                "file": "pages/1 Fleeting Notes/Oh 4.md"
               }
             }
           },
@@ -147,24 +147,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "6c65a7b62beb4ff2",
+  "active": "9031433c1cc68c4f",
   "lastOpenFiles": [
-    "pages/2 Literature Notes/Resolution and File Type.md",
-    "pages/5 Project Notes/Multimedia Exam.md",
-    "pages/2 Literature Notes/Nietzsche.md",
-    "pages/2 Literature Notes/Licenses.md",
+    "pages/1 Fleeting Notes/Oh 3.md",
+    "pages/1 Fleeting Notes/Oh 2.md",
+    "pages/1 Fleeting Notes/Oh 1.md",
     "pages/1 Fleeting Notes/Formatting.md",
     "pages/1 Fleeting Notes/Fleeting 1.md",
     "pages/1 Fleeting Notes/De Broglie Wave Hypothesis and more.md",
-    "pages/1 Fleeting Notes/2022-10-19.md",
     "pages/1 Fleeting Notes/2022-10-27.md",
-    "pages/1 Fleeting Notes/Math Tutoring Plan.md"
+    "pages/1 Fleeting Notes/2022-10-19.md",
+    "pages/1 Fleeting Notes/2022-10-17.md",
+    "pages/1 Fleeting Notes/2022-09-19.md"
   ]
 }
