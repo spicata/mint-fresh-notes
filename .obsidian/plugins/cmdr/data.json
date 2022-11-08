@@ -8,6 +8,12 @@
       "icon": "album",
       "name": "Markdown Table Editor: Open Editor (with the hover editor pluging)",
       "mode": "any"
+    },
+    {
+      "id": "markdown-table-editor:markdown-table-editor-select-table-content",
+      "icon": "airplay",
+      "name": "Select Table",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
