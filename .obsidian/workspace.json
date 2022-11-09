@@ -11,8 +11,13 @@
             "id": "b6ceefad13033808",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -91,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/5 Project Notes/CSL Oral Exam.md"
+              }
             }
           },
           {
