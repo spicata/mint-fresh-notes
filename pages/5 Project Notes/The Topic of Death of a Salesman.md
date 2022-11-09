@@ -16,7 +16,7 @@ alias: English
 
 1. The impact that the American Dream and American society had on individuals and the people around them
 	1. The American Dream betrayed him
-		1. Willy believed in the American Dream
+		1. Willy believed in the American Dream[^1]
 			1. The American Dream was an idea prevalent in America.
 	2. Willy went insane
 		1. The crumbling of his facade contributed to insanity
@@ -30,4 +30,11 @@ alias: English
 		1. There was a wedge between Willy and his sons
 			1. Biff saw his affair
 			2. Willy never paid attention to Happy
-		2. There was a wedge between Linda and Willy
+		2. There was a wedge between Linda and her sons
+			1. Linda respected and loved Willy
+			2. Her sons did not
+		3. There was a wedge between the Loman Brothers
+			1. Happy believed that Willy was worth fighting for
+			2. Biff did not
+
+[^1]: 
