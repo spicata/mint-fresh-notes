@@ -1,6 +1,7 @@
 ---
 layout: page
-tags: Project
+tags: Project 
+alias: English
 ---
 
 > [!Question] Explain how an author's manipulation of language devices has informed your understanding of one or more texts you have studied.
