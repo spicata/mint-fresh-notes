@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "307d3dbd70b92a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Mail wouldn't let me attach these, so we are here I guess..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "94ef919b36a38259",
             "type": "leaf",
             "state": {
@@ -106,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801
+    "width": 262.5033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Mail wouldn't let me attach these, so we are here I guess..md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Mail wouldn't let me attach these, so we are here I guess..md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Mail wouldn't let me attach these, so we are here I guess..md"
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md"
               }
             }
           },
@@ -179,18 +167,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
-  "active": "307d3dbd70b92a00",
+  "active": "94ef919b36a38259",
   "lastOpenFiles": [
     "pages/5 Project Notes/The Topic of Death of a Salesman.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
+    "pages/Mail wouldn't let me attach these, so we are here I guess..md",
     "pages/1 Fleeting Notes/2022-10-27.md",
     "pages/1 Fleeting Notes/2022-10-17.md",
     "pages/1 Fleeting Notes/2022-09-19.md",
     "pages/5 Project Notes/Philosophy “Draft” 3.md",
     "pages/5 Project Notes/CSL Oral Exam.md",
-    "pages/Mail wouldn't let me attach these, so we are here I guess..md",
     "pages/Organic Chemistry.md",
     "pages/1 Fleeting Notes/Formatting.md"
   ]

@@ -18,6 +18,7 @@ alias: English
 	1. The American Dream betrayed him
 		1. Willy believed in the American Dream[^1]
 			1. The American Dream was an idea prevalent in America.
+		2. He was failed by the American Dream
 	2. Willy went insane
 		1. The crumbling of his facade contributed to insanity
 			1. Willy created falsehoods to keep himself afloat
