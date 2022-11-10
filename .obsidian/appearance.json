@@ -10,5 +10,6 @@
   "textFontFamily": "Fira Mono",
   "accentColor": "#8dbf9d",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": false
 }
