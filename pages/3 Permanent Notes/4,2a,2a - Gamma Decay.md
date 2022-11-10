@@ -9,4 +9,4 @@ It is denoted in the form $^{ Am }_{Z}X\to^{ A }_{Z}X+^{ 0 }_{0}\gamma$. Note th
 
 When compared to X-rays, it is essentially the same, except that X-rays originate from the electron cloud and gamma rays from the nucleus.
 
-« [4,2a - Beta Decay (P)](4,2a%20-%20Beta%20Decay%20(P)
+« [4,2a - Beta Decay (P)](4,2a%20-%20Beta%20Decay%20(P))

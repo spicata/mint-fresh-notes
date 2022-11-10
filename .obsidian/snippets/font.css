@@ -1,9 +1,9 @@
-/* Change font in editor */
-.markdown-source-view {
-    font-family: "Fira Mono Regular", monospace !important;
-}
-
 /* Change font in preview */
 .markdown-preview-view {
     font-family: "EB Garamond", serif !important;
+    font-size: 18px;
+}
+
+.markdown-source-view {
+  font-size: 15px
 }
