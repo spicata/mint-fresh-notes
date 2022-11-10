@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
+                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
+                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md"
+                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md"
               }
             }
           },
@@ -199,14 +199,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "2dde7f10f35f7c3c",
+  "active": "0bd90eb933673125",
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/6 Articles/A Report on Nuclear Physics.md",
-    "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
     "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
     "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",

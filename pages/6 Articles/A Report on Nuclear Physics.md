@@ -29,9 +29,11 @@ Gamma decay occurs when an excited atom reaches its ground state, releasing a sm
 
 Gamma particles are extremely penetrating and can travel long distances, but they have a small ionsiation ability.
 
-### Relation between ionsiation, particle size, and ionsiaton ability
+### Relationship between ionsiation, particle size, and penetration
 
+Penetration is a particle's ability to *pass through* an object. In this regard, it is harder for a larger particle to navigate through a substance, whereas a smaller particle finds it easier. As particle size increases, penetration decreases.
 
+Highly ionising particles have a similar problem. Higher ionsiation ability would mean that the particle interacts with more matter with more energy. Thus, as ionisaiton ability increases, penetration decreases.
 
 ---
 
