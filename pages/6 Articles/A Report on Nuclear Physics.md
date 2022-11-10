@@ -7,7 +7,7 @@ tags: Literature
 
 ## Decay
 
-Radicative decay is a process that unstable atoms (particularly nuclei) undergo to achieve a more stable stable (lower energy). Within Nuclear Physics, this is catogorside into three large types: Alpha ($\alpha$) decay, beta ($\beta$) decay, and gamma ($\gamma$) decay. What decides what form of decay is undergoene depends on which way the nucleus is unstable.
+Radicative decay is a process that unstable atoms (particularly nuclei) undergo to achieve a more stable stable (lower energy). Within Nuclear Physics, this is catogorside into three large types: Alpha ($\alpha$) decay, beta ($\beta$) decay, and gamma ($\gamma$) decay. What decides what form of decay is undergoene depends on which way the nucleus is unstable. T
 
 ### Alpha Decay
 
