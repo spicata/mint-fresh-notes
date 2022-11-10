@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md"
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
               }
             }
           },
@@ -209,16 +209,16 @@
     "width": 325.5,
     "collapsed": true
   },
-  "active": "c466a54664780bc1",
+  "active": "f3268ca037d58a17",
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
+    "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
     "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
-    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
     "pages/6 Articles/A Report on Nuclear Physics.md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
     "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
-    "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
     "pages/5 Project Notes/CSL Oral Exam.md",
     "pages/Hydrocarbons.md"
   ]
