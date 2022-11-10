@@ -5,5 +5,5 @@
 
 /* Change font in preview */
 .markdown-preview-view {
-    font-family: "Fira Mono Regular", monospace !important;
+    font-family: serif !important;
 }

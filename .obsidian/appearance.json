@@ -2,7 +2,8 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "theme",
-    "testing"
+    "testing",
+    "font"
   ],
   "translucency": false,
   "theme": "obsidian",
@@ -11,5 +12,7 @@
   "accentColor": "#8dbf9d",
   "showViewHeader": true,
   "nativeMenus": false,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": ""
 }
