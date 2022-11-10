@@ -7,7 +7,7 @@
   "translucency": false,
   "theme": "obsidian",
   "baseFontSize": 16,
-  "textFontFamily": "Fira Mono Regular",
+  "textFontFamily": "Fira Mono",
   "accentColor": "#8dbf9d",
   "showViewHeader": true,
   "nativeMenus": false

@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "49d043786fecbcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Uluru Statement from the Heart.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/Uluru Statement from the Heart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/Uluru Statement from the Heart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md"
+                "file": "pages/Uluru Statement from the Heart.md"
               }
             }
           },
@@ -151,20 +166,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "b6ceefad13033808",
+  "active": "49d043786fecbcf5",
   "lastOpenFiles": [
+    "pages/5 Project Notes/CSL Oral Exam.md",
+    "pages/Uluru Statement from the Heart.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
-    "pages/5 Project Notes/CSL Oral Exam.md",
     "pages/5 Project Notes/The Topic of Death of a Salesman.md",
     "pages/Mail wouldn't let me attach these, so we are here I guess..md",
     "pages/1 Fleeting Notes/2022-10-27.md",
     "pages/1 Fleeting Notes/2022-10-17.md",
     "pages/1 Fleeting Notes/2022-09-19.md",
-    "pages/5 Project Notes/Philosophy “Draft” 3.md",
-    "pages/Organic Chemistry.md"
+    "pages/5 Project Notes/Philosophy “Draft” 3.md"
   ]
 }
