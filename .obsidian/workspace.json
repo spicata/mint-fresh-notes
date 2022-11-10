@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02249c474a554d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Organic Chemistry.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d6f7d7bb61a83da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Hydrocarbons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "49f220c669656ad8",
             "type": "leaf",
             "state": {
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +160,13 @@
   "lastOpenFiles": [
     "pages/Hydrocarbons.md",
     "pages/Organic Chemistry.md",
+    "pages/5 Project Notes/CSL Oral Exam.md",
     "pages/2 Literature Notes/10TCS - CPU.md",
     "pages/2 Literature Notes/Licenses.md",
     "pages/2 Literature Notes/10TCS - Hardware.md",
     "pages/10TCS.md",
     "pages/2 Literature Notes/10TCS - Encryption.md",
     "pages/2 Literature Notes/10TCS - Databases.md",
-    "pages/2 Literature Notes/10TCS - Cooling.md",
-    "pages/Multimedia Exam 2.md"
+    "pages/2 Literature Notes/10TCS - Cooling.md"
   ]
 }
