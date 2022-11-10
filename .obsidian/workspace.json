@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "3095ed4a3a60a9a3",
+        "id": "53be7334b8166210",
         "type": "tabs",
         "children": [
           {
-            "id": "49f220c669656ad8",
+            "id": "769cd5a16fd51258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
-                "mode": "source",
+                "file": "pages/3 Permanent Notes/4 - Alpha Decay.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9c3f06f45bc9505e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c466a54664780bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a0cd87cd63c531af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f3268ca037d58a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "file": "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/5 Project Notes/CSL Oral Exam.md"
+                "file": "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md"
               }
             }
           },
@@ -156,17 +209,17 @@
     "width": 325.5,
     "collapsed": true
   },
-  "active": "49f220c669656ad8",
+  "active": "c466a54664780bc1",
   "lastOpenFiles": [
-    "pages/Hydrocarbons.md",
-    "pages/Organic Chemistry.md",
+    "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
+    "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
+    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
+    "pages/6 Articles/A Report on Nuclear Physics.md",
+    "pages/3 Permanent Notes/4 - Alpha Decay.md",
+    "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
+    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
+    "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
     "pages/5 Project Notes/CSL Oral Exam.md",
-    "pages/2 Literature Notes/10TCS - CPU.md",
-    "pages/2 Literature Notes/Licenses.md",
-    "pages/2 Literature Notes/10TCS - Hardware.md",
-    "pages/10TCS.md",
-    "pages/2 Literature Notes/10TCS - Encryption.md",
-    "pages/2 Literature Notes/10TCS - Databases.md",
-    "pages/2 Literature Notes/10TCS - Cooling.md"
+    "pages/Hydrocarbons.md"
   ]
 }
