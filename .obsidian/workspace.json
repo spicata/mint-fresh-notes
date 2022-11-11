@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Uluru Statement from the Heart.md",
-                "mode": "preview",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Uluru Statement from the Heart.md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Uluru Statement from the Heart.md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Uluru Statement from the Heart.md"
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "815de72c51e03522",
   "lastOpenFiles": [
-    "pages/Death of a Salesman Quotes.md",
     "pages/Uluru Statement from the Heart.md",
+    "pages/Death of a Salesman Quotes.md",
     "pages/5 Project Notes/The Topic of Death of a Salesman.md",
     "pages/Death of a Salesman VIPERBARC.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
