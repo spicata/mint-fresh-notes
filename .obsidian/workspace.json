@@ -58,8 +58,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
-                "mode": "preview",
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/5 Project Notes/CSL Oral Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
+                "file": "pages/5 Project Notes/CSL Oral Exam.md"
               }
             }
           },
@@ -198,14 +198,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
-  "active": "f3268ca037d58a17",
+  "active": "0bd90eb933673125",
   "lastOpenFiles": [
     "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
+    "pages/6 Articles/A Report on Nuclear Physics.md",
     "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
-    "pages/6 Articles/A Report on Nuclear Physics.md",
     "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
     "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
