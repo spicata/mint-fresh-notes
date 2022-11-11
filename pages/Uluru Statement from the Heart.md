@@ -19,3 +19,7 @@ tags: Project
 - "... science more than 60,000 years ago." --> Shows the importance of emperical data
 - "... own laws and customs." --> Aboriginal customary law
 - "... the ancestral tie between the land ..." --> Kanyini
+- "... we are the most incarcerated people on the planet." --> Again, the importance of empirical data
+- "... plainly the structural nature of our problem." --> Aboriginal are stuck as they don't understand the system
+- "... walk in two worlds and ..." --> shows the idea of interconnecting the cultures
+- ""
