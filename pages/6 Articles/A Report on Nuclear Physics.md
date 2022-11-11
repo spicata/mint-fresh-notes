@@ -1,6 +1,7 @@
 ---
 layout: page
 tags: Literature
+aliases: [Nuclear Physics, Science]
 ---
 
 # A Report on Nuclear Physics

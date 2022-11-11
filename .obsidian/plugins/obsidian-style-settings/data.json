@@ -48,5 +48,9 @@
   "obsidian-prism-theme@@h2-text-color-dt": "var(--text-normal)",
   "customizable-page-header-buttons@@page-header-spacing-desktop": 8,
   "quick-explorer@@qe-obsidian-title": "qe-title-right",
-  "quick-explorer@@qe-hide-breadcrumbs": false
+  "quick-explorer@@qe-hide-breadcrumbs": false,
+  "encore-settings@@theme-colours": "encore-theme-monochrome",
+  "encore-settings@@shaded-title": false,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@encore-disable-clickability-fix": false
 }
