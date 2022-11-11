@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/6 Articles/A Report on Nuclear Physics.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "74fcaacf1f03b9ea",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md"
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
               }
             }
           },
@@ -201,12 +200,12 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "0bd90eb933673125",
+  "active": "f3268ca037d58a17",
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
     "pages/3 Permanent Notes/4,3a - Why larger particles are less penetrative (P).md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/6 Articles/A Report on Nuclear Physics.md",
-    "pages/3 Permanent Notes/4,3b - Why more ionising particles are less penetrative.md",
     "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
     "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
