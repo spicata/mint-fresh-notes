@@ -1,40 +1,36 @@
----
----
-
-@import "no-style-please";
 // -------------- THEME SWITCHER -------------- //
-@mixin dark-appearance {
-filter: invert(1);
-img {
-    filter: invert(1);
-
-    &.ioda { filter: invert(0); }
-}
-}
-
-body[a="dark"] { @include dark-appearance; }
-
-
-@media (prefers-color-scheme: dark) {
-body[a="auto"] { @include dark-appearance; }
-}
+// @mixin dark-appearance {
+//  filter: invert(1);
+//  img {
+//    filter: invert(1);
+//
+//    &.ioda { filter: invert(0); }
+//  }
+//}
+//
+//body[a="dark"] { @include dark-appearance; }
+//
+//
+//@media (prefers-color-scheme: dark) {
+//  body[a="auto"] { @include dark-appearance; }
+//}
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { background: #1e1e1e; }
 
 html { height: 100%; }
 
 body {
-color: black;
-font-family: monospace;
-font-size: 16px;
-line-height: 1.4;
-margin: 0;
-min-height: 100%;
-overflow-wrap: break-word;
+  color: #dadada;
+  font-family: 'EB Garamond', serif;
+  font-size: 16px;
+  line-height: 1.4;
+  margin: 0;
+  min-height: 100%;
+  overflow-wrap: break-word;
 }
 
 .post-meta { text-align: right; }
@@ -50,49 +46,49 @@ li { margin: 0.4rem 0; }
 *:target { background: yellow; }
 
 .w {
-max-width: 640px;
-margin: 0 auto;
-padding: 4rem 2rem;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
 }
 
 hr {
-text-align: center;
-border: 0;
+  text-align: center;
+  border: 0;
 
-&:before { content: '/////' }
-&:after { content: attr(data-content) '/////' }
+  &:before { content: '/////' }
+  &:after { content: attr(data-content) '/////' }
 }
 
 table { width: 100%; }
 
 table, th, td {
-border: thin solid black;
-border-collapse: collapse;
-padding: 0.4rem;
+  border: thin solid #dadada;
+  border-collapse: collapse;
+  padding: 0.4rem;
 }
 
 code {
-color: white;
-background: black;
+  color: #242424;
+  background: #dadada;
 }
 
 div.highlighter-rouge code {
-display: block;
-overflow-x: auto;
-white-space: pre-wrap;
-padding: 1rem;
+  display: block;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  padding: 1rem;
 }
 
 blockquote {
-font-style: italic;
-border: thin solid black;
-padding: 1rem;
+  font-style: italic;
+  border: thin solid #dadada;
+  padding: 1rem;
 
-p { margin: 0; }
+  p { margin: 0; }
 }
 
 img {
-max-width: 100%;
-display: block;
-margin: 0 auto;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }

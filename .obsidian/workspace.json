@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "16a7a7d6c582551c",
+            "id": "b78dfd0613e7affe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/1 Fleeting Notes/Formatting.md",
-                "mode": "preview",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/1 Fleeting Notes/Formatting.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/1 Fleeting Notes/Formatting.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/1 Fleeting Notes/Formatting.md"
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md"
               }
             }
           },
@@ -207,9 +207,10 @@
     "width": 325.5,
     "collapsed": true
   },
-  "active": "16a7a7d6c582551c",
+  "active": "b78dfd0613e7affe",
   "lastOpenFiles": [
     "pages/6 Articles/A Report on Nuclear Physics.md",
+    "pages/1 Fleeting Notes/Formatting.md",
     "pages/Untitled.md",
     "pages/6 Articles/Nuclear_Decay.pdf",
     "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
@@ -217,7 +218,6 @@
     "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
-    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
-    "pages/3 Permanent Notes/4,4a - After Decay (P).md"
+    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md"
   ]
 }
