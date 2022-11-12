@@ -42,6 +42,8 @@ Beta particles are moderatly ionsing, moderatly penetrative, and travel moderatl
 
 #### Alpha vs Beta
 
+
+
 ### Gamma Decay
 
 Gamma decay occurs when an excited atom reaches its ground state, releasing a small photon (a small packet of energy): the gamma ray. It is identical to an X-ray, except for the place of origin[^1]. It is denoted as $^{Am}_ZX\to^A_ZX+^0_0\gamma$. Gamma decay often accompanies the other forms of decay.
