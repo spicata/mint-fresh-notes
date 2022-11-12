@@ -21,6 +21,45 @@
             }
           },
           {
+            "id": "e6d6a5c22be1550b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1ebd1aa754ba6cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/5 Project Notes/How I make notes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9bc3db9fcf7585b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/1 Fleeting Notes/Formatting.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "70d2287246d68402",
             "type": "leaf",
             "state": {
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
+                "file": "pages/1 Fleeting Notes/Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
+                "file": "pages/1 Fleeting Notes/Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md"
+                "file": "pages/1 Fleeting Notes/Formatting.md"
               }
             }
           },
@@ -166,20 +204,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "70d2287246d68402",
+  "active": "9bc3db9fcf7585b1",
   "lastOpenFiles": [
+    "pages/5 Project Notes/How I make notes.md",
+    "pages/6 Articles/A Report on Nuclear Physics.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
     "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
-    "pages/6 Articles/A Report on Nuclear Physics.md",
     "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
     "assets/3-methylbut-1-ane.png",
-    "pages/1 Fleeting Notes/Formatting.md",
-    "pages/Untitled.md"
+    "pages/1 Fleeting Notes/Formatting.md"
   ]
 }
