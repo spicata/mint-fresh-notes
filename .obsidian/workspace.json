@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/6 Articles/A Report on Nuclear Physics.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "06f21fb39e8ceebb",
+            "id": "6034890b8c53fc28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/3 Permanent Notes/4,5b,2a - Fission.md",
+                "file": "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -47,32 +47,20 @@
             }
           },
           {
-            "id": "6034890b8c53fc28",
+            "id": "dfb8a12b19450363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/3 Permanent Notes/4,5b - Binding Energy and Mass Defect.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dd1bcc556bb8d383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/3 Permanent Notes/4,5c - Magic Numbers & Helium Stability.md",
+                "file": "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
+                "file": "pages/3 Permanent Notes/4,2a - Beta Decay (P).md"
               }
             }
           },
@@ -200,24 +188,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 325.5,
     "collapsed": true
   },
-  "active": "815de72c51e03522",
+  "active": "6034890b8c53fc28",
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/4,5c - Magic Numbers & Helium Stability.md",
-    "pages/6 Articles/A Report on Nuclear Physics.md",
-    "pages/3 Permanent Notes/4,5b - Binding Energy and Mass Defect.md",
-    "pages/3 Permanent Notes/4,5b,2a - Fission.md",
-    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
-    "pages/4 Citation Notes/Fusion.md",
+    "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
-    "pages/3 Permanent Notes/4,2b - Beta Decay Unlimited (P).md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
-    "pages/1 Fleeting Notes/Formatting.md"
+    "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
+    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
+    "pages/3 Permanent Notes/4,4a - After Decay (P).md",
+    "pages/3 Permanent Notes/4,5b,a - Iron Stability.md",
+    "pages/3 Permanent Notes/4,5b - Binding Energy and Mass Defect.md",
+    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
+    "pages/3 Permanent Notes/4,5b,2a - Fission.md"
   ]
 }

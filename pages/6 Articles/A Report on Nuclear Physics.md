@@ -24,7 +24,13 @@ The reason why a helium nucleus is released has to do with the astonishing stabi
 
 ##### Magic Numbers
 
+The principle of electron shells can be applied to the nucleus. The nucleus is made up of layers of nuclear shells. Unlike an electron shell, there exists two nuclear shells for each layer: one for protons, another for neutrons. When these shells are filled, the nucleus tends to be more stable. These magic numbers are: 2, 8, 20, 28, 50, 82, and 126.
 
+When both the shells are filled, the nucleus is doubly-magic, and tends to be especially stable. This is the case for helium-4.
+
+##### Stability of Iron-56
+
+Iron-56 is special, as it is not magical. Despite this, it has the lowest mass per nucleon[^2] and has the third highest binding energy per nucleon[^3]. Due to its incredibly stability, most fission and fusion reactions (below) tend toward iron-56. 
 
 ### Beta Decay
 
@@ -54,3 +60,5 @@ Highly ionising particles have a similar problem. Higher ionsiation ability woul
 - Me.
 
 [^1]: X-rays originate from the electron cloud, whereas the gamma ray originates from the nucleus.
+[^2]: This indicates that the formation of iron-56 releases a lot of binding energy.
+[^3]: Only surpassed by Ni-62 and Fe-56
