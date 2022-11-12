@@ -101,12 +101,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md"
               }
             }
           },
