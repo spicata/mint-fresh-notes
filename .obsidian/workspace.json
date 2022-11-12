@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35816011a03a04ca",
+            "id": "0c715f4df5df7e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
+                "file": "pages/Death of a Salesman Quotes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "1377a0fdb52c6ea1",
+            "id": "e829491d83c185d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
-                "mode": "source",
+                "file": "pages/5 Project Notes/Death of a Salesman VIPERBARC.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -50,33 +50,8 @@
             "id": "54a6f47243e59439",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/No file.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f2cd937378d187fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4ae323787dca502d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -133,13 +108,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5033760070801,
-    "collapsed": true
+    "width": 262.5033760070801
   },
   "right": {
     "id": "6e6bed1067815e25",
@@ -155,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/Death of a Salesman Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
+                "file": "pages/Death of a Salesman Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
+                "file": "pages/Death of a Salesman Quotes.md"
               }
             }
           },
@@ -215,17 +188,17 @@
     "width": 325.5,
     "collapsed": true
   },
-  "active": "1377a0fdb52c6ea1",
+  "active": "0c715f4df5df7e60",
   "lastOpenFiles": [
+    "pages/5 Project Notes/Uluru Statement from the Heart.md",
+    "pages/README.md",
+    "pages/Death of a Salesman Quotes.md",
+    "pages/No file.md",
+    "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
+    "pages/5 Project Notes/Death of a Salesman VIPERBARC.md",
     "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
     "pages/6 Articles/A Report on Nuclear Physics.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
-    "pages/No file.md",
-    "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
-    "pages/5 Project Notes/How I make notes.md",
-    "pages/1 Fleeting Notes/Formatting.md",
-    "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
-    "pages/3 Permanent Notes/4 - Alpha Decay.md",
-    "pages/3 Permanent Notes/4,2a - Beta Decay (P).md"
+    "pages/5 Project Notes/How I make notes.md"
   ]
 }
