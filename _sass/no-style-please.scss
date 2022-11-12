@@ -1,31 +1,31 @@
 // -------------- THEME SWITCHER -------------- //
-@mixin dark-appearance {
-  filter: invert(1);
-  img {
-    filter: invert(1);
-
-    &.ioda { filter: invert(0); }
-  }
-}
-
-body[a="dark"] { @include dark-appearance; }
-
-
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
-}
+// @mixin dark-appearance {
+//  filter: invert(1);
+//  img {
+//    filter: invert(1);
+//
+//    &.ioda { filter: invert(0); }
+//  }
+//}
+//
+//body[a="dark"] { @include dark-appearance; }
+//
+//
+//@media (prefers-color-scheme: dark) {
+//  body[a="auto"] { @include dark-appearance; }
+//}
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { background: #1e1e1e; }
 
 html { height: 100%; }
 
 body {
-  color: black;
-  font-family: monospace;
+  color: #dadada;
+  font-family: 'EB Garamond', serif;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
@@ -62,14 +62,14 @@ hr {
 table { width: 100%; }
 
 table, th, td {
-  border: thin solid black;
+  border: thin solid #dadada;
   border-collapse: collapse;
   padding: 0.4rem;
 }
 
 code {
-  color: white;
-  background: black;
+  color: #242424;
+  background: #dadada;
 }
 
 div.highlighter-rouge code {
@@ -81,7 +81,7 @@ div.highlighter-rouge code {
 
 blockquote {
   font-style: italic;
-  border: thin solid black;
+  border: thin solid #dadada;
   padding: 1rem;
 
   p { margin: 0; }
