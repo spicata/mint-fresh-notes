@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/4,2a - Beta Decay (P).md"
+                "file": "pages/6 Articles/A Report on Nuclear Physics.md"
               }
             }
           },
@@ -188,24 +187,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "6034890b8c53fc28",
+  "active": "dd6f356a9235f771",
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
+    "pages/6 Articles/Nuclear_Decay.pdf",
+    "pages/6 Articles/A Report on Nuclear Physics.md",
+    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
+    "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
     "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/3 Permanent Notes/4,5a - The Helium Nucleus.md",
     "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
     "pages/3 Permanent Notes/4,4a - After Decay (P).md",
-    "pages/3 Permanent Notes/4,5b,a - Iron Stability.md",
-    "pages/3 Permanent Notes/4,5b - Binding Energy and Mass Defect.md",
-    "pages/3 Permanent Notes/4,2a,2a - Gamma Decay.md",
-    "pages/3 Permanent Notes/4,5b,2a - Fission.md"
+    "pages/3 Permanent Notes/4,5b,a - Iron Stability.md"
   ]
 }

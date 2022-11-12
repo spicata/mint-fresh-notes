@@ -40,6 +40,8 @@ There also exists beta positive decay, which is the opposite process, a protons 
 
 Beta particles are moderatly ionsing, moderatly penetrative, and travel moderatly fast. Much like alpha emitters, beta emmiters are much more dangerous within the body, but external beta emmiters are also capable of causing "beta burns".
 
+#### Alpha vs Beta
+
 ### Gamma Decay
 
 Gamma decay occurs when an excited atom reaches its ground state, releasing a small photon (a small packet of energy): the gamma ray. It is identical to an X-ray, except for the place of origin[^1]. It is denoted as $^{Am}_ZX\to^A_ZX+^0_0\gamma$. Gamma decay often accompanies the other forms of decay.
