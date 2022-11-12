@@ -146,6 +146,14 @@
             }
           },
           {
+            "id": "61360119428f7ecf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "c634759688c7b4e5",
             "type": "leaf",
             "state": {
@@ -165,23 +173,15 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "61360119428f7ecf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "1377a0fdb52c6ea1",
+  "active": "61360119428f7ecf",
   "lastOpenFiles": [
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
     "pages/6 Articles/A Report on Nuclear Physics.md",
