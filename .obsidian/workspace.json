@@ -14,27 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb18a4f65dab9848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md"
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md"
               }
             }
           },
@@ -165,12 +152,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
-  "active": "eb18a4f65dab9848",
+  "active": "35816011a03a04ca",
   "lastOpenFiles": [
-    "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/3 Permanent Notes/4,6a - Harms of Ionising Radiation.md",
+    "pages/3 Permanent Notes/4 - Alpha Decay.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
     "pages/3 Permanent Notes/4,2a - Beta Decay (P).md",
     "pages/6 Articles/A Report on Nuclear Physics.md",
