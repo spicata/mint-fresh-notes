@@ -16,4 +16,4 @@ tags: Literature
 - @ Kant went against virtues
 	- Like Kant, live morally
 
-[15 - Virtue Ethics](../3%20Permanent%20Notes/15%20-%20Virtue%20Ethics.md)
+[15 - Virtue Ethics](../3%20Permanent%20Notes/15%20-%20Virtue%20Ethics)

@@ -8,13 +8,23 @@ aliases: [Nuclear Physics, Science]
 
 ## Decay
 
-Radicative decay is a process that unstable atoms (particularly nuclei) undergo to achieve a more stable stable (lower energy). Within Nuclear Physics, this is catogorside into three large types: Alpha ($\alpha$) decay, beta ($\beta$) decay, and gamma ($\gamma$) decay. What decides what form of decay is undergoene depends on which way the nucleus is unstable.
+Radicative decay is the process where an unstable nucleus ejects energy or particles to achieve a more stable state. Within Nuclear Physics, this is catogorside into three large types: Alpha ($\alpha$) decay, beta ($\beta$) decay, and gamma ($\gamma$) decay. What decides what form of decay is undergoene depends on which way the nucleus is unstable.
 
 ### Alpha Decay
 
 Alpha decay is the first form of decay we will look at. Alpha decay releases an alpha particle from the nucleus of the atom; the particle consists of 2 neutrons and 2 protons, identical to a helium nucleus. It is denoted as: $^A_ZX\to^{A-4}_{Z-2}Y+^4_2\alpha$.
 
 Although alpha decay has an incredibly high ionisation power due to its strong charge, it does not travel far and has little penetration (explained later). Alpha emitters are safe out of the body as alpha particles are unable to penetrate skin. However, once inside the body, its high ionising power can wreck havoc against cells.
+
+#### Binding Energy & Exploration of the Alpha Particle
+
+Mass defect is the mass difference between the individual constiuents of an atom and the atom itself; the constiuents always have a higher mass. This difference is accounted for by the binding energy, which is the energy that is released when nucleons come together into a nucleus. Mass can be converted to energy by $E=mc^2$. Mass defect itself is denoted by $\Delta M=(Zm_p+Nm_n)-M_A$. The higher the binding energy, the more stable a nucleus tends to be.
+
+The reason why a helium nucleus is released has to do with the astonishing stability of said nucleus. The helium nucleus has an average binding energy per nucleon of about 7 MeV. Compare this to hydrogen-3's binding energy of less than 3 MeV and lithium-6's of around 5.5 MeV. Helium is only eventually surpassed by carbon-12. This is because of magic numbers.
+
+##### Magic Numbers
+
+
 
 ### Beta Decay
 
@@ -35,6 +45,8 @@ Gamma particles are extremely penetrating and can travel long distances, but the
 Penetration is a particle's ability to *pass through* an object. In this regard, it is harder for a larger particle to navigate through a substance, whereas a smaller particle finds it easier. As particle size increases, penetration decreases.
 
 Highly ionising particles have a similar problem. Higher ionsiation ability would mean that the particle interacts with more matter with more energy. Thus, as ionisaiton ability increases, penetration decreases.
+
+## Fission and Fusion
 
 ---
 
