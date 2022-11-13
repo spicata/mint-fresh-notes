@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "c103108cb7dbad5c",
+            "id": "fa015f748ad93c43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/5 Project Notes/Literature Task 3.md",
-                "mode": "source",
+                "file": "pages/3 Permanent Notes/9 - Pathogens.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/5 Project Notes/Literature Task 3.md",
+                "file": "pages/3 Permanent Notes/9 - Pathogens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/5 Project Notes/Literature Task 3.md",
+                "file": "pages/3 Permanent Notes/9 - Pathogens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/5 Project Notes/Literature Task 3.md"
+                "file": "pages/3 Permanent Notes/9 - Pathogens.md"
               }
             }
           },
@@ -163,8 +163,10 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "c103108cb7dbad5c",
+  "active": "fa015f748ad93c43",
   "lastOpenFiles": [
+    "pages/3 Permanent Notes/9 - Pathogens.md",
+    "pages/5 Project Notes/Literature Task 3.md",
     "pages/Death of a Salesman Quotes.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
     "pages/3 Permanent Notes/5,a - Marxism and Metamorphosis.md",
@@ -172,8 +174,6 @@
     "pages/5 Project Notes/Death of a Salesman VIPERBARC.md",
     "pages/5 Project Notes/Uluru Statement from the Heart.md",
     "pages/README.md",
-    "pages/No file.md",
-    "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
-    "pages/6 Articles/A Report on Nuclear Physics.md"
+    "pages/No file.md"
   ]
 }
