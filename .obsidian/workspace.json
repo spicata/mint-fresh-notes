@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "e829491d83c185d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/5 Project Notes/Death of a Salesman VIPERBARC.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "70d2287246d68402",
             "type": "leaf",
             "state": {
@@ -54,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Death of a Salesman Quotes.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Death of a Salesman Quotes.md",
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Death of a Salesman Quotes.md"
+                "file": "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md"
               }
             }
           },
@@ -188,14 +176,14 @@
     "width": 325.5,
     "collapsed": true
   },
-  "active": "0c715f4df5df7e60",
+  "active": "70d2287246d68402",
   "lastOpenFiles": [
+    "pages/Death of a Salesman Quotes.md",
+    "pages/5 Project Notes/Death of a Salesman VIPERBARC.md",
     "pages/5 Project Notes/Uluru Statement from the Heart.md",
     "pages/README.md",
-    "pages/Death of a Salesman Quotes.md",
     "pages/No file.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
-    "pages/5 Project Notes/Death of a Salesman VIPERBARC.md",
     "pages/3 Permanent Notes/4,2a,a - Beta or Alpha decay.md",
     "pages/6 Articles/A Report on Nuclear Physics.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
