@@ -11,8 +11,13 @@
             "id": "d52ddcc98f159a84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/5 Project Notes/Literature Task 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           },
           {
@@ -28,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3 Permanent Notes/9 - Pathogens.md",
+                "file": "pages/5 Project Notes/Literature Task 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3 Permanent Notes/9 - Pathogens.md",
+                "file": "pages/5 Project Notes/Literature Task 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3 Permanent Notes/9 - Pathogens.md"
+                "file": "pages/5 Project Notes/Literature Task 3.md"
               }
             }
           },
@@ -163,9 +167,10 @@
     "direction": "horizontal",
     "width": 325.5
   },
-  "active": "fa015f748ad93c43",
+  "active": "d52ddcc98f159a84",
   "lastOpenFiles": [
     "pages/3 Permanent Notes/9 - Pathogens.md",
+    "pages/3 Permanent Notes/12,a - HIV and AIDS.md",
     "pages/5 Project Notes/Literature Task 3.md",
     "pages/Death of a Salesman Quotes.md",
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample 2.md",
@@ -173,7 +178,6 @@
     "pages/5 Project Notes/English Comprehension/Death of a Salesman Sample.md",
     "pages/5 Project Notes/Death of a Salesman VIPERBARC.md",
     "pages/5 Project Notes/Uluru Statement from the Heart.md",
-    "pages/README.md",
-    "pages/No file.md"
+    "pages/README.md"
   ]
 }
