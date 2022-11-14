@@ -11,12 +11,16 @@ This website is hosted by GitHub pages and made through Jekyll & [no-styles-plea
 
 ## Notes
 
-- [Nuclear Physics](pages/3%20Permanent%20Notes/4%20-%20Alpha%20Decay.md)
-- [Nuclear Power](pages/3%20Permanent%20Notes/8%20-%20How%20a%20Nuclear%20Reactor%20Works.md)
-- [HIV and AIDS](pages/3%20Permanent%20Notes/12,a%20-%20HIV%20and%20AIDS.md)
-- [Kantian Moral Philosophy](pages/3%20Permanent%20Notes/13%20-%20Kantian.md)
+- [Nuclear Physics](pages/3%20Permanent%20Notes/4%20-%20Alpha%20Decay)
+- [Nuclear Power](pages/3%20Permanent%20Notes/8%20-%20How%20a%20Nuclear%20Reactor%20Works)
+- [HIV and AIDS](pages/3%20Permanent%20Notes/12,a%20-%20HIV%20and%20AIDS)
+- [Kantian Moral Philosophy](pages/3%20Permanent%20Notes/13%20-%20Kantian)
 
-## Reports and more
+## Reports
 
 - [Nuclear Physics](pages/6%20Articles/Nuclear_Decay%20v2.pdf)
-	- [Remake here](pages/6%20Articles/A%20Report%20on%20Nuclear%20Physics.md)
+	- [Remake here](pages/6%20Articles/A%20Report%20on%20Nuclear%20Physics)
+
+## Resources
+
+- [Biology Flashcards](pages/5%20Project%20Notes/Biology%20Flashcards)

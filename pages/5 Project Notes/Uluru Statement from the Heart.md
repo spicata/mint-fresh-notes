@@ -8,10 +8,10 @@ tags: Project
 ## Dr Dre
 
 - “... the first sovereign Nations ...” —> Liberty, rights, self-determination
-- “… sovereignty is a **spiritual notion** …” —> [Kanyini](../2%20Literature%20Notes/Kanyini.md)
+- “… sovereignty is a **spiritual notion** …” —> [Kanyini](../2%20Literature%20Notes/Kanyini)
 - “… and co-exists with the sovereignty of the Crown.” —> Otherwise would be a call-to-arms
-- " This is the torment of our powerlessness." --> Lack of self-determination [14 - Maslow's Hierarchy of Needs](../3%20Permanent%20Notes/14%20-%20Maslow's%20Hierarchy%20of%20Needs.md)
-- "Makarrata is the culmination of our agenda..." --> Makarrata is the truth telling [Nietzsche](../2%20Literature%20Notes/Nietzsche.md)
+- " This is the torment of our powerlessness." --> Lack of self-determination [14 - Maslow's Hierarchy of Needs](../3%20Permanent%20Notes/14%20-%20Maslow's%20Hierarchy%20of%20Needs)
+- "Makarrata is the culmination of our agenda..." --> Makarrata is the truth telling [Nietzsche](../2%20Literature%20Notes/Nietzsche)
 - "... process of agreement-making ..." --> Base of European society: compromise and agreement.
 
 ## Solo
