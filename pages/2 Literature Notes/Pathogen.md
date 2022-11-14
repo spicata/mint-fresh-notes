@@ -25,7 +25,7 @@ tags: Literature
 | Size | 0.1 to 5 um | 20 to 300 nm | ? | ? |
 | Cell Wall | Phospholipid Bilayer | - | Phospholipid Bilayer | ? |
 
-[9 - Pathogens](../3%20Permanent%20Notes/9%20-%20Pathogens)
+[9 - Pathogens](../3%20Permanent%20Notes/9%20-%20Pathogens.md)
 
 ---
 
