@@ -7,4 +7,6 @@ vendor
 Gemfile.lock
 Daily Notes/
 workspace
-.obsidian
+.*
+!.gitignore
+!.jekyll-metadata
