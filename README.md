@@ -19,4 +19,4 @@ This website is hosted by GitHub pages and made through Jekyll & [no-styles-plea
 ## Reports and more
 
 - [Nuclear Physics](pages/6%20Articles/Nuclear_Decay%20v2.pdf)
-	- [[report]]
+	- [Remake here](pages/6%20Articles/A%20Report%20on%20Nuclear%20Physics.md)
