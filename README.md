@@ -1,6 +1,3 @@
----
-alias: mint fresh notes
----
 # mint fresh notes :*)*
 by Mspicata
 
