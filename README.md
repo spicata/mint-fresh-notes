@@ -1,3 +1,6 @@
+---
+alias: mint fresh notes
+---
 # mint fresh notes :*)*
 by Mspicata
 
@@ -32,4 +35,4 @@ Hello! I am someone who makes notes and other resources.
 ## I’ve learnt…
 
 - [Problems with Zettelkasten](pages/7%20Unclassified/Problems%20with%20Zettelkasten)
-- [Preparing](pages/Preparations)
+- [Preparing](pages/Preparations.md)
