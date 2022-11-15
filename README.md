@@ -28,3 +28,8 @@ Hello! I am someone who makes notes and other resources.
 ## I’ve made…
 
 - [Biology Flashcards](pages/5%20Project%20Notes/Biology%20Flashcards)
+
+## I’ve learnt…
+
+- [Problems with Zettelkasten](pages/7%20Unclassified/Problems%20with%20Zettelkasten)
+- [Preparing](pages/Preparations)
