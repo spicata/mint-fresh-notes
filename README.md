@@ -13,24 +13,24 @@ Hello! I am someone who makes notes and other resources.
 
 ## I know…
 
-- [Nuclear Physics](pages/3%20Permanent%20Notes/4%20-%20Alpha%20Decay)
-- [Nuclear Power](pages/3%20Permanent%20Notes/8%20-%20How%20a%20Nuclear%20Reactor%20Works)
-- [HIV and AIDS](pages/3%20Permanent%20Notes/12,a%20-%20HIV%20and%20AIDS)
-- [Kantian Moral Philosophy](pages/3%20Permanent%20Notes/13%20-%20Kantian)
+- [Nuclear Physics](pages/I%20know/3%20Permanent%20Notes/4%20-%20Alpha%20Decay)
+- [Nuclear Power](pages/I%20know/3%20Permanent%20Notes/8%20-%20How%20a%20Nuclear%20Reactor%20Works)
+- [HIV and AIDS](pages/I%20know/3%20Permanent%20Notes/12,a%20-%20HIV%20and%20AIDS)
+- [Kantian Moral Philosophy](pages/I%20know/3%20Permanent%20Notes/13%20-%20Kantian)
 
 ## I’ve written…
 
-- [Nuclear Physics](pages/6%20Articles/Nuclear_Decay%20v2.pdf)
-	- [Remake here](pages/6%20Articles/A%20Report%20on%20Nuclear%20Physics)
-- [A Philosophy Argument](pages/5%20Project%20Notes/Philosophy%20“Draft”%203)
-	- [PDF Version](pages/5%20Project%20Notes/Philosophy%20“Draft”%203.pdf)
+- [Nuclear Physics](pages/I've%20written/Nuclear_Decay%20v2.pdf)
+	- [Remake here](pages/I've%20written/A%20Report%20on%20Nuclear%20Physics)
+- [A Philosophy Argument](pages/I've%20written/Philosophy%20“Draft”%203)
+	- [PDF Version](pages/I've%20written/Philosophy%20“Draft”%203.pdf)
 
 ## I’ve made…
 
-- [Biology Flashcards](pages/5%20Project%20Notes/Biology%20Flashcards)
+- [Biology Flashcards](pages/I've%20written/Biology%20Flashcards)
 - [An Obsidian Snippet (Download)](assets/font.css)
 
 ## I’ve learnt…
 
-- [Problems with Zettelkasten](pages/7%20Unclassified/Problems%20with%20Zettelkasten)
-- [Preparing](pages/Preparations.md)
+- [Problems with Zettelkasten](pages/I've%20learnt/Problems%20with%20Zettelkasten)
+- [Preparing](pages/Preparations)
