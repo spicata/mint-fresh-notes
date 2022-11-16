@@ -28,6 +28,7 @@ Hello! I am someone who makes notes and other resources.
 ## I’ve made…
 
 - [Biology Flashcards](pages/5%20Project%20Notes/Biology%20Flashcards)
+- [An Obsidian Snippet (Download)](assets/font.css)
 
 ## I’ve learnt…
 
