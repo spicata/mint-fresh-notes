@@ -8,3 +8,7 @@ Schopenhauer believed that pain is the eternal constant, the foundation of the w
 Nietzsche though Schopenhauer was a bozo. Life is suffering, but Nietzsche believed we should simply deal with it. With pain arises pleasure.
 
 e.g. Live in a padding room your whole life, or get out there and strive through suffering.
+
+---
+
+Joshua Foa Dienstag. (2021, April 30). _Schopenhauer vs Nietzsche: The meaning of suffering_. IAI TV - Changing How the World Thinks. [https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801](https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801)

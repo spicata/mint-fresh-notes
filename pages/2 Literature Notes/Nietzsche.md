@@ -1,9 +1,7 @@
 ---
 layout: page
-tags: Literature, Happiness
+tags: Literature Happiness Suffering 
 ---
-
-# Nietzsche
 
 - Pain + overcoming = Happiness
 	- No pain, no gain
