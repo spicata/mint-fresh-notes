@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Literature Happiness Suffering 
+tags: Literature Happiness Pain 
 ---
 
 - Pain + overcoming = Happiness
