@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Project Notes
+tags: 
 ---
 
 - Create monthly reports ([Reporting](I%20thought/Reporting))

@@ -33,4 +33,4 @@ Hello! I am someone who makes notes and other resources.
 ## I’ve learnt…
 
 - [Problems with Zettelkasten](pages/I've%20learnt/Problems%20with%20Zettelkasten)
-- [Preparing](pages/Preparations)
+- [Preparing](Preparations.md)

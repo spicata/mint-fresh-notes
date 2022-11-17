@@ -3,7 +3,7 @@ layout: page
 tags: Pain Happiness 
 ---
 
-We are put through suffering and pain ([[Schopenhauer & Nietzsche]]); we are built to feel pain. As long as we stand, we should fight. Only once we overcome our hardships will we be happy; without pain, what is there to be happy about? Grow your failures, and try again next time.
+We are put through suffering and pain ([[Schopenhauer & Nietzsche](Schopenhauer%20&%20Nietzsche.md)); we are built to feel pain. As long as we stand, we should fight. Only once we overcome our hardships will we be happy; without pain, what is there to be happy about? Grow your failures, and try again next time.
 
 ---
 
