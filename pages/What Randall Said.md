@@ -3,4 +3,4 @@ layout: page
 tags: IndigenousPeoples 
 ---
 
-We need (1) the acknowledgement
+We need the acknowledgement of the suffering of Indigenous peoples in the past despite it being painful, as it is then 
