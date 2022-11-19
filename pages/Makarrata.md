@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Argument
+tags: Argument IndigenousPeoples 
 ---
 
-The Uluru statement emphasises the empirical nature of the Western world, the lack of sovereignty and self-determination ([[14 - Maslow's Hierarchy of Needs]]), as well as the need to acknowledge the past ([[Nietzsche Loves Pain]], [[Kanyini]]).
+*Makarrata* is a treaty, a ritual done to right a wrong. The wrongs of the “settlers” of Australia, who invaded and massacred the First Nations people. Who removed the Tjukurrpa of Indigenous Australians

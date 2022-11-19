@@ -3,10 +3,6 @@ layout: page
 tags: IndigenousPeoples Soverign
 ---
 
-# Uluru Statement from the Heart
-
-## Dr Dre
-
 - “... the first sovereign Nations ...” —> Liberty, rights, self-determination
 - “… sovereignty is a **spiritual notion** …” —> [[Kanyini]]
 - “… and co-exists with the sovereignty of the Crown.” —> Otherwise would be a call-to-arms
@@ -14,7 +10,7 @@ tags: IndigenousPeoples Soverign
 - "Makarrata is the culmination of our agenda..." --> Makarrata is the truth telling [[Nietzsche Loves Pain]], [[Schopenhauer & Nietzsche]]
 - "... process of agreement-making ..." --> Base of European society: compromise and agreement.
 
-## Solo
+---
 
 - "... science more than 60,000 years ago." --> Shows the importance of emperical data
 - "... own laws and customs." --> Aboriginal customary law
@@ -22,4 +18,4 @@ tags: IndigenousPeoples Soverign
 - "... we are the most incarcerated people on the planet." --> Again, the importance of empirical data
 - "... plainly the structural nature of our problem." --> Aboriginal are stuck as they don't understand the system
 - "... walk in two worlds and ..." --> shows the idea of interconnecting the cultures
-- ""
+- "… truth-telling about our history …"
