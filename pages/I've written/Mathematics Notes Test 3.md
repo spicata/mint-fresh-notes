@@ -1,4 +1,3 @@
-# Mathematics Notes Test 3 #Project
 **Period** is the length of a “wave”. A period is measured as the distance from one peak to the next. **Amplitude** is size “waved”. Amplitude is the distance from the average a wave goes, and it is *always positive*. **Frequency** is amount “waved”. Frequency is calculated by dividing the period by $2\pi$ ($\frac{2\pi}{\text{Period}}$).
 ## Sine
 $y=\sin x$ has a(n): **period** of $2\pi$; **amplitude** of $1$; **frequency** of 1. $y=\sin x$ is **odd** ($\sin -x=-\sin x$, but $\sin -x\neq \sin x$)
@@ -28,11 +27,11 @@ $\tan x$ | $0$ | $\frac{1}{\sqrt{ 3 }}$ | $1$ | $\sqrt{ 3 }$ | N/A
 ## Notation
 $P(x)$ means probability that event $x$ will occur. $P(x')$ means probability that event $x$ will not occur. (**NOT**)
 
-<img src="https://mint-garden.netlify.app/assets/A-prime.png" style="max-width:100%;height:auto">
+[[A-prime.png]]
 
 $P(A\cap B)$ means $A$ i**n**tersection $B$, meaning that the probability that $A$ and $B$ occur. (**AND**)
 
-<img src="https://mint-garden.netlify.app/assets/A-cap-B.png" style="max-width:100%;height:auto">
+[[A-cap-B.png]]
 
 $P(A\cup B)$ means $A$ **u**nion $B$, meaning that the probability that $A$ or $B$ occur. (**OR**)
 

@@ -1,0 +1,1236 @@
+[{:block/name "../../i've%20written/statement%20of%20intent.docx",
+  :block/created-at 1668845800463,
+  :block/updated-at 1668845800463}
+ {:block/name "../1%20fleeting%20notes/2022-09-19",
+  :block/created-at 1668845801398,
+  :block/updated-at 1668845801398}
+ {:block/name "../1%20fleeting%20notes/2022-10-27",
+  :block/created-at 1668845801675,
+  :block/updated-at 1668845801675}
+ {:block/name
+  "../1%20fleeting%20notes/de%20broglie%20wave%20hypothesis%20and%20more",
+  :block/created-at 1668845801399,
+  :block/updated-at 1668845801399}
+ {:block/name "../2%20literature%20notes/thorium",
+  :block/created-at 1668845800795,
+  :block/updated-at 1668845800795}
+ {:block/name
+  "../3%20permanent%20notes/1%20-%20indigenous%20philosophies",
+  :block/created-at 1668845798639,
+  :block/updated-at 1668845798639}
+ {:block/name "../3%20permanent%20notes/10%20-%20expressionism",
+  :block/created-at 1668845798992,
+  :block/updated-at 1668845798992}
+ {:block/name "../3%20permanent%20notes/11%20-%20raster",
+  :block/created-at 1668845799467,
+  :block/updated-at 1668845799467}
+ {:block/name "../3%20permanent%20notes/11,a%20-%20vector",
+  :block/created-at 1668845799673,
+  :block/updated-at 1668845799673}
+ {:block/name "../3%20permanent%20notes/12%20-%20sexual%20health",
+  :block/created-at 1668845799549,
+  :block/updated-at 1668845799549}
+ {:block/name "../3%20permanent%20notes/12,a%20-%20hiv%20and%20aids",
+  :block/created-at 1668845799116,
+  :block/updated-at 1668845799116}
+ {:block/name "../3%20permanent%20notes/12,a,a%20-%20hiv%20structure",
+  :block/created-at 1668845799078,
+  :block/updated-at 1668845799078}
+ {:block/name "../3%20permanent%20notes/12,a,a,a%20-%20hiv%20enzymes",
+  :block/created-at 1668845799048,
+  :block/updated-at 1668845799048}
+ {:block/name
+  "../3%20permanent%20notes/12,a,b%20-%20hiv%20spike%20glycoproteins",
+  :block/created-at 1668845799064,
+  :block/updated-at 1668845799064}
+ {:block/name
+  "../3%20permanent%20notes/12,b%20-%20hiv%20support%20groups",
+  :block/created-at 1668845799094,
+  :block/updated-at 1668845799094}
+ {:block/name
+  "../3%20permanent%20notes/12,c%20-%20talking%20about%20hiv",
+  :block/created-at 1668845799578,
+  :block/updated-at 1668845799578}
+ {:block/name
+  "../3%20permanent%20notes/12a2a%20-%20the%20immune%20effects%20of%20hiv",
+  :block/created-at 1668845799635,
+  :block/updated-at 1668845799635}
+ {:block/name
+  "../3%20permanent%20notes/12a3a%20-%20at%20risk%20for%20hiv",
+  :block/created-at 1668845798806,
+  :block/updated-at 1668845798806}
+ {:block/name "../3%20permanent%20notes/13%20-%20kantian",
+  :block/created-at 1668845799206,
+  :block/updated-at 1668845799206}
+ {:block/name
+  "../3%20permanent%20notes/13a%20-%20categorical%20imperative",
+  :block/created-at 1668845798875,
+  :block/updated-at 1668845798875}
+ {:block/name
+  "../3%20permanent%20notes/13a1a%20-%20categorical%20imperative",
+  :block/created-at 1668845798951,
+  :block/updated-at 1668845798951}
+ {:block/name
+  "../3%20permanent%20notes/13b%20-%20goodwill%20and%20duty",
+  :block/created-at 1668845799035,
+  :block/updated-at 1668845799035}
+ {:block/name
+  "../3%20permanent%20notes/14%20-%20maslow's%20hierarchy%20of%20needs",
+  :block/created-at 1668845799294,
+  :block/updated-at 1668845799294}
+ {:block/name "../3%20permanent%20notes/15%20-%20virtue%20ethics",
+  :block/created-at 1668845799687,
+  :block/updated-at 1668845799687}
+ {:block/name
+  "../3%20permanent%20notes/2%20-%20aboriginal%20worldview,%20land%20(p)",
+  :block/created-at 1668845798728,
+  :block/updated-at 1668845798728}
+ {:block/name
+  "../3%20permanent%20notes/3,c%20-%20teaching%20and%20aboriginal",
+  :block/created-at 1668845799598,
+  :block/updated-at 1668845799598}
+ {:block/name "../3%20permanent%20notes/4%20-%20alpha%20decay",
+  :block/created-at 1668845798783,
+  :block/updated-at 1668845798783}
+ {:block/name "../3%20permanent%20notes/4,2a%20-%20beta%20decay%20(p)",
+  :block/created-at 1668845798835,
+  :block/updated-at 1668845798835}
+ {:block/name "../3%20permanent%20notes/4,2a,2a%20-%20gamma%20decay",
+  :block/created-at 1668845799021,
+  :block/updated-at 1668845799021}
+ {:block/name "../3%20permanent%20notes/4,2a,2b%20-%20excited%20atoms",
+  :block/created-at 1668845798978,
+  :block/updated-at 1668845798978}
+ {:block/name
+  "../3%20permanent%20notes/4,2a,a%20-%20beta%20or%20alpha%20decay",
+  :block/created-at 1668845799700,
+  :block/updated-at 1668845799700}
+ {:block/name
+  "../3%20permanent%20notes/4,4a%20-%20after%20decay%20(p)",
+  :block/created-at 1668845798770,
+  :block/updated-at 1668845798770}
+ {:block/name
+  "../3%20permanent%20notes/4,5a%20-%20the%20helium%20nucleus",
+  :block/created-at 1668845799621,
+  :block/updated-at 1668845799621}
+ {:block/name
+  "../3%20permanent%20notes/4,5b%20-%20binding%20energy%20and%20mass%20defect",
+  :block/created-at 1668845799325,
+  :block/updated-at 1668845799325}
+ {:block/name "../3%20permanent%20notes/4,5b,2a%20-%20fission",
+  :block/created-at 1668845799007,
+  :block/updated-at 1668845799007}
+ {:block/name "../3%20permanent%20notes/4,5b,a%20-%20iron%20stability",
+  :block/created-at 1668845799192,
+  :block/updated-at 1668845799192}
+ {:block/name
+  "../3%20permanent%20notes/4,5c%20-%20magic%20numbers%20&%20helium%20stability",
+  :block/created-at 1668845799249,
+  :block/updated-at 1668845799249}
+ {:block/name
+  "../3%20permanent%20notes/4,6a%20-%20harms%20of%20ionising%20radiation",
+  :block/created-at 1668845799134,
+  :block/updated-at 1668845799134}
+ {:block/name
+  "../3%20permanent%20notes/4,b%20-%20strong%20nuclear%20force",
+  :block/created-at 1668845799565,
+  :block/updated-at 1668845799565}
+ {:block/name
+  "../3%20permanent%20notes/4,b,a%20-%20neutron's%20instability",
+  :block/created-at 1668845799348,
+  :block/updated-at 1668845799348}
+ {:block/name "../3%20permanent%20notes/4,c%20-%20pions",
+  :block/created-at 1668845799428,
+  :block/updated-at 1668845799428}
+ {:block/name "../3%20permanent%20notes/5%20-%20marxism%20(p)",
+  :block/created-at 1668845799261,
+  :block/updated-at 1668845799261}
+ {:block/name
+  "../3%20permanent%20notes/5,a%20-%20marxism%20and%20metamorphosis",
+  :block/created-at 1668845799280,
+  :block/updated-at 1668845799280}
+ {:block/name "../3%20permanent%20notes/6%20-%20marxism%20(p)",
+  :block/created-at 1668845799270,
+  :block/updated-at 1668845799270}
+ {:block/name
+  "../3%20permanent%20notes/7%20-%20independent%20events%20(p)",
+  :block/created-at 1668845799170,
+  :block/updated-at 1668845799170}
+ {:block/name
+  "../3%20permanent%20notes/8%20-%20how%20a%20nuclear%20reactor%20works",
+  :block/created-at 1668845799381,
+  :block/updated-at 1668845799381}
+ {:block/name
+  "../3%20permanent%20notes/8,a,a%20-%20nuclear%20recycling",
+  :block/created-at 1668845799393,
+  :block/updated-at 1668845799393}
+ {:block/name
+  "../3%20permanent%20notes/8,a,b%20-%20breeder%20reactors",
+  :block/created-at 1668845798850,
+  :block/updated-at 1668845798850}
+ {:block/name "../3%20permanent%20notes/8,a,c-thorium",
+  :block/created-at 1668845799649,
+  :block/updated-at 1668845799649}
+ {:block/name "../3%20permanent%20notes/8,c-repositories",
+  :block/created-at 1668845799479,
+  :block/updated-at 1668845799479}
+ {:block/name "../3%20permanent%20notes/9%20-%20pathogens",
+  :block/created-at 1668845799416,
+  :block/updated-at 1668845799416}
+ {:block/name
+  "../3%20permanent%20notes/9,a%20-%20eukaryotic,%20prokaryotic",
+  :block/created-at 1668845799453,
+  :block/updated-at 1668845799453}
+ {:block/name "../4%20citation%20notes/at%20risk%20for%20hiv",
+  :block/created-at 1668845798807,
+  :block/updated-at 1668845798807}
+ {:block/name "../4%20citation%20notes/expressionism",
+  :block/created-at 1668845798992,
+  :block/updated-at 1668845798992}
+ {:block/name "../4%20citation%20notes/fission",
+  :block/created-at 1668845799007,
+  :block/updated-at 1668845799007}
+ {:block/name "../4%20citation%20notes/hiv%20and%20aids",
+  :block/created-at 1668845799116,
+  :block/updated-at 1668845799116}
+ {:block/name "../4%20citation%20notes/hiv%20enzymes",
+  :block/created-at 1668845799048,
+  :block/updated-at 1668845799048}
+ {:block/name "../4%20citation%20notes/hiv%20spike%20glycoproteins",
+  :block/created-at 1668845799064,
+  :block/updated-at 1668845799064}
+ {:block/name "../4%20citation%20notes/hiv%20structure",
+  :block/created-at 1668845799078,
+  :block/updated-at 1668845799078}
+ {:block/name "../4%20citation%20notes/kant%20citations",
+  :block/created-at 1668845799206,
+  :block/updated-at 1668845799206}
+ {:block/name
+  "../4%20citation%20notes/maslow's%20hierarchy%20of%20needs%20citations",
+  :block/created-at 1668845799294,
+  :block/updated-at 1668845799294}
+ {:block/name "../4%20citation%20notes/raster",
+  :block/created-at 1668845799467,
+  :block/updated-at 1668845799467}
+ {:block/name "../4%20citation%20notes/sexual%20health",
+  :block/created-at 1668845799549,
+  :block/updated-at 1668845799549}
+ {:block/name "../4%20citation%20notes/talking%20about%20hiv",
+  :block/created-at 1668845799579,
+  :block/updated-at 1668845799579}
+ {:block/name
+  "../4%20citation%20notes/the%20immune%20effects%20of%20hiv",
+  :block/created-at 1668845799637,
+  :block/updated-at 1668845799637}
+ {:block/name "../4%20citation%20notes/vector",
+  :block/created-at 1668845799674,
+  :block/updated-at 1668845799674}
+ {:block/name "../i%20know/2%20literature%20notes/alpha%20decay%20(l)",
+  :block/created-at 1668845801400,
+  :block/updated-at 1668845801400}
+ {:block/name "../i%20know/2%20literature%20notes/epicurus%20(l)",
+  :block/created-at 1668845801672,
+  :block/updated-at 1668845801672}
+ {:block/name "../i%20know/2%20literature%20notes/kanyini",
+  :block/created-at 1668845801673,
+  :block/updated-at 1668845801673}
+ {:block/name
+  "../i%20know/2%20literature%20notes/maslow's%20hierarchy",
+  :block/created-at 1668845801673,
+  :block/updated-at 1668845801673}
+ {:block/name
+  "../i%20know/2%20literature%20notes/maslow's%20hierarchy%20of%20needs%202",
+  :block/created-at 1668845801673,
+  :block/updated-at 1668845801673}
+ {:block/name "../i%20know/2%20literature%20notes/sartre",
+  :block/created-at 1668845801672,
+  :block/updated-at 1668845801672}
+ {:block/name "../i%20know/3%20permanent%20notes/13%20-%20kantian",
+  :block/created-at 1668845801671,
+  :block/updated-at 1668845801671}
+ {:block/name
+  "../i%20know/3%20permanent%20notes/14%20-%20maslow's%20hierarchy%20of%20needs",
+  :block/created-at 1668845801672,
+  :block/updated-at 1668845801672}
+ {:block/name
+  "../i%20know/3%20permanent%20notes/15%20-%20virtue%20ethics",
+  :block/created-at 1668845801671,
+  :block/updated-at 1668845801671}
+ {:block/name
+  "../i%20know/3%20permanent%20notes/4,5a%20-%20the%20helium%20nucleus",
+  :block/created-at 1668845801401,
+  :block/updated-at 1668845801401}
+ {:block/name "../philosophy%20skeleton",
+  :block/created-at 1668845801675,
+  :block/updated-at 1668845801675}
+ {:block/name "1 - indigenous philosophies",
+  :block/created-at 1668845799712,
+  :block/updated-at 1668845799712}
+ {:block/name "1 - indigenous philosophies (l)",
+  :block/created-at 1668845798640,
+  :block/updated-at 1668845798640}
+ {:block/name "1%20-%20indigenous%20philosophies",
+  :block/created-at 1668845800421,
+  :block/updated-at 1668845800421}
+ {:block/name "10 - expressionism",
+  :block/created-at 1668845799723,
+  :block/updated-at 1668845799723}
+ {:block/name "10tcs",
+  :block/created-at 1668845798711,
+  :block/updated-at 1668845798711}
+ {:block/name "10tcs - cpu",
+  :block/created-at 1668845798656,
+  :block/updated-at 1668845798656}
+ {:block/name "10tcs - hardware",
+  :block/created-at 1668845798684,
+  :block/updated-at 1668845798684}
+ {:block/name "10tcs - software",
+  :block/created-at 1668845798703,
+  :block/updated-at 1668845798703}
+ {:block/name "10tcs%20-%20hardware",
+  :block/created-at 1668845798700,
+  :block/updated-at 1668845798700}
+ {:block/name "10tcs%20-%20software",
+  :block/created-at 1668845798679,
+  :block/updated-at 1668845798679}
+ {:block/name "11 - raster",
+  :block/created-at 1668845799740,
+  :block/updated-at 1668845799740}
+ {:block/name "11,a - vector",
+  :block/created-at 1668845799754,
+  :block/updated-at 1668845799754}
+ {:block/name "11,a%20-%20vector",
+  :block/created-at 1668845799738,
+  :block/updated-at 1668845799738}
+ {:block/name "12 - sexual health",
+  :block/created-at 1668845799765,
+  :block/updated-at 1668845799765}
+ {:block/name "12,a - hiv and aids",
+  :block/created-at 1668845799786,
+  :block/updated-at 1668845799786}
+ {:block/name "12,a%20-%20hiv%20and%20aids",
+  :block/created-at 1668845799763,
+  :block/updated-at 1668845799763}
+ {:block/name "12,a%20-%20hiv%20and%20aids.md#how%20hiv%20works",
+  :block/created-at 1668845799806,
+  :block/updated-at 1668845799806}
+ {:block/name "12,a%20-%20hiv%20and%20aids.md#symptoms",
+  :block/created-at 1668845799806,
+  :block/updated-at 1668845799806}
+ {:block/name "12,a%20-%20hiv%20and%20aids.md#treatment",
+  :block/created-at 1668845799806,
+  :block/updated-at 1668845799806}
+ {:block/name "12,a,a - hiv structure",
+  :block/created-at 1668845799797,
+  :block/updated-at 1668845799797}
+ {:block/name "12,a,a%20-%20hiv%20structure",
+  :block/created-at 1668845799785,
+  :block/updated-at 1668845799785}
+ {:block/name "12,a,a,a - hiv enzymes",
+  :block/created-at 1668845799808,
+  :block/updated-at 1668845799808}
+ {:block/name "12,a,a,a%20-%20hiv%20enzymes",
+  :block/created-at 1668845799816,
+  :block/updated-at 1668845799816}
+ {:block/name "12,a,b - hiv spike glycoproteins",
+  :block/created-at 1668845799819,
+  :block/updated-at 1668845799819}
+ {:block/name "12,a,b%20-%20hiv%20spike%20glycoproteins",
+  :block/created-at 1668845799795,
+  :block/updated-at 1668845799795}
+ {:block/name "12,b - hiv support groups",
+  :block/created-at 1668845799828,
+  :block/updated-at 1668845799828}
+ {:block/name "12,b%20-%20hiv%20support%20groups",
+  :block/created-at 1668845799785,
+  :block/updated-at 1668845799785}
+ {:block/name "12,c - talking about hiv",
+  :block/created-at 1668845799839,
+  :block/updated-at 1668845799839}
+ {:block/name "12,c%20-%20talking%20about%20hiv",
+  :block/created-at 1668845799826,
+  :block/updated-at 1668845799826}
+ {:block/name "12a2a - the immune effects of hiv",
+  :block/created-at 1668845799850,
+  :block/updated-at 1668845799850}
+ {:block/name "12a2a%20-%20the%20immune%20effects%20of%20hiv",
+  :block/created-at 1668845799817,
+  :block/updated-at 1668845799817}
+ {:block/name "12a3a - at risk for hiv",
+  :block/created-at 1668845799858,
+  :block/updated-at 1668845799858}
+ {:block/name "12a3a%20-%20at%20risk%20for%20hiv",
+  :block/created-at 1668845799783,
+  :block/updated-at 1668845799783}
+ {:block/name "13 - kantian",
+  :block/created-at 1668845800292,
+  :block/updated-at 1668845800292}
+ {:block/name "13a - categorical imperative",
+  :block/created-at 1668845800305,
+  :block/updated-at 1668845800305}
+ {:block/name "13a%20-%20categorical%20imperative",
+  :block/created-at 1668845800347,
+  :block/updated-at 1668845800347}
+ {:block/name "13a1a - categorical imperative",
+  :block/created-at 1668845800328,
+  :block/updated-at 1668845800328}
+ {:block/name "13a1a%20-%20categorical%20imperative",
+  :block/created-at 1668845800336,
+  :block/updated-at 1668845800336}
+ {:block/name "13a1b - ends",
+  :block/created-at 1668845800339,
+  :block/updated-at 1668845800339}
+ {:block/name "13a1b%20-%20ends",
+  :block/created-at 1668845800369,
+  :block/updated-at 1668845800369}
+ {:block/name "13b - goodwill and duty",
+  :block/created-at 1668845800349,
+  :block/updated-at 1668845800349}
+ {:block/name "13b%20-%20goodwill%20and%20duty",
+  :block/created-at 1668845800303,
+  :block/updated-at 1668845800303}
+ {:block/name "13c - goodwill in dreamtime stories",
+  :block/created-at 1668845800361,
+  :block/updated-at 1668845800361}
+ {:block/name "13c%20-%20goodwill%20in%20dreamtime%20stories",
+  :block/created-at 1668845800347,
+  :block/updated-at 1668845800347}
+ {:block/name "14 - maslow's hierarchy of needs",
+  :block/created-at 1668845800372,
+  :block/updated-at 1668845800372}
+ {:block/name "15 - virtue ethics",
+  :block/created-at 1668845800380,
+  :block/updated-at 1668845800380}
+ {:block/name "16 - horizontal gene transfer",
+  :block/created-at 1668845800392,
+  :block/updated-at 1668845800392}
+ {:block/name "17 - first line of defence",
+  :block/created-at 1668845800402,
+  :block/updated-at 1668845800402}
+ {:block/name "17a - physical barriers",
+  :block/created-at 1668845800409,
+  :block/updated-at 1668845800409}
+ {:block/name "17a%20-%20physical%20barriers",
+  :block/created-at 1668845800399,
+  :block/updated-at 1668845800399}
+ {:block/name "2 - aboriginal worldview, land (p)",
+  :block/created-at 1668845800422,
+  :block/updated-at 1668845800422}
+ {:block/name "2%20-%20aboriginal%20worldview,%20land%20(p)",
+  :block/created-at 1668845799711,
+  :block/updated-at 1668845799711}
+ {:block/name "3 - aboriginal worldview, society (p)",
+  :block/created-at 1668845800443,
+  :block/updated-at 1668845800443}
+ {:block/name "3%20-%20aboriginal%20worldview,%20society%20(p)",
+  :block/created-at 1668845800421,
+  :block/updated-at 1668845800421}
+ {:block/name "3,a - the law",
+  :block/created-at 1668845800446,
+  :block/updated-at 1668845800446}
+ {:block/name "3,a%20-%20the%20law",
+  :block/created-at 1668845800454,
+  :block/updated-at 1668845800454}
+ {:block/name "3,b - western laws",
+  :block/created-at 1668845800455,
+  :block/updated-at 1668845800455}
+ {:block/name "3,b%20-%20western%20laws",
+  :block/created-at 1668845800463,
+  :block/updated-at 1668845800463}
+ {:block/name "3,c - teaching and aboriginal",
+  :block/created-at 1668845800464,
+  :block/updated-at 1668845800464}
+ {:block/name "3,c%20-%20teaching%20and%20aboriginal",
+  :block/created-at 1668845800453,
+  :block/updated-at 1668845800453}
+ {:block/name "4 - alpha decay",
+  :block/created-at 1668845800481,
+  :block/updated-at 1668845800481}
+ {:block/name "4%20-%20alpha%20decay",
+  :block/created-at 1668845800658,
+  :block/updated-at 1668845800658}
+ {:block/name "4,2a - beta decay (p)",
+  :block/created-at 1668845800496,
+  :block/updated-at 1668845800496}
+ {:block/name "4,2a%20-%20beta%20decay%20(p)",
+  :block/created-at 1668845800680,
+  :block/updated-at 1668845800680}
+ {:block/name "4,2a,2a - gamma decay",
+  :block/created-at 1668845800509,
+  :block/updated-at 1668845800509}
+ {:block/name "4,2a,2a%20-%20gamma%20decay",
+  :block/created-at 1668845800519,
+  :block/updated-at 1668845800519}
+ {:block/name "4,2a,2b - excited atoms",
+  :block/created-at 1668845800522,
+  :block/updated-at 1668845800522}
+ {:block/name "4,2a,2b%20-%20excited%20atoms",
+  :block/created-at 1668845800507,
+  :block/updated-at 1668845800507}
+ {:block/name "4,2a,a - beta or alpha decay",
+  :block/created-at 1668845800537,
+  :block/updated-at 1668845800537}
+ {:block/name "4,2a,a%20-%20beta%20or%20alpha%20decay",
+  :block/created-at 1668845800494,
+  :block/updated-at 1668845800494}
+ {:block/name "4,2b - beta decay unlimited (p)",
+  :block/created-at 1668845800549,
+  :block/updated-at 1668845800549}
+ {:block/name "4,2b%20-%20beta%20decay%20unlimited%20(p)",
+  :block/created-at 1668845800493,
+  :block/updated-at 1668845800493}
+ {:block/name "4,3a - why larger particles are less penetrative (p)",
+  :block/created-at 1668845800561,
+  :block/updated-at 1668845800561}
+ {:block/name
+  "4,3a%20-%20why%20larger%20particles%20are%20less%20penetrative%20(p)",
+  :block/created-at 1668845800568,
+  :block/updated-at 1668845800568}
+ {:block/name
+  "4,3b - why more ionising particles are less penetrative",
+  :block/created-at 1668845800570,
+  :block/updated-at 1668845800570}
+ {:block/name
+  "4,3b%20-%20why%20more%20ionising%20particles%20are%20less%20penetrative",
+  :block/created-at 1668845800559,
+  :block/updated-at 1668845800559}
+ {:block/name "4,4a - after decay (p)",
+  :block/created-at 1668845800578,
+  :block/updated-at 1668845800578}
+ {:block/name "4,4a%20-%20after%20decay%20(p)",
+  :block/created-at 1668845800479,
+  :block/updated-at 1668845800479}
+ {:block/name "4,5a - the helium nucleus",
+  :block/created-at 1668845800594,
+  :block/updated-at 1668845800594}
+ {:block/name "4,5a%20-%20the%20helium%20nucleus",
+  :block/created-at 1668845800659,
+  :block/updated-at 1668845800659}
+ {:block/name "4,5b - binding energy and mass defect",
+  :block/created-at 1668845800605,
+  :block/updated-at 1668845800605}
+ {:block/name "4,5b%20-%20binding%20energy%20and%20mass%20defect",
+  :block/created-at 1668845800635,
+  :block/updated-at 1668845800635}
+ {:block/name "4,5b,2a - fission",
+  :block/created-at 1668845800614,
+  :block/updated-at 1668845800614}
+ {:block/name "4,5b,2a%20-%20fission",
+  :block/created-at 1668845800603,
+  :block/updated-at 1668845800603}
+ {:block/name "4,5b,a - iron stability",
+  :block/created-at 1668845800626,
+  :block/updated-at 1668845800626}
+ {:block/name "4,5b,a%20-%20iron%20stability",
+  :block/created-at 1668845800635,
+  :block/updated-at 1668845800635}
+ {:block/name "4,5c - magic numbers & helium stability",
+  :block/created-at 1668845800637,
+  :block/updated-at 1668845800637}
+ {:block/name "4,5c%20-%20magic%20numbers%20&%20helium%20stability",
+  :block/created-at 1668845800681,
+  :block/updated-at 1668845800681}
+ {:block/name "4,6a - harms of ionising radiation",
+  :block/created-at 1668845800649,
+  :block/updated-at 1668845800649}
+ {:block/name "4,6a%20-%20harms%20of%20ionising%20radiation",
+  :block/created-at 1668845800477,
+  :block/updated-at 1668845800477}
+ {:block/name "4,a - why does it release alpha particles",
+  :block/created-at 1668845800661,
+  :block/updated-at 1668845800661}
+ {:block/name
+  "4,a%20-%20why%20does%20it%20release%20alpha%20particles",
+  :block/created-at 1668845800670,
+  :block/updated-at 1668845800670}
+ {:block/name "4,b - strong nuclear force",
+  :block/created-at 1668845800672,
+  :block/updated-at 1668845800672}
+ {:block/name "4,b%20-%20strong%20nuclear%20force",
+  :block/created-at 1668845800659,
+  :block/updated-at 1668845800659}
+ {:block/name "4,b,a - neutron's instability",
+  :block/created-at 1668845800683,
+  :block/updated-at 1668845800683}
+ {:block/name "4,b,a%20-%20neutron's%20instability",
+  :block/created-at 1668845800670,
+  :block/updated-at 1668845800670}
+ {:block/name "4,c - pions",
+  :block/created-at 1668845800694,
+  :block/updated-at 1668845800694}
+ {:block/name "4,c%20-%20pions",
+  :block/created-at 1668845800670,
+  :block/updated-at 1668845800670}
+ {:block/name "5 - marxism (p)",
+  :block/created-at 1668845800703,
+  :block/updated-at 1668845800703}
+ {:block/name "5%20-%20marxism%20(p)",
+  :block/created-at 1668845800720,
+  :block/updated-at 1668845800720}
+ {:block/name "5,a - marxism and metamorphosis",
+  :block/created-at 1668845800711,
+  :block/updated-at 1668845800711}
+ {:block/name "5,a%20-%20marxism%20and%20metamorphosis",
+  :block/created-at 1668845800702,
+  :block/updated-at 1668845800702}
+ {:block/name "5,b - metamorphosis and kafka",
+  :block/created-at 1668845799336,
+  :block/updated-at 1668845799336}
+ {:block/name "5,b%20-%20metamorphosis%20and%20kafka",
+  :block/created-at 1668845800709,
+  :block/updated-at 1668845800709}
+ {:block/name "6 - marxism (p)",
+  :block/created-at 1668845800721,
+  :block/updated-at 1668845800721}
+ {:block/name "6%20-%20marxism%20(p)",
+  :block/created-at 1668845800702,
+  :block/updated-at 1668845800702}
+ {:block/name "7 - independent events (p)",
+  :block/created-at 1668845800728,
+  :block/updated-at 1668845800728}
+ {:block/name "8 - how a nuclear reactor works",
+  :block/created-at 1668845800742,
+  :block/updated-at 1668845800742}
+ {:block/name "8%20-%20how%20a%20nuclear%20reactor%20works",
+  :block/created-at 1668845800750,
+  :block/updated-at 1668845800750}
+ {:block/name "8,a - nuclear waste",
+  :block/created-at 1668845800751,
+  :block/updated-at 1668845800751}
+ {:block/name "8,a%20-%20nuclear%20waste",
+  :block/created-at 1668845800787,
+  :block/updated-at 1668845800787}
+ {:block/name "8,a,a - nuclear recycling",
+  :block/created-at 1668845800758,
+  :block/updated-at 1668845800758}
+ {:block/name "8,a,a%20-%20nuclear%20recycling",
+  :block/created-at 1668845800768,
+  :block/updated-at 1668845800768}
+ {:block/name "8,a,b - breeder reactors",
+  :block/created-at 1668845800769,
+  :block/updated-at 1668845800769}
+ {:block/name "8,a,b%20-%20breeder%20reactors",
+  :block/created-at 1668845800777,
+  :block/updated-at 1668845800777}
+ {:block/name "8,a,c-thorium",
+  :block/created-at 1668845800777,
+  :block/updated-at 1668845800777}
+ {:block/name "8,b-types-of-nuclear-waste-and-storage",
+  :block/created-at 1668845800795,
+  :block/updated-at 1668845800795}
+ {:block/name "8,c-repositories",
+  :block/created-at 1668845800797,
+  :block/updated-at 1668845800797}
+ {:block/name "9 - pathogens",
+  :block/created-at 1668845800852,
+  :block/updated-at 1668845800852}
+ {:block/name "9 [cheat] - comparison table",
+  :block/created-at 1668845800823,
+  :block/updated-at 1668845800823}
+ {:block/name "9%20-%20pathogens",
+  :block/created-at 1668845800821,
+  :block/updated-at 1668845800821}
+ {:block/name "9%20[cheat]%20-%20comparison%20table",
+  :block/created-at 1668845800811,
+  :block/updated-at 1668845800811}
+ {:block/name "9,2a - fungi",
+  :block/created-at 1668845800831,
+  :block/updated-at 1668845800831}
+ {:block/name "9,2a%20-%20fungi",
+  :block/created-at 1668845800810,
+  :block/updated-at 1668845800810}
+ {:block/name "9,3a - bacteria",
+  :block/created-at 1668845800840,
+  :block/updated-at 1668845800840}
+ {:block/name "9,3a%20-%20bacteria",
+  :block/created-at 1668845800810,
+  :block/updated-at 1668845800810}
+ {:block/name "9,a - eukaryotic, prokaryotic",
+  :block/created-at 1668845800854,
+  :block/updated-at 1668845800854}
+ {:block/name "9,a [cheat] - comparison table",
+  :block/created-at 1668845800863,
+  :block/updated-at 1668845800863}
+ {:block/name "9,a%20-%20eukaryotic,%20prokaryotic",
+  :block/created-at 1668845800861,
+  :block/updated-at 1668845800861}
+ {:block/name "9,a%20[cheat]%20-%20comparison%20table",
+  :block/created-at 1668845800852,
+  :block/updated-at 1668845800852}
+ {:block/name "[nuclear physics",
+  :block/created-at 1668845801210,
+  :block/updated-at 1668845801210}
+ {:block/name "a",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "a report on nuclear physics",
+  :block/created-at 1668845801211,
+  :block/updated-at 1668845801211}
+ {:block/name "aboriginal worldview (l)",
+  :block/created-at 1668845798729,
+  :block/updated-at 1668845798729}
+ {:block/name "acute radiation syndrome",
+  :block/created-at 1668845798740,
+  :block/updated-at 1668845798740}
+ {:block/name "adaptive immune system",
+  :block/created-at 1668845798760,
+  :block/updated-at 1668845798760}
+ {:block/name "after decay (l)",
+  :block/created-at 1668845798771,
+  :block/updated-at 1668845798771}
+ {:block/name "alpha decay (l)",
+  :block/created-at 1668845798783,
+  :block/updated-at 1668845798783}
+ {:block/name "antibodies",
+  :block/created-at 1668845798795,
+  :block/updated-at 1668845798795}
+ {:block/name "argument indigenouspeoples",
+  :block/created-at 1668845802162,
+  :block/updated-at 1668845802162}
+ {:block/name "article",
+  :block/created-at 1668845801654,
+  :block/updated-at 1668845801654}
+ {:block/name "at risk for hiv",
+  :block/created-at 1668845798808,
+  :block/updated-at 1668845798808}
+ {:block/name "b",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "bacterial structure",
+  :block/created-at 1668845798820,
+  :block/updated-at 1668845798820}
+ {:block/name "beta decay (l)",
+  :block/created-at 1668845798836,
+  :block/updated-at 1668845798836}
+ {:block/name "biology flashcards",
+  :block/created-at 1668845801225,
+  :block/updated-at 1668845801225}
+ {:block/name "breeder reactors",
+  :block/created-at 1668845798851,
+  :block/updated-at 1668845798851}
+ {:block/name "c",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "canceled",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "cancelled",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "card",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "categorical imperative",
+  :block/created-at 1668845798876,
+  :block/updated-at 1668845798876}
+ {:block/name "categorical imperative 2",
+  :block/created-at 1668845798864,
+  :block/updated-at 1668845798864}
+ {:block/name "cell mediated response",
+  :block/created-at 1668845798891,
+  :block/updated-at 1668845798891}
+ {:block/name "chinese",
+  :block/created-at 1668845801248,
+  :block/updated-at 1668845801248}
+ {:block/name "citation",
+  :block/created-at 1668845801078,
+  :block/updated-at 1668845801078}
+ {:block/name "clumps",
+  :block/created-at 1668845798656,
+  :block/updated-at 1668845798656}
+ {:block/name "composition of blood",
+  :block/created-at 1668845798904,
+  :block/updated-at 1668845798904}
+ {:block/name "contents",
+  :block/created-at 1668845828907,
+  :block/updated-at 1668845828907}
+ {:block/name "covid vaccine",
+  :block/created-at 1668845798919,
+  :block/updated-at 1668845798919}
+ {:block/name "creating photons",
+  :block/created-at 1668845798928,
+  :block/updated-at 1668845798928}
+ {:block/name "csl oral exam",
+  :block/created-at 1668845801249,
+  :block/updated-at 1668845801249}
+ {:block/name "death of a salesman quotes",
+  :block/created-at 1668845801261,
+  :block/updated-at 1668845801261}
+ {:block/name "death of a salesman sample",
+  :block/created-at 1668845801300,
+  :block/updated-at 1668845801300}
+ {:block/name "death of a salesman sample 2",
+  :block/created-at 1668845801288,
+  :block/updated-at 1668845801288}
+ {:block/name "death of a salesman viperbarc",
+  :block/created-at 1668845801276,
+  :block/updated-at 1668845801276}
+ {:block/name "doing",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "done",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "drafts",
+  :block/created-at 1668845801548,
+  :block/updated-at 1668845801548}
+ {:block/name "dreamtime stories",
+  :block/created-at 1668845798940,
+  :block/updated-at 1668845798940}
+ {:block/name "embedding other notes",
+  :block/created-at 1668845798609,
+  :block/updated-at 1668845798609}
+ {:block/name "ends",
+  :block/created-at 1668845798952,
+  :block/updated-at 1668845798952}
+ {:block/name "english",
+  :block/created-at 1668845801299,
+  :block/updated-at 1668845801299}
+ {:block/name "english comprehension 1",
+  :block/created-at 1668845801308,
+  :block/updated-at 1668845801308}
+ {:block/name "epicurus (l)",
+  :block/created-at 1668845798961,
+  :block/updated-at 1668845798961}
+ {:block/name "excited atoms",
+  :block/created-at 1668845798979,
+  :block/updated-at 1668845798979}
+ {:block/name "experiences",
+  :block/created-at 1668845801188,
+  :block/updated-at 1668845801188}
+ {:block/name "expressionism",
+  :block/created-at 1668845798993,
+  :block/updated-at 1668845798993}
+ {:block/name "favorites",
+  :block/created-at 1668845828907,
+  :block/updated-at 1668845828907}
+ {:block/name "fission",
+  :block/created-at 1668845799008,
+  :block/updated-at 1668845799008}
+ {:block/name "fleeting",
+  :block/created-at 1668845802078,
+  :block/updated-at 1668845802078}
+ {:block/name "fleeting meta",
+  :block/created-at 1668845801120,
+  :block/updated-at 1668845801120}
+ {:block/name "formatting",
+  :block/created-at 1668845801121,
+  :block/updated-at 1668845801121}
+ {:block/name "fusion",
+  :block/created-at 1668845800914,
+  :block/updated-at 1668845800914}
+ {:block/name "gamma decay",
+  :block/created-at 1668845799022,
+  :block/updated-at 1668845799022}
+ {:block/name "goodwill and duty",
+  :block/created-at 1668845799036,
+  :block/updated-at 1668845799036}
+ {:block/name "harms of ionising radiation",
+  :block/created-at 1668845799135,
+  :block/updated-at 1668845799135}
+ {:block/name "health promotion",
+  :block/created-at 1668845801322,
+  :block/updated-at 1668845801322}
+ {:block/name "hiv and aids",
+  :block/created-at 1668845799118,
+  :block/updated-at 1668845799118}
+ {:block/name "hiv enzymes",
+  :block/created-at 1668845799049,
+  :block/updated-at 1668845799049}
+ {:block/name "hiv spike glycoproteins",
+  :block/created-at 1668845799065,
+  :block/updated-at 1668845799065}
+ {:block/name "hiv structure",
+  :block/created-at 1668845799080,
+  :block/updated-at 1668845799080}
+ {:block/name "hiv support groups",
+  :block/created-at 1668845799096,
+  :block/updated-at 1668845799096}
+ {:block/name "hiv%20spike%20glycoproteins",
+  :block/created-at 1668845799077,
+  :block/updated-at 1668845799077}
+ {:block/name "how i make notes",
+  :block/created-at 1668845801402,
+  :block/updated-at 1668845801402}
+ {:block/name "how to geometric series",
+  :block/created-at 1668845799143,
+  :block/updated-at 1668845799143}
+ {:block/name "humoral and cell-mediated response",
+  :block/created-at 1668845801413,
+  :block/updated-at 1668845801413}
+ {:block/name "hydrocarbons",
+  :block/created-at 1668845799151,
+  :block/updated-at 1668845799151}
+ {:block/name "immunity",
+  :block/created-at 1668845799159,
+  :block/updated-at 1668845799159}
+ {:block/name "in-progress",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "independent and mutually exclusive (l)",
+  :block/created-at 1668845799170,
+  :block/updated-at 1668845799170}
+ {:block/name "index",
+  :block/created-at 1668845801549,
+  :block/updated-at 1668845801549}
+ {:block/name "indigenouspeoples",
+  :block/created-at 1668845802191,
+  :block/updated-at 1668845802191}
+ {:block/name "indigenouspeoples soverign",
+  :block/created-at 1668845802111,
+  :block/updated-at 1668845802111}
+ {:block/name "innate immune system",
+  :block/created-at 1668845799178,
+  :block/updated-at 1668845799178}
+ {:block/name "iron stability",
+  :block/created-at 1668845799194,
+  :block/updated-at 1668845799194}
+ {:block/name "kant citations",
+  :block/created-at 1668845800982,
+  :block/updated-at 1668845800982}
+ {:block/name "kantian",
+  :block/created-at 1668845799207,
+  :block/updated-at 1668845799207}
+ {:block/name "kanyini",
+  :block/created-at 1668845799225,
+  :block/updated-at 1668845799225}
+ {:block/name "later",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "layout",
+  :block/created-at 1668845799857,
+  :block/updated-at 1668845799857}
+ {:block/name "lesson",
+  :block/created-at 1668845798702,
+  :block/updated-at 1668845798702}
+ {:block/name "licenses",
+  :block/created-at 1668845799235,
+  :block/updated-at 1668845799235}
+ {:block/name "literature",
+  :block/created-at 1668845799700,
+  :block/updated-at 1668845799700}
+ {:block/name "literature happiness pain",
+  :block/created-at 1668845799359,
+  :block/updated-at 1668845799359}
+ {:block/name "literature task 3",
+  :block/created-at 1668845801426,
+  :block/updated-at 1668845801426}
+ {:block/name "magic numbers & helium stability",
+  :block/created-at 1668845799250,
+  :block/updated-at 1668845799250}
+ {:block/name "makarrata",
+  :block/created-at 1668845802163,
+  :block/updated-at 1668845802163}
+ {:block/name "manuscript",
+  :block/created-at 1668845801655,
+  :block/updated-at 1668845801655}
+ {:block/name "marxism (l)",
+  :block/created-at 1668845799262,
+  :block/updated-at 1668845799262}
+ {:block/name "marxism 2 (l)",
+  :block/created-at 1668845799271,
+  :block/updated-at 1668845799271}
+ {:block/name "marxism and metamorphosis (l)",
+  :block/created-at 1668845799280,
+  :block/updated-at 1668845799280}
+ {:block/name "maslow's hierarchy",
+  :block/created-at 1668845799312,
+  :block/updated-at 1668845799312}
+ {:block/name "maslow's hierarchy of needs 2",
+  :block/created-at 1668845799295,
+  :block/updated-at 1668845799295}
+ {:block/name "maslow's hierarchy of needs citations",
+  :block/created-at 1668845800997,
+  :block/updated-at 1668845800997}
+ {:block/name "mass defect & binding energy",
+  :block/created-at 1668845799326,
+  :block/updated-at 1668845799326}
+ {:block/name "mathematics notes test 3 (pr)",
+  :block/created-at 1668845801455,
+  :block/updated-at 1668845801455}
+ {:block/name "metamorphosis & kafka",
+  :block/created-at 1668845799336,
+  :block/updated-at 1668845799336}
+ {:block/name "minecraft artifacts",
+  :block/created-at 1668845801134,
+  :block/updated-at 1668845801134}
+ {:block/name "multimedia exam",
+  :block/created-at 1668845801477,
+  :block/updated-at 1668845801477}
+ {:block/name "multimedia exam 2",
+  :block/created-at 1668845801468,
+  :block/updated-at 1668845801468}
+ {:block/name "multimedia planning",
+  :block/created-at 1668845802043,
+  :block/updated-at 1668845802043}
+ {:block/name "multimedia timeline",
+  :block/created-at 1668845802056,
+  :block/updated-at 1668845802056}
+ {:block/name "neutron's instability",
+  :block/created-at 1668845799349,
+  :block/updated-at 1668845799349}
+ {:block/name "nietzsche",
+  :block/created-at 1668845799360,
+  :block/updated-at 1668845799360}
+ {:block/name "nietzsche loves pain",
+  :block/created-at 1668845801096,
+  :block/updated-at 1668845801096}
+ {:block/name "non-specific immune response",
+  :block/created-at 1668845799368,
+  :block/updated-at 1668845799368}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668845798625,
+  :block/updated-at 1668845798625}
+ {:block/name "nov 19th, 2022",
+  :block/created-at 1668845798501,
+  :block/updated-at 1668845798501}
+ {:block/name "now",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "nuclear decay v1",
+  :block/created-at 1668845801594,
+  :block/updated-at 1668845801594}
+ {:block/name "nuclear decay v1/2",
+  :block/created-at 1668845801594,
+  :block/updated-at 1668845801594}
+ {:block/name "nuclear reactor & waste (l)",
+  :block/created-at 1668845799382,
+  :block/updated-at 1668845799382}
+ {:block/name "nuclear recycling",
+  :block/created-at 1668845799394,
+  :block/updated-at 1668845799394}
+ {:block/name "obsidian",
+  :block/created-at 1668845798608,
+  :block/updated-at 1668845798608}
+ {:block/name "organic chemistry",
+  :block/created-at 1668845799404,
+  :block/updated-at 1668845799404}
+ {:block/name "page-layout",
+  :block/created-at 1668845798592,
+  :block/updated-at 1668845798592}
+ {:block/name "pages",
+  :block/created-at 1668845798570,
+  :block/updated-at 1668845798570}
+ {:block/name "pages/i%20know",
+  :block/created-at 1668845798559,
+  :block/updated-at 1668845798559}
+ {:block/name "pages/i%20know/3%20permanent%20notes",
+  :block/created-at 1668845798560,
+  :block/updated-at 1668845798560}
+ {:block/name
+  "pages/i%20know/3%20permanent%20notes/12,a%20-%20hiv%20and%20aids",
+  :block/created-at 1668845798556,
+  :block/updated-at 1668845798556}
+ {:block/name "pages/i%20know/3%20permanent%20notes/13%20-%20kantian",
+  :block/created-at 1668845798558,
+  :block/updated-at 1668845798558}
+ {:block/name
+  "pages/i%20know/3%20permanent%20notes/4%20-%20alpha%20decay",
+  :block/created-at 1668845798551,
+  :block/updated-at 1668845798551}
+ {:block/name
+  "pages/i%20know/3%20permanent%20notes/8%20-%20how%20a%20nuclear%20reactor%20works",
+  :block/created-at 1668845798554,
+  :block/updated-at 1668845798554}
+ {:block/name "pages/i've%20learnt",
+  :block/created-at 1668845798571,
+  :block/updated-at 1668845798571}
+ {:block/name "pages/i've%20learnt/problems%20with%20zettelkasten",
+  :block/created-at 1668845798570,
+  :block/updated-at 1668845798570}
+ {:block/name "pages/i've%20written",
+  :block/created-at 1668845798569,
+  :block/updated-at 1668845798569}
+ {:block/name
+  "pages/i've%20written/a%20report%20on%20nuclear%20physics",
+  :block/created-at 1668845798563,
+  :block/updated-at 1668845798563}
+ {:block/name "pages/i've%20written/biology%20flashcards",
+  :block/created-at 1668845798568,
+  :block/updated-at 1668845798568}
+ {:block/name "pages/i've%20written/nuclear_decay%20v2.pdf",
+  :block/created-at 1668845798561,
+  :block/updated-at 1668845798561}
+ {:block/name "pages/i've%20written/philosophy%20“draft”%203",
+  :block/created-at 1668845798564,
+  :block/updated-at 1668845798564}
+ {:block/name "pages/i've%20written/philosophy%20“draft”%203.pdf",
+  :block/created-at 1668845798566,
+  :block/updated-at 1668845798566}
+ {:block/name "pain",
+  :block/created-at 1668845801107,
+  :block/updated-at 1668845801107}
+ {:block/name "pain happiness",
+  :block/created-at 1668845801095,
+  :block/updated-at 1668845801095}
+ {:block/name "pasted image 20220527102452.png",
+  :block/created-at 1668845798680,
+  :block/updated-at 1668845798680}
+ {:block/name "pathogen",
+  :block/created-at 1668845799418,
+  :block/updated-at 1668845799418}
+ {:block/name "permanent",
+  :block/created-at 1668845799857,
+  :block/updated-at 1668845799857}
+ {:block/name "philosophy argument",
+  :block/created-at 1668845801677,
+  :block/updated-at 1668845801677}
+ {:block/name "philosophy draft",
+  :block/created-at 1668845798607,
+  :block/updated-at 1668845798607}
+ {:block/name "philosophy draft 2",
+  :block/created-at 1668845801986,
+  :block/updated-at 1668845801986}
+ {:block/name "philosophy “draft” 3",
+  :block/created-at 1668845802030,
+  :block/updated-at 1668845802030}
+ {:block/name "philosophy%20draft",
+  :block/created-at 1668845801675,
+  :block/updated-at 1668845801675}
+ {:block/name "philosophy%20draft%202",
+  :block/created-at 1668845801676,
+  :block/updated-at 1668845801676}
+ {:block/name "philosophy%20“draft”%203",
+  :block/created-at 1668845801676,
+  :block/updated-at 1668845801676}
+ {:block/name "photoshop evaluation",
+  :block/created-at 1668845802067,
+  :block/updated-at 1668845802067}
+ {:block/name "pions",
+  :block/created-at 1668845799430,
+  :block/updated-at 1668845799430}
+ {:block/name "pleasure",
+  :block/created-at 1668845799439,
+  :block/updated-at 1668845799439}
+ {:block/name "preparations",
+  :block/created-at 1668845801145,
+  :block/updated-at 1668845801145}
+ {:block/name "preparing",
+  :block/created-at 1668845798571,
+  :block/updated-at 1668845798571}
+ {:block/name "problems with zettelkasten",
+  :block/created-at 1668845801189,
+  :block/updated-at 1668845801189}
+ {:block/name "project",
+  :block/created-at 1668845801677,
+  :block/updated-at 1668845801677}
+ {:block/name "project notescoalition",
+  :block/created-at 1668845801157,
+  :block/updated-at 1668845801157}
+ {:block/name "prokaryotic and eukaryotic",
+  :block/created-at 1668845799455,
+  :block/updated-at 1668845799455}
+ {:block/name "raster",
+  :block/created-at 1668845799468,
+  :block/updated-at 1668845799468}
+ {:block/name "raster examples",
+  :block/created-at 1668845802079,
+  :block/updated-at 1668845802079}
+ {:block/name "readiness",
+  :block/created-at 1668845801144,
+  :block/updated-at 1668845801144}
+ {:block/name "readme",
+  :block/created-at 1668845798573,
+  :block/updated-at 1668845798573}
+ {:block/name "reporting",
+  :block/created-at 1668845801175,
+  :block/updated-at 1668845801175}
+ {:block/name "reports vs arguments",
+  :block/created-at 1668845801170,
+  :block/updated-at 1668845801170}
+ {:block/name "repositories",
+  :block/created-at 1668845799480,
+  :block/updated-at 1668845799480}
+ {:block/name "resolution and file type",
+  :block/created-at 1668845799489,
+  :block/updated-at 1668845799489}
+ {:block/name "roadmap",
+  :block/created-at 1668845801177,
+  :block/updated-at 1668845801177}
+ {:block/name "sars-cov-2",
+  :block/created-at 1668845799510,
+  :block/updated-at 1668845799510}
+ {:block/name "sars-cov-2 replication cycle",
+  :block/created-at 1668845799500,
+  :block/updated-at 1668845799500}
+ {:block/name "sartre",
+  :block/created-at 1668845799537,
+  :block/updated-at 1668845799537}
+ {:block/name "sartre's purpose",
+  :block/created-at 1668845799523,
+  :block/updated-at 1668845799523}
+ {:block/name "schopenhauer & nietzsche",
+  :block/created-at 1668845801107,
+  :block/updated-at 1668845801107}
+ {:block/name "science]",
+  :block/created-at 1668845801210,
+  :block/updated-at 1668845801210}
+ {:block/name "sexual health",
+  :block/created-at 1668845799550,
+  :block/updated-at 1668845799550}
+ {:block/name "strong force",
+  :block/created-at 1668845799567,
+  :block/updated-at 1668845799567}
+ {:block/name "talking about hiv",
+  :block/created-at 1668845799580,
+  :block/updated-at 1668845799580}
+ {:block/name "teaching and aboriginal (l)",
+  :block/created-at 1668845799599,
+  :block/updated-at 1668845799599}
+ {:block/name "teleology",
+  :block/created-at 1668845799608,
+  :block/updated-at 1668845799608}
+ {:block/name "the helium nucleus",
+  :block/created-at 1668845799621,
+  :block/updated-at 1668845799621}
+ {:block/name "the immune effects of hiv",
+  :block/created-at 1668845799638,
+  :block/updated-at 1668845799638}
+ {:block/name "the topic of death of a salesman",
+  :block/created-at 1668845802095,
+  :block/updated-at 1668845802095}
+ {:block/name "thorium",
+  :block/created-at 1668845799649,
+  :block/updated-at 1668845799649}
+ {:block/name "todo",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "uluru on invasion",
+  :block/created-at 1668845802178,
+  :block/updated-at 1668845802178}
+ {:block/name "uluru statement from the heart",
+  :block/created-at 1668845802112,
+  :block/updated-at 1668845802112}
+ {:block/name "vaccines",
+  :block/created-at 1668845799663,
+  :block/updated-at 1668845799663}
+ {:block/name "vector",
+  :block/created-at 1668845799675,
+  :block/updated-at 1668845799675}
+ {:block/name "version",
+  :block/created-at 1668845801548,
+  :block/updated-at 1668845801548}
+ {:block/name "viperbarc",
+  :block/created-at 1668845801276,
+  :block/updated-at 1668845801276}
+ {:block/name "virtue ethics",
+  :block/created-at 1668845799688,
+  :block/updated-at 1668845799688}
+ {:block/name "wait",
+  :block/created-at 1668845828908,
+  :block/updated-at 1668845828908}
+ {:block/name "waiting",
+  :block/created-at 1668845828907,
+  :block/updated-at 1668845828907}
+ {:block/name "what randall said",
+  :block/created-at 1668845802192,
+  :block/updated-at 1668845802192}
+ {:block/name "what undergoes beta decay or alpha decay",
+  :block/created-at 1668845799701,
+  :block/updated-at 1668845799701}
+ {:block/name "workflow",
+  :block/created-at 1668845801548,
+  :block/updated-at 1668845801548}
+ {:block/name "you would've gotten hacked if you are here",
+  :block/created-at 1668845802153, 
+  :block/updated-at 1668845802153}]
