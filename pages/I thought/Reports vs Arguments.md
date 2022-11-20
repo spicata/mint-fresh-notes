@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Reporting
+tags: Argument NotesCoalition 
 ---
 
 - Reports are factual papers that talk about findings. They can be seen as summaries, although longer.
