@@ -1,5 +1,5 @@
 ---
-tags: Fleeting Meta
+tags: Obsidian
 ---
 
 # Formatting

@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Project 
+tags: Argument 
 ---
 
 # Philosophy Draft 2
