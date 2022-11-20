@@ -1,3 +1,8 @@
+---
+layout: page
+tags: Skill/Writing 
+---
+
 EvyerhtEing coming to c close. My vision is growing dim, the world around mes shricks, slowly, slowly. The darkness creps into the room, consuming the chiars, the tables. The lamp flickers, fihgtign the void, futile. The screams and crying of the past only ring as echoes, muffled, soon there will only be silence. The   silence of the end. Left drifitn in space, nothing left to explore. Nothing to see, nothing to hear. But alive, barely. Conscious of the newly found   silent melody. 
 
 Only me and my thouhgts now. if there only was more time... and less time. Death waits patientyl, teasing me, leaving me to suffer. My thoughts, my only companion - my light in the dark - slowly slips to the hands of time. Soon, it will be just me. Is this how it ends?
