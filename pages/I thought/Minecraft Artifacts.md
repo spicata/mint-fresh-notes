@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: 
+tags: Minecraft 
 ---
 
 # The Vanguard's
