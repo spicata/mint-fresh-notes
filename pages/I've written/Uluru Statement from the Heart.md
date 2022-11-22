@@ -3,6 +3,8 @@ layout: page
 tags: IndigenousPeoples Soverign
 ---
 
+- —
+
 - “... the first sovereign Nations ...” —> Liberty, rights, self-determination
 - “… sovereignty is a **spiritual notion** …” —> [[Kanyini]]
 - “… and co-exists with the sovereignty of the Crown.” —> Otherwise would be a call-to-arms
@@ -12,7 +14,7 @@ tags: IndigenousPeoples Soverign
 
 ---
 
-- "... science more than 60,000 years ago." --> Shows the importance of emperical data
+- "... science more than 60,000 years ago." --> Shows the importance of emperical data ([[Empiricism]])
 - "... own laws and customs." --> Aboriginal customary law
 - "... the ancestral tie between the land ..." --> Kanyini
 - "... we are the most incarcerated people on the planet." --> Again, the importance of empirical data
