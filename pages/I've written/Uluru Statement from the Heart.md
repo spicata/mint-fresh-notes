@@ -3,7 +3,11 @@ layout: page
 tags: IndigenousPeoples Soverign
 ---
 
-- —
+- [[Uluru on Invasion]]
+- [[What Randall Said]]
+- [[Makarrata]]
+
+---
 
 - “... the first sovereign Nations ...” —> Liberty, rights, self-determination
 - “… sovereignty is a **spiritual notion** …” —> [[Kanyini]]
