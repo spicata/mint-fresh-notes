@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Argument Skill/Writing
+tags: Creation Skill/Writing
 ---
 
 # Before Writing
