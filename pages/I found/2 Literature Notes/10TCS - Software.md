@@ -5,7 +5,7 @@ Tags: #lesson
 Tags: [[10TCS.md]]
 
 # 10TCS - Software
-**SE[10TCS - Hardware](10TCS%20-%20Hardware.md)re.md)**
+**SEE [[10TCS - Hardware]]**
 - **Operating System**
 	- **Desktop**
 	- **Server**
