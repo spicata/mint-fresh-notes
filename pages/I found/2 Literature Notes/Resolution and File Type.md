@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Literature 
+tags: Storage
 ---
 
 # Resolution and File Types
