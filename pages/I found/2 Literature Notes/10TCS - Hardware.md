@@ -5,7 +5,7 @@ Tags: #lesson
 Tags: [[10TCS.md]]
 
 # 10TCS - Hardware
-**SEE[10TCS - Software](10TCS%20-%20Software.md)re.md)**
+**SEE [[10TCS - Software]]**
 ## Von Neumann
 - ![[Pasted image 20220527102452.png]]
 - *Two types of* **memory**: **Primary** and **Secondary**
