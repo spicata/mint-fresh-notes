@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Skill/Writing 
+tags: Skill/Writing Introspection 
 ---
 
 I remember the days of biting cold air,  
@@ -20,4 +20,4 @@ As we looked for the end.
 
 I won’t mourn  
 Those days gone by  
-But rejoice.
+But [[Rejoice|rejoice]].
