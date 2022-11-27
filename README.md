@@ -5,6 +5,8 @@ by Mspicata
 
 This website is hosted by GitHub pages and made through Jekyll & [no-styles-please](https://riggraz.dev/no-style-please/). The font used is Garamond.
 
+Sorry for an inconvenience, but links may be broken as I migrate to WikiLinks. Hopefully, Mace (from Mace’s Notes) will be able to fix it soon.
+
 ## I am…
 
 Hello! I am someone who makes notes and other resources.
