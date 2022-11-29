@@ -1,5 +1,6 @@
 ---
 layout: page
-tags: Life 
+tags: Life Irrational
 ---
 
+Loss is more impactful than gain. That is how it is.
