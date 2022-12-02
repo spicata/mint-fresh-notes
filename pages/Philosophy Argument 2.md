@@ -8,4 +8,7 @@ tags:
 > Enlighten me next Thursday
 
 - [[Empiricism]] vs Rationalism
-- Stories = 
+- Stories = important 
+- [[3,c - Teaching and Aboriginal]]
+
+Stories add context to 

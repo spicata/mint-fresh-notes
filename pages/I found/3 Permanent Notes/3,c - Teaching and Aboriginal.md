@@ -9,8 +9,8 @@ To develop a good theory of learning, one must consider the people being taught:
 7. Deconstruct and Reconstruct; and
 8. Community ties.
 
-![Aboriginal Infographic 2](../../../assets/Aboriginal%20Infographic%202.png)
+![[Aboriginal Infographic 2.png]]
 
 [Statement of Intent](../../I've%20written/Statement%20of%20Intent.docx)
 
-« [3,b - Western Laws](3,b%20-%20Western%20Laws.md)md)md)
+« [[3,b - Western Laws]]
