@@ -1,6 +1,10 @@
 ---
 layout: page
-tags: 
+tags: Skill/Writing IndigenousPeoples StudyOfStudy 
 ---
 
-The use of stories allows for the contextualisation of information, rendering stories as a crucial method of passing down and spread of information. Context can benefit the recalling and application of knowledge as it acts as an environment where k
+The use of stories allows for the contextualisation of information, rendering stories as a crucial method of passing down and spread of information. Within *How to Take Smart Notes*, Sönke Ahrens emphasises the importance of context. This is for good reason, as context allows learners to learn better. Context allows learners to think of a subject in terms of other things, adding a form of “tangibility” to the knowledge. It also clarifies the learning process. As information by itself can be interpreted in many ways, contextual clues guides learners down a certain interpretation, which allows for guided and easier learning. Context also adds relevance to the knowledge, as learners can learn in which scenario this information can be applied. A similar sentiment is found within *Aboriginal pedagogies at the cultural interface* by Tyson Yunkapoorta. Yunkapoorta highlights that context and story-telling is also a crucial part of Aboriginal learning as well, shedding light on how context may play a large part in learning in every culture. The method of story-telling brings the information into a larger narrative, allowing students to learn in a more “culturally meaningful way”.
+
+Stories are able to act as a medium where people where personal experiences are passed through. Experiences undoubtedly play a part in learning, and stories can act as a way of sharing experiences. Oral stories are especially useful for sharing these experiences,
+
+Stories are also engaging, which allows learners to become more engrossed and absorbed within the content. Stories, especially oral stories, are an engaging and interactive medium of information transmission. Perhaps this is a reason that stories are such a crucial part within Western, Eastern, and Aboriginal Australian cultures. Aesop’s fables and the countless allegories are prime example. Story-telling can allow learners to empathise with characters and events in the story, and prompts them to shares stories of personal experiences as well. The use of characters also can aid in convey meaningful ideas and lessons for life, such as in *The Story of the Southern Cross*, a widely spread Aboriginal Dreaming story.
