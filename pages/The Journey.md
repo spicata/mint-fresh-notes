@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Skill/Writing Introspection Habits
+tags: Skill/Writing Introspection StudyOfStudy/Habits
 ---
 
 Here we are now, where the sea and sky meet. Diamond stars twinkle high above; point any out, that’s where we’ll set our sights. It’s our future hopes, our coming wishes; but forget it for the moment, and we can just have fun. 

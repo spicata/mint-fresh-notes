@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Habits 
+tags: StudyOfStudy/Habits 
 ---
 
 Cue, craving, action, reward is the breakdown of habits. Firstly, there is something that prompts us to do the habit. Then, we begin to crave the reward, which acts as a motivation to do the action ([[Habits and Loss Aversion]]). The action helps us get the reward (usually satisfying the craving is enough).
