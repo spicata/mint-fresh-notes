@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Readiness
+tags: Preparation
 ---
 
 - Be more prepared
