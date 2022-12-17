@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: 
+tags: StudyOfStudy/Habits 
 ---
 
 We all have our own inclinations and abilities. Some of us want to play sports, or play games, or learn new things. And although habits can help you develop skills that you won’t, it’s incredibly useful to focus on our strengths.
