@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: 
+tags: Skill/Writing/Personal
 ---
 
 New light flowed into new eyes. Everything around came to life for the first time. Flowers bloomed, grass grew, trees stretched their newly grown, wooden arms. The infant sun beamed, climbing from its horizon bed. Splashes of pink and purple, orange and yellow coloured the skies. There was quietude, there was solitude. Everything hung still.
@@ -11,4 +11,4 @@ And from the tree, he could see it all. The magnificent mountains all around, th
 
 They would soon find themselves calling it a day, and going away. The simple house they built would flicker on for a while longer, the crackling of coal embers echoing inside their mines (and minds), as the shadows danced on the wall. Then suddenly… darkness.
 
-Little did they know how large this would grow. And only if they did…
+Little did they know how large this would grow.
