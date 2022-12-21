@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: 
+tags: StudyOfStudy/Habits 
 ---
 
 Over time, even if it is a habit, if you don’t practice it, it stagnates, or even worse, it rots. And thus, we always need to take an opportunity to reflect on what we do. You need to be able to see your past actions with scrutiny, and see where you messed up. But to do that, you need to distance yourself from past you, and to *that*, you need to…

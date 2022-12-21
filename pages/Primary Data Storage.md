@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Storage 
+tags: BeepBoopSpace 
 ---
 
 Primary storage is directly accessed by the CPU. There is RAM[^1], which is volatile, and used to store temporary information. There is ROM[^2] that contains crucial firmware such as BIOS. It is not volatile.

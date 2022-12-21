@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Storage 
+tags: BeepBoopSpace 
 ---
 
 # Photos
