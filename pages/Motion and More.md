@@ -3,7 +3,7 @@ layout: page
 tags: Motion Measures 
 ---
 
-Motion is a change in position over time. It can be measured in vector measurements (velocity and displacement), or in scalar measurements (distance and speed). Also, there is acceleration, which is the rate of change of velocity. It can be slowing down, speeding up, even turning is a change of velocity.
+Motion is a change in position over time. It can be measured in vector measurements (velocity and displacement), or in scalar measurements (distance and speed). Also, there is acceleration, which is the rate of change of velocity. It can be slowing down, speeding up, even turning is a change of velocity (see also, [[Vectors and Scalars]]).
 
 # Some Equations 
 
