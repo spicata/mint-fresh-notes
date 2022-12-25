@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Molecules/Building 
+tags: Molecules/Building Quantum 
 ---
 
 Let’s say you have a cube (1x1x1). Now you double all the sides, so it is 2x2x2. But then the surface area is quadrupled, and the volume is octupled. So volume becomes exponentially bigger (or smaller) than the surface area.
