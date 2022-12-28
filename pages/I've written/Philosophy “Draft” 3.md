@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Argument IndigenousPeoples Moral
+tags: Argument Humanity/IndigenousPeoples Moral
 ---
 
 In this paper, I will argue that Aboriginal society and philosophy as a whole is focused on the virtue of treating nature as an end, as well as the vice of treating them as a means. This is reflected in the Dreaming stories and other pieces of philosophy present in Aboriginal culture. Firstly, I will argue that Aboriginal society treats nature as an end-in-itself; secondly that Dreaming stories highlight the virtue of treating nature as such; and finally I will argue that the Kanyini schema further supports that this belief is held within Aboriginal society.

@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Skill/Writing IndigenousPeoples StudyOfStudy 
+tags: Skill/Writing Humanity/IndigenousPeoples StudyOfStudy 
 ---
 
 Stories downt act as a form of knowledge, but rather a medium of which this knolwedge is spread.

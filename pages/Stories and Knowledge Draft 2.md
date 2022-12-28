@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Skill/Writing IndigenousPeoples StudyOfStudy 
+tags: Skill/Writing Humanity/IndigenousPeoples StudyOfStudy 
 ---
 
 Stories themselves do not act as a form of knowledge, but rather as a medium where knowledge can be spread. To add to that, story-telling is a highly effective way of spreading knowledge. Firstly, story-telling lets learners to contextualise information, allowing them to better apply them. Secondly, stories act as a way where experiences can be shared. Thirdly, stories prompts learners to better engage with the learning.

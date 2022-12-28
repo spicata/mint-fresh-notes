@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: IndigenousPeoples Soverign
+tags: Humanity/IndigenousPeoples Soverign
 ---
 
 - [[Uluru on Invasion]]
