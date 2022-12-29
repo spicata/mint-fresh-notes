@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Agreement
+tags: Humanity/Agreement
 ---
 
 Humans are monkeys that have learnt how do negotiate.[^1] And negotiates are essentially boils down to making agreements. And there are two ways to get around this, to fight for what you want, or to agree to come to an agreement.

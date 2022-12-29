@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Agreement Irrational 
+tags: Humanity/Agreement Irrational 
 ---
 
 Another thing about trying to negotiate based on stances (see [[Negotiating on Stances]]) is that your ego becomes all tangled up in your stance. Humans are highly personal beings, and we’ll take literally anything personally. If you tell me that my website is currently broken, then I’ll probably retaliate[^1]. 

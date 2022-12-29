@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Agreement 
+tags: Humanity/Agreement 
 ---
 
 Being able to empathise is an essential part of coming to settlement. Try to walk a 1.6 kilometres in the other’s shoes[^1]. Try to understand the situation from our opponent’s perspective (see also, [[Treating Humans]]). And try even if it goes against your own perspective.

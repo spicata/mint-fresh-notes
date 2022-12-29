@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Irrational Agreement 
+tags: Irrational Humanity/Agreement 
 ---
 
 Sometimes, you have suspicions that someone or something is plotting against you. That’s paranoia. And fear is an inbuilt structure of humanity. It was useful to be able to see a tiger in the bush and react appropriately, even if it wasn’t actually a tiger, because it was better to be safe than to be sorry.

@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: Humanity Agreement 
+tags: Humanity Humanity/Agreement 
 ---
 
 Every single decision[^1] you encounter was made by a human. Other people. Because they make decision. LLCs, as powerful and influential they are (see [[Power of the LLC]]), can’t make decision. Of course an imaginary entity can’t. Only the people behind it can make these decisions. 

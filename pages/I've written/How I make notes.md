@@ -5,23 +5,26 @@ tags: Project
 
 # How I make notes
 
+> [!IMPORTANT] See also
+> See the new and updated copy, [[How I Make Notes 2]]
+
 ## Structure
 
 I (mainly) use three different types of notes: fleeting notes, literature notes, and permanent notes. Fleeting notes are to capture sudden ideas and things I must not forget. I use literature notes to note down the ideas I find during research and many interesting facts. Permanent notes are the synthesisation and the elaboration on top of these literature notes, dealing with a higher level of thinking and asking questions on top of them.
 
 ### Fleeting
 
-Most of my fleeting notes consists of interesting concepts that I may explore later ([De Broglie Wave Hypothesis and more](../1%20Fleeting%20Notes/De%20Broglie%20Wave%20Hypothesis%20and%20more)), and also class notes that seem relevant so that I am aware of what to write later ([2022-09-19](../1%20Fleeting%20Notes/2022-09-19)). These notes have a short expiry date, and thus it is essential to tackle whatever is in these as quickly as possible. Once their usefulness as run out, they are deleted. Fleeting notes must be kept to a minimum.
+Most of my fleeting notes consists of interesting concepts that I may explore later, and also class notes that seem relevant so that I am aware of what to write later. These notes have a short expiry date, and thus it is essential to tackle whatever is in these as quickly as possible. Once their usefulness as run out, they are deleted. Fleeting notes must be kept to a minimum.
 
 ### Literature
 
-Literature notes is used to record my research. They are often just a bullet point list ([Alpha Decay (L)](Alpha%20Decay%20(L).md)). Although they should preferably be short and contain the most amount of information as possible, I struggle with this. They should also have a bibliography.
+Literature notes is used to record my research. They are often just a bullet point list ([[Alpha Decay (L)]]). Although they should preferably be short and contain the most amount of information as possible, I struggle with this. They should also have a bibliography.
 
 ### Permanent
 
 These are the crux of my notes, and is what everyone sees. Permanent notes are not only an opportunity to test your knowledge, but also a time to be able to link the concepts found in your particular note with other notes that are in your vault. When introducing new terms, try to explain in layman’s terms, then define the term. Permanent notes benefit from having many links.
 
-I also use permanent notes as a space to ask questions. Once I have written the note, I step back and see if what I have written makes sense, and also questions gaps of knowledge and other points that I find interesting. Questions like: “Why does alpha decay specifically produce a helium nucleus” ([4,5a - The Helium Nucleus](4,5a%20-%20The%20Helium%20Nucleus.md)). These questions become topics of future research, which not only make it easier to understand a topic, but also make it easier to memorise.
+I also use permanent notes as a space to ask questions. Once I have written the note, I step back and see if what I have written makes sense, and also questions gaps of knowledge and other points that I find interesting. Questions like: “Why does alpha decay specifically produce a helium nucleus” ([[4,5a - The Helium Nucleus]]). These questions become topics of future research, which not only make it easier to understand a topic, but also make it easier to memorise.
 
 It is difficult to memorise that an artery has thicker walls and a vein has valves, but it becomes easier if you remember that the heart pumps blood into the artery. Oh! It must have thicker walls due to having pressure and strain. Oh! A vein must have valves to stop blood from flowing back because it has a lower pressure.
 
