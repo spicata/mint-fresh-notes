@@ -67,7 +67,7 @@ li {
 }
 
 /* Link styling */
-a:link {
+a {
   color: #8dbf9b;
   background-color: transparent;
   text-decoration: underline;
