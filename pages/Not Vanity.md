@@ -3,4 +3,4 @@ layout: page
 tags: 
 ---
 
-You don’t argue for vanity. You don’t do it for some 
+You don’t argue for vanity. You don’t do it for some external third-party. You argue for yourself.
