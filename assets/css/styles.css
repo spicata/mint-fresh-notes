@@ -76,8 +76,10 @@ a:hover {
 hr {
   text-align: center;
   border: 0;
+}
 
-  &:before { content: '⁂' }
+hr::after{
+  content: '⁂'
 }
 
 table {
