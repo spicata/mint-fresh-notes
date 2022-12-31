@@ -1,7 +1,7 @@
 title: mint fresh notes. # name of the site
 author: M. spicata # name of site's author
 email: pixelandian@gmail.com # email of site's author
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/mint-fresh-notes" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   notes, constantly updating and growing
 
@@ -25,3 +25,22 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-wikilinks
+
+wikilinks:
+  attributes:
+    enabled: true
+  css:
+    exclude: []
+    name:
+      typed: 'typed'
+      wiki: 'wiki-link'
+      web: 'web-link'
+      invalid_wiki: 'invalid-wiki-link'
+      embed_container: 'embed-container'
+      embed_title: 'embed-title'
+      embed_content: 'embed-content'
+      embed_link: 'embed-wiki-link'
+      embed_image_container: 'embed-image-container'
+      embed_image: 'embed-image'
+  enabled: true
+  exclude: []
