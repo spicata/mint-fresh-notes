@@ -1,0 +1,12 @@
+---
+layout: default
+title: 'My Notes'
+---
+
+<ul>
+  {% for note in site.pages %}
+    <li>
+      <a href="{{ note.url | relative_url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
