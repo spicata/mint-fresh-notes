@@ -4,7 +4,7 @@ title: 'My Notes'
 ---
 
 <ul>
-  {% for note in site.pages %}
+  {% for note in site.notes %}
     <li>
       <a href="{{ note.url | relative_url }}">{{ note.title }}</a>
     </li>
