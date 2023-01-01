@@ -1,4 +1,3 @@
-# mint fresh notes :*)*
 by Mspicata
 
 “mint fresh notes” are my notes. Previously found at [mint-garden](https://mint-garden.netlify.app/), now at [mint fresh notes](https://spicata.github.io/mint-fresh-notes/). [Check the GitHub if you want!](https://github.com/spicata/mint-fresh-notes)

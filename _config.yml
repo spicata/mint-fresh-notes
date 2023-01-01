@@ -7,9 +7,9 @@ description: "Where I study, post old things, post new things, and more :)"
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: "notes"
     values:
-      layout: "page"
+      layout: "note"
   - scope:
       path: ""
       type: "posts"
