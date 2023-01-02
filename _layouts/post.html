@@ -6,7 +6,7 @@ layout: default
   Made on {{ page.date | date_to_string }}
   {% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
-    by <a href="{{ author.url | relative_rule }}">{{ author.name }}</a>
+    by <a href="{{ author.url | relative_url }}">{{ author.name }}</a>
   {% endif %}
 </p>
 

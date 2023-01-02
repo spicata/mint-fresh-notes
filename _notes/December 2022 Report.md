@@ -21,7 +21,7 @@ Last month, I cared too much about what others thought. I think the letter empha
 
 Life is about having a good time, and paving your own road. Call me an idealist, call me insane. But deep in your heart, your mind, you know I’m right.
 
-Good luck,
+Good luck,  
 December 2022.
 
 # Yearly Letter
@@ -46,5 +46,5 @@ And this is not the way I want to live. And I’m sure as hell this is not the w
 
 And so… be childish. Be inefficient. Be rebellious. And be fun.
 
-I truly mean this.
+I truly mean this.  
 December 2022
