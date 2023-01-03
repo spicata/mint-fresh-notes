@@ -1,5 +1,4 @@
 ---
-layout: page
 tags: Molecules/Properties 
 ---
 

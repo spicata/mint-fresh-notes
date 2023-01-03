@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Introspection Skill/Writing 
 ---
 

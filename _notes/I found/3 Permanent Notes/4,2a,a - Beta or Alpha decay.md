@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Permanent  
 ---
 # 4,2a,a - Beta or Alpha decay

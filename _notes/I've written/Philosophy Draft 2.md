@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Argument Humanity/IndigenousPeoples Moral 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Permanent
 ---
 # 4,a - Why does it release alpha particles

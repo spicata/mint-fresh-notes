@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Literature
 aliases: [Nuclear Physics, Science]
 ---

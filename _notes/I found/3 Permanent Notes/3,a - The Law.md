@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Permanent 
 ---
 # 3,a - The Law

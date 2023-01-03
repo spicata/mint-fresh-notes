@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Article 
 ---
 # 4 - Alpha Decay

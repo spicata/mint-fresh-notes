@@ -1,5 +1,5 @@
 ---
-layout: page
+
 tags: Permanent  
 ---
 # 4,3a - Why larger particles are less penetrative

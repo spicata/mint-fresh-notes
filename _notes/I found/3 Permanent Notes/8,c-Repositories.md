@@ -1,5 +1,5 @@
 ---
-layout: page
+
 ---
 # 8,c - Repositories #Permanent 
 By far the best way of disposing nuclear waste, both in the present and in the future, would be to store it deep underground until it decays enough to not be radioactive. These facilities are known as repositories, and are currently being used to store nuclear waste. 
