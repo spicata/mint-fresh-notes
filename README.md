@@ -1,6 +1,4 @@
----
-layout: note
----
+# mint fresh notes :*)*
 
 by Mspicata
 

@@ -108,8 +108,8 @@ code {
 }
 
 blockquote {
-  border-left-style: 4px solid #8DBF9B;
-  padding: 1rem;
+  border-left: 4px solid #8DBF9B;
+  padding: 0.25em;
 }
 
 img {
