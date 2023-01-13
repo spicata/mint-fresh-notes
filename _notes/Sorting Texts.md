@@ -1,6 +1,5 @@
 ---
-
-tags: Elegance
+tags: JustHaveFun
 ---
 
 Texts is sometimes split by genre. **First**, it is classified by what type of text it is. Essentially, what form does it take? Is it a video? Is it a novel? Is it a picture? **Then**, it is classified by genre, which is usually the themes present in the text. Is it sci-fi? Is it horror? I don’t know, you tell me. You’re the one reading the text, I’m just writing this paragraph. ¯\\\_(ツ)\_/¯

@@ -13,6 +13,15 @@
     {% seo %}
   </head>
   <body>
-    {{ content }}
+    <div class="bar"></div>
+    <header class="card">
+      {% include header.html %}
+    </header>
+    <div class="card">
+      {{ content }}
+    </div>
+    <footer class="card">
+      <p>No Rights Reserved</p>
+    </footer>
   </body>
 </html>
