@@ -15,4 +15,4 @@ The salt bridge and the conductive stuff complete the circuit. How? Well the con
     I remembered what it was. Lo and behold, it was on my post it note. An electrochemical cell is a thing that turns chemical potential energy into electrical energy.
 
     Wait, if that's what an electrochemical cell is, what is a galvanic cell?
-[^2]: I am totally qualified to explain this what do you mean?
+[^2]: I am *totally* qualified to explain.
