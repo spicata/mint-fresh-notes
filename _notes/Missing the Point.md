@@ -1,14 +1,17 @@
 ---
-
-tags: Irrational 
+tags: Irrational myOpinion 
 ---
 
-Honestly, I think we humans are experts at missing the point. 
+Missing the point is an idiom, and [[Simplicity is Good]], but I think this idiom is a pretty clear one. It means that you have not understood what the most important part of something is. And we do this all the time:
 
-Each law has a general idea or point that it is referring to, and yet people take cases where the argue the wording.
+- Point of a court: protect people from misunderstanding and other oversights.
 
-Each measurement has a purpose of being measured — a general thing that it hopes to achieve — and yet people wish to increase the measurement itself.
+    Not: serve as a platform for the guilty to get away.
+- Point of a school: educate children and create an environment that allows people to learn.
 
-Each argument has a broad topic that it addresses, but people take it out of context and mangle the words.
+    Not: get good grades in a standardised test.
+- Point of money: an easy standardised medium to exchange goods.
 
-In general, we are just very good at missing the point. Usually to our detriment.
+    Not: collect literally all of it you can.
+
+Why people miss the point so often? I don't know the answer. I used the middle one as an example of [[Goodhart's Law]], that might be a reason.
