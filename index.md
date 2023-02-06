@@ -18,7 +18,7 @@ Also, here are my lesson journals. At this point, I've accepted that you probabl
 
 - [Chinese Journal](notes/Blessed Li.html)
 - [Chem Journal](notes/Chem Case.html)
-- [Physics Journal](notes/Chronicle of Waters.html)
+- [Physics Journal](notes/Chronicles of Waters.html)
 - [Literature Journal](notes/Coney Story.html)
 - [Methods Journal](notes/Gannon Exercises.html)
 - [Spec Journal](notes/Pearce Dialogue.html)
