@@ -24,5 +24,24 @@ tags: lessonJournal
 - [[Irrational Number]]s are plenty. We also played some number line dart, and we came back to the infinite hotel again.
 - Also looked at [[Set Notation]].
 - Conditional statements are "if ... then ..." statements. We also sometimes use the $\implies$ symbol. We're not proving if the "if" is true, we're just looking at the relationship.
-    - We assume it is "if" is true.
+    - We assume that "if" is true.
 - We also use QED.
+
+## 06th of February, 2023
+
+- Here are some proof principles:
+    - Proofs should be precise and unambiguous.
+    - You should be able to replace the symbols are read it out. Use linking words like you do in English
+    - Statements are either true, or they instruct the reader to do something/notice something/anything else I guess.
+    - Written in first person plural. We are on a journey to the truth.
+- In short: like an IKEA manual.
+- There are some common mistakes. Here's how to fix it:
+    - Variables are constant. That is to say, don't use one variable to define two different things >:-(. This is because you want to...
+    - Make sure it is general. It should apply to all case possible within the limits of the question.
+    - If you can't find a direction, just suppose that this happens, and try all the different possibilities. This is exhaustion.
+    - DON'T ASSUME THAT THE STATEMENT IS TRUE. This was so bad that Dr Pearce drew this (imitation):  
+      ![[Angry Pearce.png]]
+    - Write rough wok when stuck.
+- Pearce got jumpscared by smartboard options.
+- We did Exercise 6A. If you didn't finish it, it's homework.
+    - Got stuck on 18 :-/

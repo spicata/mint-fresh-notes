@@ -36,3 +36,27 @@ tags: lessonJournal
     - 好 can be...
         - (hao4) - hobby
         - (hao3) - good
+
+## 06th of February, 2023
+
+- We could either: study vocab OR do tongue twisters... Here are some tongue twisters:
+    - 花化肥会挥发。 (hua1 hua4 fei2 hui4 hui1 fa1)
+        - 化肥 (hua4 fei2) - fertilisation
+        - 挥发 (hui1 fa1) - vaporisation
+    - 吃葡萄不吐葡萄皮，不吃葡萄到吐葡萄皮。 (use google translate for pinyin, i'm not going to write this abomination)
+        - 葡萄 (pu4 tao) - grape
+        - 吐 (tu3) - to spit
+        - 皮 (pi2) - skin
+    - The 4, 10, 14, 40 one
+- Also, here's the vocab for today:
+    - 成为 (cheng2 wei2) - to become
+    - 放 (fang4) - to make/complete/set off [firework]
+    - 织 (zhi1) - to knit
+    - 摄影 (she4 ying3) - taking a photo
+    - 着 (zhe) - [v + 着] means that the verb is happening (kind of like -ing)
+    - 冬天 (dong1 tian1) - winter
+    - 秋天 (qiu1 tian1) - autumn (Daniel's mother was saved by one stroke.)
+    - 春天 (chun1 tian1) - spring
+    - 夏天 (xia4 tian1) - summer
+- We also did booklet pages 3 and 4, section 1, 2, and 3
+- Homework is to practice one of the tongue twisters and to do section 5.

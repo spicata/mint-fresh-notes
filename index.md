@@ -14,4 +14,13 @@ Apart from that, I also make some other resources too. Such as flashcards. Take 
 
 - [Valency flashcards](assets/Chemistry%20Valency.apkg)
 
+Also, here are my lesson journals. At this point, I've accepted that you probably already know who I am.
+
+- [Chinese Journal](notes/Blessed Li.html)
+- [Chem Journal](notes/Chem Case.html)
+- [Physics Journal](notes/Chronicle of Waters.html)
+- [Literature Journal](notes/Coney Story.html)
+- [Methods Journal](notes/Gannon Exercises.html)
+- [Spec Journal](notes/Pearce Dialogue.html)
+
 Check out the GitHub page if you please. This is where all the bad notes are :-) : https://github.com/spicata/mint-fresh-notes.

@@ -22,6 +22,8 @@ Things can be **bold**, or *italics*, sometimes ~~deleted~~.
 |:-------|:----------|:----|
 | In     | Tables    | for |
 | sure   | x         | y   |  
+| In     | Tables    | for |
+| sure   | x         | y   |  
 
 > Also quote blocks and…
 

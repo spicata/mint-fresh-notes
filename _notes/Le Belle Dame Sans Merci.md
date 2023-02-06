@@ -1,5 +1,5 @@
 ---
-tags: move/gothNRom 
+tags: move/gothNRom texts
 ---
 
 Set during the [[Medieval Age (Romanticism)]] and embeds supernatural elements. Examples include:

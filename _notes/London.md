@@ -6,6 +6,7 @@ I wander thro' each charter'd street,
 Near where the charter'd Thames does flow.   
 And mark in every face I meet  
 Marks of weakness, marks of woe.  
+
 In every cry of every Man,  
 In every Infants cry of fear,  
 In every voice: in every ban,  
