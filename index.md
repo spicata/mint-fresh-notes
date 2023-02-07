@@ -17,10 +17,10 @@ Apart from that, I also make some other resources too. Such as flashcards. Take 
 Also, here are my lesson journals. At this point, I've accepted that you probably already know who I am.
 
 - [Chinese Journal](notes/Blessed Li.html)
-- [Chem Journal](notes/Chem Case.html)
+- [Chem Journal](notes/Chemistree.html)
 - [Physics Journal](notes/Chronicles of Waters.html)
-- [Literature Journal](notes/Coney Story.html)
+- [Literature Journal](notes/Book of Books.html)
 - [Methods Journal](notes/Gannon Exercises.html)
-- [Spec Journal](notes/Pearce Dialogue.html)
+- [Spec Journal](notes/Specialist Stickmen.html)
 
 Check out the GitHub page if you please. This is where all the bad notes are :-) : https://github.com/spicata/mint-fresh-notes.
