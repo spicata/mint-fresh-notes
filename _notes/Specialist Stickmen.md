@@ -2,7 +2,7 @@
 tags: lessonJournal
 ---
 
-## 02th of February, 2023
+## 02nd of February, 2023
 
 - [[Proof]]s are fun. It means different thing in different contexts, but cause math is pure, it just comes down to thinking. You don't need evidence or whatever.
 - Math is the superior subject.

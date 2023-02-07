@@ -2,7 +2,7 @@
 tags: lessonJournal 
 ---
 
-## 02th of February, 2023
+## 02nd of February, 2023
 
 - Tried to do specialist. Proof notation and syntax is bad >:-(.
 
@@ -16,4 +16,4 @@ tags: lessonJournal
 
 ## 06th of February, 2023
 
-- Just wrong the lesson journals during this time.
+- Just wrote the lesson journals during this time.

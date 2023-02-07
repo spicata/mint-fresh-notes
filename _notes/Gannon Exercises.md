@@ -14,3 +14,14 @@ tags: lessonJournal
 - We did Ex. 10A-D of Cambridge.
 - 10D Q6: A sandwich with nothing in it is (sadly) not a sandwich. But apparently a sandwich with only onions is a sandwich. So hm...
 - Finished 10A-D, so did Mathspace :-/
+
+## 07th of February, 2023
+
+- Something about how in ye olde times, you got fired when you got pregnant. God bless modern regulations, eh?
+- Anyways, it terms of work, we did Pascal's triangle, and how it relates to combi. Essentially, you can rewrite the triangle tin terms of combinations. Search up some permutation of the words "combination" and "Pascal's triangle".
+    - Also, learn that nCr = (n-1)C(n-r) + (n-1)Cr
+- This also leads into binomial expansion. 
+    - The top row is the 0th row. From then on is 1st, then 2nd, then 3rd, so on.
+    - The numbers in the nth row relate to the coefficients of an expansion of (a+b)^n. E.g. (a+b)^2 = 1a^2 + 2ab + 1b^2.
+- Try expanding (2x-4y)^4
+- Classwork/homework is q1a, c, e, and g. Then do p.364 and 365.

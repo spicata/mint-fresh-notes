@@ -2,7 +2,7 @@
 tags: lessonJournal 
 ---
 
-## 02th of February, 2023
+## 02nd of February, 2023
 
 - We drew.
 - The [[2023-02-02 Chinese Vocab]] was not used :-/
