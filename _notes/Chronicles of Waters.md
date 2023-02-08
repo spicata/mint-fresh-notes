@@ -1,5 +1,8 @@
 ---
 tags: lessonJournal 
+aliases:
+- Waters
+- Physics
 ---
 
 ## 02nd of February, 2023
@@ -58,4 +61,36 @@ tags: lessonJournal
     - If you are multiplying, add the %U
 - Rounding is bad, cause it accumulates. 
 
+## 8th of February, 2023
+
+- Bring STAWA next lesson and read 14.1. We are doing some vectors practical. This will also require your phone as a compass, but don't only look at you phone, as you will hit something.
+- Also, since we will be in groups, it's okay if everyone takes a different time. 
+- Sometimes, textbooks and teachers will not put direction for vectors. Please do. Be better than your mentor.
+- Here are some scalar and vector units:
+
+| >> | Scalar | << | >> | Vector | << |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Name | Variable | Unit | Name | Variable | Unit |
+| Distance | s | m | Displacement | s (or h) | m |
+| Speed | v=s/t | m/s | Velocity | v=s/t | m/s |
+| | | | Acceleration | a=v/t | m/s/s |
+| | | | Force | F=ma | N |
+| Work | W=Fs | J | | | |
+| Kinetic Energy | Ek=(1mv^2)/2[^2] | J | | | |
+| Potential Energy | Ep=mgh | J | | | |
+| Temperature | | °K | | | |
+| Time | t | s | | | |
+
+
+- You can express some units as other units. For example, N(ewtons) = kgm/s/s
+- Vectors are not equal to free body diagrams.
+  ![[VectorvsFreeBody.png]]
+- Vectors use only vector quantities, they are resolved (draw the resultant), they need arrows, and it's usually head-to-tail.
+- Free body only shows real forces in action.
+- Gravity = Fg or W or Fw.
+- The chronicles of Blob and Blab.
+- Something about planes looking like donkeys.
+- The tale of monkeys, peanuts, and elephants.
+
 [^1]: Error and Uncertainty
+[^2]: The v here is velocity, not speed

@@ -1,5 +1,8 @@
 ---
 tags: lessonJournal
+aliases:
+- Pearce
+- Specialist 
 ---
 
 ## 02nd of February, 2023
@@ -45,3 +48,18 @@ tags: lessonJournal
 - Pearce got jumpscared by smartboard options.
 - We did Exercise 6A. If you didn't finish it, it's homework.
     - Got stuck on 18 :-/
+
+## 7th of February, 2023
+
+- Sometimes, we get an if-then-question, but don't know what to do. This usually happens if the then-part is longer than the if-part. If this is the case, we can use **proof by contrapositive**.
+- There are many ways to find the "opposite" of a statement
+    - Negation: if A then B --> if A then not B
+        - This looks for "the rest", not the opposite. For example, not-greater is smaller-or-equal-to.
+    - Inverse: if A then B --> if B then A
+    - Converse: if A then B --> if not A then not B
+    - Contrapositive: if A then B --> if not B then not A
+        - This is the only one that is true.
+- When doing not's, we need to keep in mind *De Morgan's law*:
+    - not(A and B) = not A or not B
+    - not(A or B) = not A and not B
+- Homework: Ex6B (all)

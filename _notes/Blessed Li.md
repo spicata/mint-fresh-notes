@@ -60,3 +60,27 @@ tags: lessonJournal
     - 夏天 (xia4 tian1) - summer
 - We also did booklet pages 3 and 4, section 1, 2, and 3
 - Homework is to practice one of the tongue twisters and to do section 5.
+
+## 7th of February, 2023
+
+- We looked over the homework, and we repeated the recording.
+- We did page 5 and 6, sections 1 and 4. If you can't see the sections, the numbers are really faint.
+- Here's the vocab we learnt:
+    - **拍**照片 (pai1 zhao4 pian4) - **take** a photo
+    - **照**照片 (zhao4 zhao4 pian4) - ditto
+    - 照镜子 (zhao4 jing4 zi) - to look at yourself in the mirror
+    - 特别 (te4 bie2), can mean:
+        - special (他很特别)
+        - especially (他特别特别)
+    - 安静地 (an1 jing4 de) - quietly
+    - 地 can be
+        - (de) - (adj+地) becomes adverb
+        - (di4) - ground.
+    - 这几年 (zhe4 ji3 nian2) - these years
+    - 孩（儿/子）(hai2 er/zi) - used with:
+        - 男/女孩儿 - boys/girls
+    - 未 (wei4) - future
+    - 末 (mo4) - end
+    - 事情 (shi4 qing) - things
+    - 约会 (yue1 hui4) - dating
+- Do section 2 I think for homework.

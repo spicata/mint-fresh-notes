@@ -25,3 +25,8 @@ tags: lessonJournal
     - The numbers in the nth row relate to the coefficients of an expansion of (a+b)^n. E.g. (a+b)^2 = 1a^2 + 2ab + 1b^2.
 - Try expanding (2x-4y)^4
 - Classwork/homework is q1a, c, e, and g. Then do p.364 and 365.
+
+## 8th of February, 2023
+
+- We did probability. Do exercises 9A, 9B, and 9C (every second question) for homework
+- Investigation coming out Friday
