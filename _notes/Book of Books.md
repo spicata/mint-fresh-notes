@@ -1,5 +1,8 @@
 ---
 tags: lessonJournal 
+aliases:
+- Coney
+- Literature
 ---
 
 ## 02nd of February, 2023
@@ -31,3 +34,24 @@ tags: lessonJournal
     - Caesura, when we break a line in the middle with a break (- or : or .)
 - Enjambment and caesura can work together for even more emphasis.
 - Romanticism is also kind of about exploration of self.
+
+## 8th of February, 2023
+
+- We read *[[Daffodils]]*.
+- To analyse texts, you need: 
+    - your own interpretation
+    - to figure out who is the persona
+    - find the tone, as it shows emotions which reveals the author's values and attitude, and establishes mood.
+- The title of a poem plays a significant part in the meaning of the poem.
+- Coney jumped
+- Zoomorphism is giving animal qualities to humans. Anthropomorphism is giving human qualities to animals.
+- The structure found in *Daffodils* is a simplified version of the Shakespearean sonnet. It sounds cool, but is also accessible. Nice.
+- Coney jumped
+
+## 9th of February, 2023
+
+- We continued doing *[[Daffodils]]*.
+- We made teams for the oral presentation.
+    - Hm. Edward's insulting me in Literature in the lead up to the oral presentation. This is either because:
+        - He is not a nice guy, but I doubt this is true,
+        - He is aggravating me so that I study harder for Literature. It worked.

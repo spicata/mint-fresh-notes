@@ -21,3 +21,7 @@ tags: lessonJournal
 ## 7th of February, 2023
 
 - I had tutoring and stuff and I couldn't finish all the lesson journals for today, which uh... oops.
+
+## 9th of February, 2023
+
+- Did Cambridge Spec 6B

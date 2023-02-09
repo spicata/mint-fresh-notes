@@ -68,9 +68,9 @@ aliases:
 - Sometimes, textbooks and teachers will not put direction for vectors. Please do. Be better than your mentor.
 - Here are some scalar and vector units:
 
-| >> | Scalar | << | >> | Vector | << |
+| **>>** | **Scalar** | **<<** | **>>** | **Vector** | **<<** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Name | Variable | Unit | Name | Variable | Unit |
+| *Name* | *Variable* | *Unit* | *Name* | *Variable* | *Unit* |
 | Distance | s | m | Displacement | s (or h) | m |
 | Speed | v=s/t | m/s | Velocity | v=s/t | m/s |
 | | | | Acceleration | a=v/t | m/s/s |
@@ -91,6 +91,11 @@ aliases:
 - The chronicles of Blob and Blab.
 - Something about planes looking like donkeys.
 - The tale of monkeys, peanuts, and elephants.
+
+## 9th of February, 2023
+
+- We did the graphing vector experiment (STAWA 14.1)
+- That's it essentially.
 
 [^1]: Error and Uncertainty
 [^2]: The v here is velocity, not speed

@@ -1,5 +1,7 @@
 ---
 tags: lessonJournal 
+aliases:
+- Chinese
 ---
 
 ## 02nd of February, 2023
@@ -84,3 +86,17 @@ tags: lessonJournal
     - 事情 (shi4 qing) - things
     - 约会 (yue1 hui4) - dating
 - Do section 2 I think for homework.
+
+## 9th of February, 2023
+
+- Dictation tomorrow.
+- Week 6 Tuesday is reading, Friday is Listening. Week 9 listening is on Thursday and Friday
+- ANUS
+- Vocab today:
+    - 打的 (da3 di1) - to get a taxi
+    - 的确 (di2 que4) - indeed
+    - 目的地 (mu4 di4 di4) - destination
+    - 湖边 (hu2 bian1) - lakeside
+    - 河边 (he2 bian1) - riverside
+    - 海边 (hai3 bian1) - seaside
+- Pranav hurt 李老师. This should be punished by upmost severity.

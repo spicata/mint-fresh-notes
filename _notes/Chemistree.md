@@ -1,5 +1,8 @@
 ---
 tags: lessonJournal 
+aliases:
+- McGlashan
+- Chemistry
 ---
 
 ## 02nd of February, 2023
@@ -28,3 +31,14 @@ tags: lessonJournal
 - Atoms are "the basic building blocks of matter"
 - We looked at [[Atomic Forces]].
 - Why don't electrons suicide into the nucleus? Well some funky quantum stuff.
+
+## 9th of February, 2023
+
+- Reviewed [[History of the Atom]].
+- Looked at the structure of the atom.
+- Atomic (proton) number is Z, and mass number is A.
+- Isotopes are atoms of the same elements that have different numbers of neutrons, meaning that their A is different. Think the difference between carbon-12 and carbon-13 (and carbon-14).
+- Isotopes have different physical properties.
+- Looked into [[Mass Spectrometer]]s.
+- This shows you what is in a sample.
+- To practice, check the PPT.

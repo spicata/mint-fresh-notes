@@ -63,3 +63,15 @@ aliases:
     - not(A and B) = not A or not B
     - not(A or B) = not A and not B
 - Homework: Ex6B (all)
+
+## 9th of February, 2023
+
+- Please get the new Cambridge book please. It has different stuff.
+- If the converse (see above) is also true, then A and B are equivalent.
+    - A <=> B (or A if and only if B, which is shortened to A iff B)
+- We went into the linguistics of "if and only if"
+- A <=> B is the proved by A => B & B => A.
+- Another way is P <=> R <=> Q. It is also possible to take different routes, such as P => R => Q, Q => S => P
+- Combi won't be in the test.
+- Quote of the day: "feature of english language"
+- (Homework) Did 6C (6B if not finished). We are going quick, but please try to keep up.
