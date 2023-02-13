@@ -111,4 +111,5 @@ aliases:
 
 - Too many absent! We do booklet instead!
 - Daniel is sadly, leaving our class :-(.
-- Do p.13 1+2, p.15 4, p.16 5 (homework)
+    - So far, Widjaja, Jonathan, and Daniel has left us. Fred leaves for a month, so that means we're done to 6. Sad times :'-(.
+- Do p.13 1+2, p.15 4, p.16 5 (homework) 
