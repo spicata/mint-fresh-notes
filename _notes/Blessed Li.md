@@ -100,3 +100,9 @@ aliases:
     - 河边 (he2 bian1) - riverside
     - 海边 (hai3 bian1) - seaside
 - Pranav hurt 李老师. This should be punished by upmost severity.
+
+## 10th of February, 2023
+
+- We did dictation. It was mostly the stuff she told us to highlight, but she also put pinyin in it. It's okay, I beat Ed. This will only make him try harder though.
+- Then we did the listening part on page 8, and went through yesterday's reading.
+- Write a transcript of the listening on page 8.

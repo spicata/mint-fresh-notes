@@ -75,3 +75,9 @@ aliases:
 - Combi won't be in the test.
 - Quote of the day: "feature of english language"
 - (Homework) Did 6C (6B if not finished). We are going quick, but please try to keep up.
+
+## 10th of February, 2023
+
+- Looked at [[Quantifiers]], and [[Proving with Quantifiers]].
+- Confused Pearce?
+- Did 6D (6C if not finished), do for homework.

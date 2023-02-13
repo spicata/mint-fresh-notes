@@ -42,3 +42,9 @@ aliases:
 - Looked into [[Mass Spectrometer]]s.
 - This shows you what is in a sample.
 - To practice, check the PPT.
+
+## 10th of February, 2023
+
+- Empty class at start :-/
+- STAWA Sets 8 and 21 is what we did. As **homework** I shall mark.
+- That's it
