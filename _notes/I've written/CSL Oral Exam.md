@@ -1,7 +1,6 @@
 ---
 
 tags: Project 
-alias: Chinese
 ---
 
 # CSL Oral Exam

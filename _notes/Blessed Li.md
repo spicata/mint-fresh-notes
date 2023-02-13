@@ -106,3 +106,9 @@ aliases:
 - We did dictation. It was mostly the stuff she told us to highlight, but she also put pinyin in it. It's okay, I beat Ed. This will only make him try harder though.
 - Then we did the listening part on page 8, and went through yesterday's reading.
 - Write a transcript of the listening on page 8.
+
+## 13th of February, 2023
+
+- Too many absent! We do booklet instead!
+- Daniel is sadly, leaving our class :-(.
+- Do p.13 1+2, p.15 4, p.16 5 (homework)

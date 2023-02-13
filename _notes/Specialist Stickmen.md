@@ -81,3 +81,12 @@ aliases:
 - Looked at [[Quantifiers]], and [[Proving with Quantifiers]].
 - Confused Pearce?
 - Did 6D (6C if not finished), do for homework.
+
+
+## 13th of February, 2023
+
+- We are gonna be finishing proofs soon.
+- We looked at [[Proof by Contradiction]]. Examples are:
+    - Proof of infinite primes
+    - Proof of square root of 2 irrationality.
+- Ex13a (Homework)

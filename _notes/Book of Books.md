@@ -55,3 +55,7 @@ aliases:
     - Hm. Edward's insulting me in Literature in the lead up to the oral presentation. This is either because:
         - He is not a nice guy, but I doubt this is true,
         - He is aggravating me so that I study harder for Literature. It worked.
+
+## 13th of February, 2023
+
+- Literally just panel discussing.

@@ -97,5 +97,17 @@ aliases:
 - We did the graphing vector experiment (STAWA 14.1)
 - That's it essentially.
 
+## 13th of February, 2023
+
+- Went through daily notices, swimming carnival of Week 4 Monday (next week).
+- Something about Ireland (26+6=1).
+- When Dr Water says next Wednesday, he means the "next coming Wednesday", not "next week's Wednesday".
+- Learnt some [[Vector Diagram Tips]]
+- Return of Blob
+- Don't do quadratic equations. Something goes in, something comes out. We don't know where it might go wrong.
+- I think Waters has a pptx that he uses himself.
+- Don't waste his limited time by using true bearing in physics. That's saved for maths.
+- Doesn't like the Beatles.
+
 [^1]: Error and Uncertainty
 [^2]: The v here is velocity, not speed

@@ -41,3 +41,9 @@ aliases:
     - Never mind it's all g.
 - Finish stuff from before
 - Investigation came out. Supposedly hard, but I found it pretty easy. I am not saying this brag. I'm saying this so that you know that, if you need help, I might be able to help you.
+
+## 13th of February, 2023
+
+- [[Probability Venn Diagrams]]
+- Lewis Carroll made the universal set. Also wrote Wonderland.
+- Ex 9D>
