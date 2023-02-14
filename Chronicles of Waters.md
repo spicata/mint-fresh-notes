@@ -1,8 +1,9 @@
 ---
 tags: lessonJournal 
+title: Chronicles of Waters
 aliases:
-- Waters
 - Physics
+- Waters
 ---
 
 ## 02nd of February, 2023
@@ -108,6 +109,10 @@ aliases:
 - I think Waters has a pptx that he uses himself.
 - Don't waste his limited time by using true bearing in physics. That's saved for maths.
 - Doesn't like the Beatles.
+
+## 14th of February, 2023
+
+- SUVAT + Motion graphs
 
 [^1]: Error and Uncertainty
 [^2]: The v here is velocity, not speed

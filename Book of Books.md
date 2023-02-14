@@ -59,3 +59,7 @@ aliases:
 ## 13th of February, 2023
 
 - Literally just panel discussing.
+
+## 14th of February, 2023
+
+- More panel discusisng

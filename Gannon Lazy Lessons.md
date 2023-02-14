@@ -46,4 +46,10 @@ aliases:
 
 - [[Probability Venn Diagrams]]
 - Lewis Carroll made the universal set. Also wrote Wonderland.
-- Ex 9D>
+- Ex 9D
+
+## 14th of February, 2023
+
+- More probability
+- No help for investigation
+- Homework: Ex9E

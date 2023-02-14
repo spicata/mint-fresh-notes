@@ -113,3 +113,7 @@ aliases:
 - Daniel is sadly, leaving our class :-(.
     - So far, Widjaja, Jonathan, and Daniel has left us. Fred leaves for a month, so that means we're done to 6. Sad times :'-(.
 - Do p.13 1+2, p.15 4, p.16 5 (homework) 
+
+## 14th of February, 2023
+
+- Homework: 

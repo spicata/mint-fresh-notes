@@ -1,4 +1,7 @@
 ---
 tags: 
+title: {{title}}
+aliases:
+- 
 ---
 

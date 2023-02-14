@@ -90,3 +90,9 @@ aliases:
     - Proof of infinite primes
     - Proof of square root of 2 irrationality.
 - Ex13a (Homework)
+
+## 14th of February, 2023
+
+- Homework: Anything you haven't finished from Chapter 6 and 13
+- Recurring decimals are rational.
+- Interval notation.

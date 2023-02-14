@@ -48,3 +48,9 @@ aliases:
 - Empty class at start :-/
 - STAWA Sets 8 and 21 is what we did. As **homework** I shall mark.
 - That's it
+
+## 14th of February, 2023
+
+- Homework: STAWA Set 23 and (i think) 26
+- Balancing equations: law of conservation of mass at work.
+- Stoichiometry
