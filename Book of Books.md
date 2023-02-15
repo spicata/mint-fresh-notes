@@ -63,3 +63,12 @@ aliases:
 ## 14th of February, 2023
 
 - More panel discusisng
+
+## 15th of February, 2023
+
+- Homework: 
+- Romantics didn't like "truths". How do we know they are real?
+- We aren't made to fit into an artificial system.
+- Society is artifice, we aren't real with ourselves.
+- Children are untainted by society.
+- We are all impacted by [[Romanticism]].

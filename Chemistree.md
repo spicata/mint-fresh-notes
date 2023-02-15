@@ -54,3 +54,23 @@ aliases:
 - Homework: STAWA Set 23 and (i think) 26
 - Balancing equations: law of conservation of mass at work.
 - Stoichiometry
+
+## 15th of February, 2023
+
+- Homework: 
+- Planck (1900) thought that 
+- Ionisation energy is the amount of nrg to remove ions
+
+$$M_{(g)}\to M^{+}_{(g)}+e^{-}_{(g)}$$
+
+- First ionisation energy
+    - It's harder to take away more (and more) electrons.
+    - As [[Atomic Radius]] goes up, ionisation energy goes down
+        - Larger atoms break easier.
+        - But atoms to the right break harder
+    - Octets are the hardest to break.
+- Sub-shells/levels: spdf
+    - 2 per orbital
+    - 1 orbital in s's, 3 orbitals in p's, 5 orbitals in d's, 7 orbitals in f's.
+- 1s 2s 2p 3s 3p 4s 3d 4p 4d 4f is the order. 4s is easier to fill than 3d.
+- 
