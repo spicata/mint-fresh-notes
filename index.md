@@ -1,26 +1,19 @@
 ---
-title: "mint fresh notes"
+tags: 
+title: "the garden outside"
+aliases:
+- home
 ---
 
-Currently thinking about: trains
+so... uh... this is the garden. unlike the store, its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.
 
-Welcome! And if you've already been here, welcome back! 
+here's the catalogue of stuff that's safe to pick from
 
-This is where I published my finished, good notes. Not a lot, if at all, but I have hopes for the future.
-
-- [Nuclear_Decay v2.pdf](assets/Nuclear_Decay%20v2.pdf)
-
-Apart from that, I also make some other resources too. Such as flashcards. Take it if you need it:
-
-- [Valency flashcards](assets/Chemistry%20Valency.apkg)
-
-Also, here are my lesson journals. At this point, I've accepted that you probably already know who I am.
-
-- [Chinese Journal](Blessed Li.html)
-- [Chem Journal](Chemistree.html)
-- [Physics Journal](Chronicles of Waters.html)
-- [Literature Journal](Book of Books.html)
-- [Methods Journal](Gannon Lazy Lessons.html)
-- [Spec Journal](Specialist Stickmen.html)
-
-Check out the GitHub page if you please. This is where all the bad notes are :-) : https://github.com/spicata/mint-fresh-notes.
+- [stuff about nuclear physics](assets/Nuclear_Decay%20v2.pdf)
+- [ion valency flashcards](assets/Chemistry%20Valency.apkg)
+- [chinese journal](Blessed%20Li.md)
+- [chem journal](Chemistree.md)
+- [physics journal](Chronicles%20of%20Waters.md)
+- [literature journal](Book%20of%20Books.md)
+- [methods journal](Gannon%20Lazy%20Lessons.md)
+- [spec journal](Specialist%20Stickmen.md)
