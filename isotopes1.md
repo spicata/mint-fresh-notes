@@ -1,5 +1,5 @@
 ---
-tags: atoms
+tags: atoms notebook1 
 title: "isotopes: one"
 aliases:
 - "isotopes: one"
