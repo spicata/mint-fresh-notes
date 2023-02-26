@@ -5,7 +5,7 @@ aliases:
 - home
 ---
 
-so... uh... this is the garden. unlike the store, its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.
+so... uh... this is the garden. unlike [the store](https://spicata.github.io), its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.
 
 here's the catalogue of stuff that's safe to pick from.
 
