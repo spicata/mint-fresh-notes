@@ -7,7 +7,7 @@ aliases:
 
 the people that contributed the most to the development of the atomic model are john dalton, jj thompson, ernest rutherford, niels bohr, and james chadwick.
 
-## john dalton
+## john dalton[^1]
 
 john dalton is the person that came up with the idea of atoms as **indivisible particles that make up all the matter** in our universe. well, leucippus and democritus technically came before him, but the greek's ideas were based on guesses. john dalton actually based his (still slightly a guess) **theory on experiments**. he was the first person link atoms to actual experimental stuff. his thoughts laid the groundwork for... literally everyone else.
 
@@ -23,7 +23,7 @@ these negatively charged particles came to be known as electrons, and the model 
 
 ## ernest rutherford
 
-ernest rutherford was the person who conducted the gold foil experiment. essentially, he set up an alpha-particle emitter to fire alpha particles at a very thin sheet of gold[^1] surrounded by a phosphor. according to thompson's model, as there were only electrons and the positive charge was distributed throughout the entire atom, there would be no deflection in the course of the alpha particles. these alpha particles would make a small flash of light when they hit the phosphor when seen under a microscope. however, some alpha particles experienced a significant deflection, sometimes even being reflected almost directly back!
+ernest rutherford was the person who conducted the gold foil experiment. essentially, he set up an alpha-particle emitter to fire alpha particles at a very thin sheet of gold[^2] surrounded by a phosphor. according to thompson's model, as there were only electrons and the positive charge was distributed throughout the entire atom, there would be no deflection in the course of the alpha particles. these alpha particles would make a small flash of light when they hit the phosphor when seen under a microscope. however, some alpha particles experienced a significant deflection, sometimes even being reflected almost directly back!
 
 through this observation, he concluded that, although atoms are majority empty due to the fact that most of the atoms passed straight through, there must be a small part within the centre of the atoms that contains all the positive charge and mass of the atom (as this positive charge is the only quality of the atom that would be able to deflect the atom). this is the nucleus that we now know. then he guessed that the electrons simply orbit this nucleus randomly.
 
@@ -45,4 +45,5 @@ after rutherford's gold foil experiment, he went on to continue to experiment, a
 
 james chadwick was able to experimentally show that such a particle existed. this experiment was difficult in the fact that neutrons are not charged, so it was difficult to find such a particle.
 
-[^1]: i believe he used gold due to its incredible malleability.
+[^1]: when? this applies to all of them
+[^2]: i believe he used gold due to its incredible malleability.
