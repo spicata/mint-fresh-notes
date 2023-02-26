@@ -7,21 +7,20 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href={{ "/assets/css/styles.css" | relative_url }}>
     <title>{{ page.title }}</title>
-    {% feed_meta %}
   </head>
   <body>
     <header>
       {% if page.title %}
-        <h1>{{ page.title }}</h1>
+        <h1><a href="{{ site.url }}" class="footnote">↩</a>{{ page.title }}</h1>
       {% else %}
-        <h1>{{ page.name }}</h1>
+        <h1><a href="{{ site.url }}" class="footnote">↩</a>{{ page.name }}</h1>
       {% endif %}
     </header>
     <div>
       {{ content }}
     </div>
     <footer>
-      <p>No Rights Reserved</p>
+      <p><small>no rights reserved, just have some decency</small></p>
     </footer>
   </body>
 </html>

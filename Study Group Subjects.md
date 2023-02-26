@@ -6,19 +6,19 @@ tags:
 
 - Methods
 - Econs
-- English
-- Chem
+- English 💀
+- Chem 😍
 - Physics
-- Year 12 Jap
+- ~~Year 12 Jap 😍~~ "Chinese"
 
 ## Edward:
 
-- Year 12 Chem
+- Year 12 Chem 💔💔💔
 - Physics
-- Methods
-- Spec
-- Chinese
-- Lit
+- Methods 😍
+- Spec 😍
+- Chinese 
+- Lit 😍
 
 ## Henry:
 
@@ -31,9 +31,11 @@ tags:
 
 ## Chen:
 
-- Chem
-- Physics
-- Methods
-- Spec
-- Chinese
-- Lit
+- Chem 😍
+- Physics 🚰
+- Methods 🚬
+- Spec 
+- Chinese 😍
+- Lit 
+
+$$\frac{(2x)!}{x!\cdot2^{x}}\cdot \binom{26}{2x}$$

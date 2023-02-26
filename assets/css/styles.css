@@ -16,3 +16,13 @@ a {
 a:visited {
   color: #e6dec1;
 }
+
+.footnote, .reversefootnote {
+    background-color: #8DBF9B !important;
+    color: #1d201e !important;
+    padding: 0 0.5em !important;
+}
+
+.footnotes {
+  padding: 1.5em 0;
+}
