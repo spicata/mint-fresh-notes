@@ -17,4 +17,8 @@ here's the catalogue of stuff that's safe to pick from.
 - [literature journal](bookOfBooks.md)
 - [methods journal](gannonLazyLessons.md)
 - [spec journal](specialistStickmen.md)
-- feynman techniquing: [the development of atoms one](developingAtoms1.md)
+
+---
+
+- chem notebooks:
+    - [notebook one](notebook1.md)

@@ -1,8 +1,8 @@
 ---
 tags: atoms notebook1
-title: "the development of atoms one"
+title: "the development of atoms: one"
 aliases:
-- "the development of atoms one"
+- "the development of atoms: one"
 ---
 
 the people that contributed the most to the development of the atomic model are john dalton, jj thompson, ernest rutherford, niels bohr, and james chadwick.
