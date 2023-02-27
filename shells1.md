@@ -63,7 +63,19 @@ we saw calcium electron shell configuration above, but then the 21st element, sc
 
 ## sub-shell configuration
 
-much like the shell configuration, we also have sub-shell configurations.
+much like the shell configuration, we also have sub-shell configurations. we already saw what we called the sub-shells, so we'll get straight into it. it looks something like this:
+
+1s2 2s2 2p6 3s2 3p6 4s2 (calcium)
+
+we see the sub-shell (1s, 2s, 2p, 3s, 3p, 4s) at the front, and the number at the back indicates the number of electrons in that sub-shell. as another example, lithium has a sub-shell configuration of:
+
+1s2 2s1
+
+note that the number on the back should actual be superscript (like a square number).
+
+## orbitals
+
+just like how shells are made of sub-shells, sub-shells are made of orbitals. these orbitals are a probabilistic guess of where any electron may be. each orbital can only have 2 electrons in them. so the 2p sub-shell has 3 orbitals, the 3d has 5, and 4f has 7.
 
 [^1]: which can have up to 8 if you recall.
 [^2]: for now...

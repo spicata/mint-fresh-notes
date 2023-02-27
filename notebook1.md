@@ -11,3 +11,5 @@ the entirety of notebook one, my thing for fenyman techniquing a part of chemist
 - [isotopes: one](isotopes1.md)
 - note to self: please explain in simpler terms. jargon is a crutch
 - [shells: one](shells1.md)
+- [question bank one](questionBank1.md)
+- [mass spectrometry: one](massSpec1.md)
