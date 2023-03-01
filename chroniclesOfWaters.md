@@ -114,5 +114,9 @@ aliases:
 
 - SUVAT + Motion graphs
 
+---
+
+- 🫡🫡 The Fling 🫡🫡
+
 [^1]: Error and Uncertainty
 [^2]: The v here is velocity, not speed

@@ -14,3 +14,7 @@ the entirety of notebook one, my thing for fenyman techniquing a part of chemist
 - [mass spectrometry: one](massSpec1.md)
 - [absorption and emission: one](absorptionEmission1.md)
 - [question bank one](questionBank1.md)
+
+---
+
+- [absorption emission: research notes](absorptionEmissionRN.md)

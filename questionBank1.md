@@ -6,6 +6,7 @@ aliases:
 ---
 
 - relative atomic mass vs mass number?
+    - mass number is the same as the nucleon number. relative atomic mass is the actual mass of the isotope, based on a twelfth of c-12.
 
 ## [the development of atoms: one](developingAtoms1.md)
 
