@@ -17,4 +17,4 @@ the entirety of notebook one, my thing for fenyman techniquing a part of chemist
 
 ---
 
-- [absorption emission: research notes](absorptionEmissionRN.md)
+- [textbook: one](textbook1.md)
