@@ -17,6 +17,8 @@ here's the catalogue of stuff that's safe to pick from.
 - [literature journal](bookOfBooks.md)
 - [methods journal](gannonLazyLessons.md)
 - [spec journal](specialistStickmen.md)
+- physics investigation:
+    - [how to do time to acceleration](timeToAcceleration.md)
 
 ---
 
