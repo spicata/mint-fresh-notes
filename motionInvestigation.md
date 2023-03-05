@@ -35,7 +35,6 @@ Materials:
 - 1x string
 - 1x Dynamics trolley
 - 1x 1 metre ruler
-- 1x Vernier motion detector
 - 1x 2 metre long track wooden track 
 
 Method:
@@ -52,3 +51,9 @@ Method:
 10. Repeat step 9 three more times.
 12. Repeat steps 9 and 10, moving a mass from the trolley onto the mass hanger until you can move no more.
 13. Calculate the acceleration using the time measured, the distance between the two positions and the motion equations.
+
+## Evaluation
+
+The data shows a strong relationship between the external force applied onto the system and the acceleration the system. However, there are is a lot of room for improvement in our data.
+
+The data is subject to a lot of systematic error in the form of human reaction time when it comes to stopping the stopwatch, which led to inaccurate measurements. This could have been mitigated if we instead had used motion detector, such as the Vernier motion detector, then it would have been possible to mitigate the effect of human 
