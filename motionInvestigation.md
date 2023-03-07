@@ -21,7 +21,7 @@ Dependent variable: the acceleration of the system (m s^-2)
 
 Controlled variables:
 
-- the total accelerating mass (0.950kg). 
+- the total accelerating mass (0.950kg).
 - distance travelled by the system (0.69m +- 0.0005m)
 
 ## Method
@@ -56,4 +56,16 @@ Method:
 
 The data shows a strong relationship between the external force applied onto the system and the acceleration the system. However, there are is a lot of room for improvement in our data.
 
-The data is subject to a lot of systematic error in the form of human reaction time when it comes to stopping the stopwatch, which led to inaccurate measurements. This could have been mitigated if we instead had used motion detector, such as the Vernier motion detector, then it would have been possible to mitigate the effect of human 
+- human random error when stopwatch --> precision
+- human random error when letting go of trolley --> precision
+- systematic error due to friction --> accuracy
+- measurement error --> precision
+- validity all g
+- errors --> reliability
+    - could have been more tested
+- systematic error due to persecptive --> accuracy
+- friction against side of track as random error --> precision
+
+## Conclusion
+
+The hypothesis is supported by the data. The increase of external force on a system is proportional to the increase of acceleration of the system.

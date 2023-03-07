@@ -1,3 +1,10 @@
+---
+tags: 
+title: "Science Inquiry Skills"
+aliases:
+- "Science Inquiry Skills"
+---
+
 ## Reliability & Validity & Accuracy & Precision
 - **Reliability** is when you can repeat an experiment and get the same results, which can be achieved by *repetition* and *replication*.
 - **Validity** is the extent to which the tests measure what was intended, which can be achieved by using *control variables* and *control groups*.
