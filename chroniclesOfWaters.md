@@ -83,7 +83,7 @@ aliases:
 | Time | t | s | | | |
 
 
-- You can express some units as other units. For example, N(ewtons) = kgm/s/s
+- You can express some units as other units. For example, N(ewtons) = in a circle at a constant speed does not have akgm/s/s
 - Vectors are not equal to free body diagrams.
   ![[VectorvsFreeBody.png]]
 - Vectors use only vector quantities, they are resolved (draw the resultant), they need arrows, and it's usually head-to-tail.
