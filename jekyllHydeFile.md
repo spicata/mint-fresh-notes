@@ -21,3 +21,13 @@ aliases:
     - all the surpressed feelings and shtuff got saved into what we come to know as hyde
     - this being is only released through jekyll's experiment, and until then was controlled by jekyll.
     - jekyll here is the ego of sorts, but also contains superego.
+- don't worry, i made this, not chatgpt. chatgpt doesn't write this badly :-}
+- jekyll and hyde may have been influenced heavily by charles darwin's evolution theory.
+    - darwin's theory on evolution (seemingly) clashed with the idea that god made everything in its current form
+    - darwin's theory also posited that humans and animals aren't too dissimilar
+        - we both have the same ancestors
+    - this lead to a fear that, if we could evolve, one could also devolve
+    - this could be seen in hyde, who is often depicted as almost simian.
+    - different characters describe him as: monkeyish, troglodytic, primal, so on so forth.
+- hyde is often alluded to re
+    - utterson called him satan
